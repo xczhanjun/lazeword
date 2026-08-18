@@ -1982,6 +1982,19 @@ const TAB_ALIASES = {
   space: { tab: "ref", sel: "space" },
 };
 let schoolSel = "tutor";
+// 核心（基础模式默认可见）：背单词 + 复习 + 字母组词；其余进高级模式
+const CORE_TABS = new Set(["learn", "review", "game"]);
+const CORE_GAME_BTNS = new Set(["gameLetterBtn"]);
+function applyModeVisibility() {
+  const adv = settings.advancedMode;
+  document.querySelectorAll(".tab-btn").forEach(b => {
+    b.style.display = (CORE_TABS.has(b.dataset.tab) || adv) ? "" : "none";
+  });
+  ["gameSpaceBtn", "gameMemoryBtn", "gameRaceBtn", "gameMineBtn"].forEach(id => {
+    const btn = document.getElementById(id);
+    if (btn) btn.style.display = adv ? "" : "none";
+  });
+}
 function switchTab(tab) {
   const alias = TAB_ALIASES[tab];
   if (alias) {
@@ -4565,9 +4578,11 @@ function initSettings() {
   document.getElementById("setAdvancedMode").addEventListener("change", e => {
     settings.advancedMode = e.target.checked;
     saveSettings();
+    applyModeVisibility();
     refreshAll();
+    if (!settings.advancedMode && !CORE_TABS.has(activeTab)) switchTab("learn"); // 收起后回到核心页
     syncUrl();
-    toast(settings.advancedMode ? "已開啟高級模式（全詞表）" : "已切回基礎模式（核心詞表）");
+    toast(settings.advancedMode ? "已開啟高級模式（全部功能）" : "已切回基礎模式（背單詞 + 複習 + 字母組詞）");
   });
   document.getElementById("setAutoAdvance").checked = settings.autoAdvance;
   const chk = (id, key) => document.getElementById(id).addEventListener("change", e => { settings[key] = e.target.checked; saveSettings(); if (activeTab === "learn") scheduleAuto(); });
@@ -5862,6 +5877,7 @@ initGame();
 initRef();
 renderEcoRecs();
 updateDshLinks();
+applyModeVisibility();
 if (document.getElementById("appVersion")) document.getElementById("appVersion").textContent = "v" + APP_VERSION;
 refreshAll();
 restoreUI();

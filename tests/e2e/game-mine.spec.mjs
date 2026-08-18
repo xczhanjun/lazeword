@@ -5,6 +5,8 @@ test("挖雷：3×3 开局示范 → 点安全格翻词 → 踩雷答对拆掉",
   await page.goto("/?user=anna&tab=game");
   await page.evaluate(() => localStorage.clear());
   await page.reload();
+  // 挖雷在高级模式（基础模式只留字母组词）
+  await page.evaluate(() => { settings.advancedMode = true; saveSettings(); applyModeVisibility(); });
 
   await page.locator("#gameMineBtn").click();
   await expect(page.locator("#mineBoard")).toBeVisible();
