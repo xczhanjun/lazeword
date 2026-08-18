@@ -205,12 +205,11 @@
   .tutor-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
   /* Prompt 沙箱 */
   .sandbox-frame { width: 100%; height: 480px; border: 1px solid var(--line-strong); border-radius: 12px; background: #fff; margin-top: 10px; }
-  /* 阿词引导 */
+  /* 界面引导 */
   .aci-guide { position: fixed; right: 16px; bottom: 96px; max-width: 320px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 16px; box-shadow: var(--shadow-lift); padding: 12px 14px; display: flex; gap: 10px; align-items: flex-start; z-index: 90; animation: pop .25s cubic-bezier(.16,1,.3,1); font-size: 13px; line-height: 1.6; }
   .aci-guide .aci-avatar { font-size: 18px; flex: none; }
   .aci-guide .aci-text { flex: 1; }
   .aci-guide .aci-close { position: absolute; top: 6px; right: 8px; border: none; background: none; cursor: pointer; color: var(--muted); font-size: 14px; }
-  .aci-guide .aci-answer { flex-basis: 100%; margin-top: 8px; }
   @media (max-width: 640px) { .aci-guide { left: 12px; right: 12px; bottom: 76px; max-width: none; } }
   /* 导览 */
   .tour-target { outline: 3px dashed var(--accent) !important; outline-offset: 5px; border-radius: 8px; }
@@ -1079,7 +1078,7 @@
     <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setAutoPronounce"> 🔊 自動發音 <span class="dim">翻到新詞自動朗讀</span></label></div>
     <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setAutoFlip"> 🔄 自動翻面 <span class="dim">自動顯示釋義</span></label></div>
     <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setAutoAdvance"> ⏩ 自動翻頁 <span class="dim">自動進入下一詞（幻燈片模式）</span></label></div>
-    <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setGuideOn"> 💬 阿詞引導 <span class="dim">在各個界面偶爾出現的小提示（可「問問阿詞」）</span></label></div>
+    <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setGuideOn"> 💬 界面小提示 <span class="dim">在各個界面偶爾出現的小提示（離線）</span></label></div>
 
     <h3 class="settings-h">發音設置</h3>
     <div class="setting-row"><label class="setting-label"><input type="checkbox" id="setAutoReadCn"> 翻頁時加讀普通話（中文釋義／詞句）</label></div>
@@ -5220,8 +5219,8 @@ async function choreGrade(text) {
     : '<div class="dim" style="font-size:13px">（離線：老師暫時不在——但你做的事，軌跡都記得。）</div>';
 }
 
-/* ================= 阿词引导：每个界面与想不到的地方 ================= */
-// 确定性提示（离线可用）；「問問阿詞」走 /api/ai-chat mode:"good"（三级降级）。
+/* ================= 界面引导：每个界面与想不到的地方 ================= */
+// 确定性提示（离线可用，无网络依赖）。
 const GUIDE_TIPS = {
   learn: [
     "看看卡片上的詞元拆解——那就是 AI 讀這個詞的方式。",
@@ -5253,40 +5252,17 @@ function guideShow(text, opts = {}) {
   close.className = "aci-close"; close.textContent = "×";
   close.addEventListener("click", () => el.remove());
   el.appendChild(close);
-  if (opts.ask) {
-    const btn = document.createElement("button");
-    btn.className = "btn sm"; btn.textContent = "問問阿詞";
-    btn.addEventListener("click", () => aciAsk(el, text));
-    el.appendChild(btn);
-  }
   document.body.appendChild(el);
   if (!opts.stay) setTimeout(() => { const cur = document.getElementById("aciGuide"); if (cur && !cur.dataset.stay) cur.remove(); }, 10000);
-}
-function aciAsk(el, topic) {
-  el.dataset.stay = "1";
-  const old = el.querySelector(".aci-answer");
-  if (old) { old.textContent = "🤔 阿詞思考中…"; return; }
-  const out = document.createElement("div");
-  out.className = "aci-answer dim";
-  out.textContent = "🤔 阿詞思考中…";
-  el.appendChild(out);
-  fetch("/api/ai-chat", {
-    method: "POST", headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ message: `孩子看到這條引導：「${topic}」。請用兩句溫暖的話展開它（繁體中文）。`, mode: "good" }),
-  }).then(r => r.ok ? r.json() : null).catch(() => null)
-    .then(r => {
-      if (r && r.reply) out.textContent = "💬 " + r.reply;
-      else out.textContent = "💬 （離線）阿詞不在，但這條引導是真的：多學一個詞，世界就多一個錨點。";
-    });
 }
 function guideOnTab(tab) {
   const tips = GUIDE_TIPS[tab];
   if (!tips) return;
-  if (Math.random() < 0.35) guideShow(tips[(Math.random() * tips.length) | 0], { ask: true });
+  if (Math.random() < 0.35) guideShow(tips[(Math.random() * tips.length) | 0]);
 }
 function guideEvent(key) {
   const text = GUIDE_EVENTS[key];
-  if (text) guideShow(text, { ask: true, stay: true });
+  if (text) guideShow(text, { stay: true });
 }
 /* 30 秒总场景导览 */
 const TOUR_STEPS = [
