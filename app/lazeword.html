@@ -185,7 +185,8 @@
   .daily-main { flex: 1; min-width: 0; cursor: pointer; }
   .daily-main .w { font-family: var(--serif); font-size: 18px; font-weight: 600; display: inline-block; }
   .daily-main .p { color: var(--accent-ink); font-family: var(--serif); font-size: 14px; margin-left: 8px; }
-  .daily-main .m { color: var(--ink-soft); font-size: 14px; display: block; }
+  .daily-main .m { color: var(--ink-soft); font-size: 14px; display: none; }
+  .daily-item.revealed .daily-main .m { display: block; }
   .daily-actions { margin-top: 16px; text-align: center; }
 
   /* review */
@@ -730,6 +731,7 @@
         <h2>今日 10 詞 · <span id="dailyDate"></span></h2>
         <span class="daily-progress"><b id="dailyProgress">已學 0/10</b></span>
       </div>
+      <p class="dim" style="margin:0 0 12px;font-size:13px">先想想詞的意思，再點一下揭曉。</p>
       <div class="daily-list" id="dailyList"></div>
       <div class="daily-actions">
         <button class="btn primary" id="dailyQuizBtn">✍️ 今日 10 詞測驗</button>
@@ -3601,6 +3603,16 @@ function filteredWords() {
   });
 }
 function refreshFilterCount() { document.getElementById("filterCount").textContent = filteredWords().length; }
+// 选中高级专属词表（基础模式 0 词、但全量有词）时，自动开启高级模式加载该场景
+function autoLoadScene(scene) {
+  if (settings.advancedMode || scene === "all" || scene === "fav") return;
+  const has = (words) => words.some(w => w.c === scene || (w.cs && w.cs.includes(scene)));
+  if (!has(activeWords()) && has(WORDS)) {
+    settings.advancedMode = true;
+    saveSettings();
+    applyModeVisibility();
+  }
+}
 
 /* ================= Audio ================= */
 /* 优先选择高质量英文语音（macOS Samantha / Chrome Google US English / Edge Aria…），
@@ -4122,7 +4134,7 @@ function renderDaily() {
   document.getElementById("dailyProgress").textContent = allDone ? "🎉 今天搞定啦" : "已學 " + done.size + "/" + words.length;
   document.getElementById("dailyList").innerHTML = words.map(w => {
     const d = done.has(w.i);
-    return `<div class="daily-item ${d ? "done" : ""}">
+    return `<div class="daily-item ${d ? "done revealed" : ""}">
       <button class="daily-check" data-check="${w.i}" aria-label="標記已學">${d ? "✓" : ""}</button>
       <div class="daily-main" data-open="${w.i}">
         <span class="w">${escapeHtml(w.w)}</span><span class="p">${escapeHtml(w.p)}</span>
@@ -4743,7 +4755,7 @@ function initFilters() {
   (PACKS.quizTypes || []).forEach(t => { const o = document.createElement("option"); o.value = t.key; o.textContent = t.zh; document.getElementById("quizDirection").appendChild(o); });
   const favOpt = document.createElement("option"); favOpt.value = "fav"; favOpt.textContent = "⭐ 我的收藏"; sceneSel.appendChild(favOpt);
   posSel.addEventListener("change", e => { filterPos = e.target.value; refreshAll(); saveUI(); syncUrl(); });
-  sceneSel.addEventListener("change", e => { filterScene = e.target.value; refreshAll(); saveUI(); syncUrl(); });
+  sceneSel.addEventListener("change", e => { filterScene = e.target.value; autoLoadScene(filterScene); refreshAll(); saveUI(); syncUrl(); });
 }
 function userById(id) { return USERS.find(u => u.id === id) || USERS[0]; }
 function hexToRgba(hex, a) { const n = parseInt(hex.slice(1), 16); return `rgba(${(n >> 16) & 255},${(n >> 8) & 255},${n & 255},${a})`; }
@@ -4839,7 +4851,11 @@ function initAutoToggles() {
 function initDaily() {
   document.getElementById("dailyList").addEventListener("click", e => {
     const open = e.target.closest("[data-open]");
-    if (open) { openDetail(wordByIndex(parseInt(open.dataset.open, 10))); return; }
+    if (open) {
+      const item = open.closest(".daily-item");
+      if (item && !item.classList.contains("revealed")) { item.classList.add("revealed"); return; }
+      openDetail(wordByIndex(parseInt(open.dataset.open, 10))); return;
+    }
     const spk = e.target.closest("[data-speak]");
     if (spk) { speak(spk.dataset.speak, spk); return; }
     const chk = e.target.closest("[data-check]");
@@ -6419,7 +6435,7 @@ function initSettings() {
     saveSettings();
     applyModeVisibility();
     refreshAll();
-    if (!settings.advancedMode && !CORE_TABS.has(activeTab)) switchTab("learn"); // 收起后回到核心页
+    if (!settings.advancedMode && !CORE_TABS.has(activeTab)) switchTab("daily"); // 收起后回到核心页
     syncUrl();
     toast(settings.advancedMode ? "已開啟高級模式（全部功能）" : "已切回基礎模式（背單詞 + 複習 + 字母組詞）");
   });
@@ -6687,11 +6703,8 @@ function applyUrlParams() {
   if (scene && (scene === "fav" || SCENE_CATS_ALL.some(c => c.key === scene))) {
     filterScene = scene;
     document.getElementById("sceneFilter").value = scene;
-    // 链接指向高级专属词表（地理/自动驾驶/中华文化等）时自动开启高级模式
-    if (!settings.advancedMode && scene !== "fav" && !WORDS.some(w => w.b && w.c === scene) && WORDS.some(w => w.c === scene)) {
-      settings.advancedMode = true;
-      saveSettings();
-    }
+    // 链接指向高级专属词表时自动开启高级模式
+    autoLoadScene(scene);
     refreshAll();
   }
   const pos = sp.get("pos");
