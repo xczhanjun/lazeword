@@ -1,0 +1,24 @@
+[
+  { "g": "代數 Algebra", "items": [
+    { "name": "分配律", "formula": "a(b + c) = ab + ac", "note": "" },
+    { "name": "平方差", "formula": "a² − b² = (a + b)(a − b)", "note": "" },
+    { "name": "完全平方", "formula": "(a ± b)² = a² ± 2ab + b²", "note": "" },
+    { "name": "一元二次方程求根", "formula": "x = (−b ± √(b² − 4ac)) ÷ 2a", "note": "ax² + bx + c = 0" },
+    { "name": "指數律", "formula": "aᵐ × aⁿ = aᵐ⁺ⁿ ；aᵐ ÷ aⁿ = aᵐ⁻ⁿ ；(aᵐ)ⁿ = aᵐⁿ", "note": "" }
+  ]},
+  { "g": "幾何 Geometry", "items": [
+    { "name": "三角形面積", "formula": "面積 = ½ × 底 × 高", "note": "" },
+    { "name": "長方形周長", "formula": "周長 = 2 × (長 + 闊)", "note": "" },
+    { "name": "梯形面積", "formula": "面積 = ½ × (上底 + 下底) × 高", "note": "" },
+    { "name": "圓周長", "formula": "C = 2πr", "note": "" },
+    { "name": "圓面積", "formula": "A = πr²", "note": "" },
+    { "name": "勾股定理", "formula": "a² + b² = c²", "note": "直角三角形" },
+    { "name": "圓柱體積", "formula": "V = πr²h", "note": "" },
+    { "name": "圓錐體積", "formula": "V = ⅓πr²h", "note": "" },
+    { "name": "球體體積", "formula": "V = ⁴⁄₃πr³", "note": "" }
+  ]},
+  { "g": "統計與概率 Statistics & Probability", "items": [
+    { "name": "平均數", "formula": "平均數 = 總和 ÷ 個數", "note": "" },
+    { "name": "概率", "formula": "P(E) = 有利結果數 ÷ 所有可能結果數", "note": "" }
+  ]}
+]

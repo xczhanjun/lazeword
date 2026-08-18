@@ -1,0 +1,12224 @@
+[
+{
+"word": "abbreviation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡寫符號，簡寫",
+"c": "math"
+},
+{
+"word": "abscissa",
+"phonetic": "",
+"pos": "n.",
+"meaning": "橫坐標",
+"c": "math"
+},
+{
+"word": "absolute complement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對補集",
+"c": "math"
+},
+{
+"word": "absolute error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對誤差",
+"c": "math"
+},
+{
+"word": "absolute inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對不等式",
+"c": "math"
+},
+{
+"word": "absolute maximum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對極大值，最大值",
+"c": "math"
+},
+{
+"word": "absolute minimum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對極小值，最小值",
+"c": "math"
+},
+{
+"word": "absolute monotonic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對單調的",
+"c": "math"
+},
+{
+"word": "absolute value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "絕對值",
+"c": "math"
+},
+{
+"word": "acceleration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加速度",
+"c": "math"
+},
+{
+"word": "accumulation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積，累加",
+"c": "math"
+},
+{
+"word": "accumulative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積的",
+"c": "math"
+},
+{
+"word": "accuracy",
+"phonetic": "",
+"pos": "n.",
+"meaning": "準確度，精確度",
+"c": "math"
+},
+{
+"word": "acute angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "銳角",
+"c": "math"
+},
+{
+"word": "acute triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "銳角三角形",
+"c": "math"
+},
+{
+"word": "acute-angled triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "銳角三角形",
+"c": "math"
+},
+{
+"word": "add",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加",
+"c": "math"
+},
+{
+"word": "addition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法",
+"c": "math"
+},
+{
+"word": "addition formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法公式",
+"c": "math"
+},
+{
+"word": "addition law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法定律",
+"c": "math"
+},
+{
+"word": "addition rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法法則",
+"c": "math"
+},
+{
+"word": "addition with carry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "進位加法",
+"c": "math"
+},
+{
+"word": "additive inverse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法逆元，加法反元（素）",
+"c": "math"
+},
+{
+"word": "adjacent angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鄰角",
+"c": "math"
+},
+{
+"word": "adjacent side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鄰邊",
+"c": "math"
+},
+{
+"word": "adjoint matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "伴隨矩陣",
+"c": "math"
+},
+{
+"word": "algebra",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數（學）",
+"c": "math"
+},
+{
+"word": "algebraic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數的",
+"c": "math"
+},
+{
+"word": "algebraic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數方程（式）",
+"c": "math"
+},
+{
+"word": "algebraic expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數式",
+"c": "math"
+},
+{
+"word": "algebraic fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數分式，代數分數（式）",
+"c": "math"
+},
+{
+"word": "algebraic inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數不等式",
+"c": "math"
+},
+{
+"word": "algebraic number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數數",
+"c": "math"
+},
+{
+"word": "algebraic operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數運算",
+"c": "math"
+},
+{
+"word": "algebraic symbol",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數符號",
+"c": "math"
+},
+{
+"word": "alternate exterior angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外錯角",
+"c": "math"
+},
+{
+"word": "alternate interior angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內錯角",
+"c": "math"
+},
+{
+"word": "alternate segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內錯弓形，交錯弓形",
+"c": "math"
+},
+{
+"word": "alternating series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交錯級數",
+"c": "math"
+},
+{
+"word": "alternative hypothesis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "備擇假設，擇一假設",
+"c": "math"
+},
+{
+"word": "altitude",
+"phonetic": "",
+"pos": "n.",
+"meaning": "高 ( 線 )，高度，頂垂線",
+"c": "math"
+},
+{
+"word": "amplitude",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幅度；振幅；幅角",
+"c": "math"
+},
+{
+"word": "analysis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分析，解析",
+"c": "math"
+},
+{
+"word": "analytic geometry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "解析幾何（學）",
+"c": "math"
+},
+{
+"word": "angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角",
+"c": "math"
+},
+{
+"word": "angle at the centre",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓心角",
+"c": "math"
+},
+{
+"word": "angle at the circumference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓周角",
+"c": "math"
+},
+{
+"word": "angle between a line and a plane",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線與平面的（相）交角",
+"c": "math"
+},
+{
+"word": "angle between two planes",
+"phonetic": "",
+"pos": "n.",
+"meaning": "兩平面的（相）交角",
+"c": "math"
+},
+{
+"word": "angle bisection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角平分",
+"c": "math"
+},
+{
+"word": "angle bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角平分線，分角線",
+"c": "math"
+},
+{
+"word": "angle of depression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "俯角",
+"c": "math"
+},
+{
+"word": "angle of elevation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "仰角",
+"c": "math"
+},
+{
+"word": "angle of greatest slope",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最大斜率的角",
+"c": "math"
+},
+{
+"word": "angle of inclination",
+"phonetic": "",
+"pos": "n.",
+"meaning": "傾角，（傾）斜角",
+"c": "math"
+},
+{
+"word": "angle of intersection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相交角，交角",
+"c": "math"
+},
+{
+"word": "angle of projection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "投射角",
+"c": "math"
+},
+{
+"word": "angle of rotation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉角",
+"c": "math"
+},
+{
+"word": "angle sum of a triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角形內角和",
+"c": "math"
+},
+{
+"word": "angles at a point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同頂角",
+"c": "math"
+},
+{
+"word": "angles inthe alternate segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內錯弓形的圓周角，交錯弓形的圓周角",
+"c": "math"
+},
+{
+"word": "angles inthe same segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同弓形的圓周角",
+"c": "math"
+},
+{
+"word": "angular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角度的，角的",
+"c": "math"
+},
+{
+"word": "angular bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角平分線，分角線",
+"c": "math"
+},
+{
+"word": "anticlockwise direction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆（反）時針方向",
+"c": "math"
+},
+{
+"word": "anti-cosecant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘割",
+"c": "math"
+},
+{
+"word": "anti-cosine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘弦",
+"c": "math"
+},
+{
+"word": "anti-cotangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘切",
+"c": "math"
+},
+{
+"word": "antiderivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反導數，逆導數，原函數",
+"c": "math"
+},
+{
+"word": "antilogarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反對數，逆對數，真數",
+"c": "math"
+},
+{
+"word": "anti-secant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正割",
+"c": "math"
+},
+{
+"word": "anti-sine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正弦",
+"c": "math"
+},
+{
+"word": "anti-symmetric",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反對稱的",
+"c": "math"
+},
+{
+"word": "anti-tangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正切",
+"c": "math"
+},
+{
+"word": "apex",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頂點",
+"c": "math"
+},
+{
+"word": "approach",
+"phonetic": "",
+"pos": "n.",
+"meaning": "接近，趨近",
+"c": "math"
+},
+{
+"word": "approximate value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "近似值",
+"c": "math"
+},
+{
+"word": "approximation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "近似，略計，逼近",
+"c": "math"
+},
+{
+"word": "Arabic numeral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "阿拉伯數字，阿拉伯數碼",
+"c": "math"
+},
+{
+"word": "Arabic system of notation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "阿拉伯記數法，阿拉伯記數制，阿拉伯數字系統",
+"c": "math"
+},
+{
+"word": "arbitrary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "任意的",
+"c": "math"
+},
+{
+"word": "arbitrary constant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "任意常數",
+"c": "math"
+},
+{
+"word": "arc",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弧",
+"c": "math"
+},
+{
+"word": "arc cosecant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘割",
+"c": "math"
+},
+{
+"word": "arc cosine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘弦",
+"c": "math"
+},
+{
+"word": "arc cotangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘切",
+"c": "math"
+},
+{
+"word": "arc length",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弧長",
+"c": "math"
+},
+{
+"word": "arc secant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正割",
+"c": "math"
+},
+{
+"word": "arc sine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正弦",
+"c": "math"
+},
+{
+"word": "arc tangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正切",
+"c": "math"
+},
+{
+"word": "Archimedean Solid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "阿基米德（立）體",
+"c": "math"
+},
+{
+"word": "area",
+"phonetic": "",
+"pos": "n.",
+"meaning": "面積",
+"c": "math"
+},
+{
+"word": "Argand diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "阿根圖，阿氏圖",
+"c": "math"
+},
+{
+"word": "argument of a complex number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複數的輻角",
+"c": "math"
+},
+{
+"word": "arithmetic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "算術（的）",
+"c": "math"
+},
+{
+"word": "arithmetic sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等差數列，算術數列",
+"c": "math"
+},
+{
+"word": "arithmetic series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等差級數，算術級數",
+"c": "math"
+},
+{
+"word": "array",
+"phonetic": "",
+"pos": "n.",
+"meaning": "陣列，數組",
+"c": "math"
+},
+{
+"word": "ascending order",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞升序，順序",
+"c": "math"
+},
+{
+"word": "ascending power",
+"phonetic": "",
+"pos": "n.",
+"meaning": "升冪",
+"c": "math"
+},
+{
+"word": "assertion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斷定，結論",
+"c": "math"
+},
+{
+"word": "associative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結合的，具結合性的",
+"c": "math"
+},
+{
+"word": "associative law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結合律",
+"c": "math"
+},
+{
+"word": "associative property",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結合性質（律）",
+"c": "math"
+},
+{
+"word": "associative property of addition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法結合性質（律）",
+"c": "math"
+},
+{
+"word": "associative property of multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法結合性質（律）",
+"c": "math"
+},
+{
+"word": "assumption",
+"phonetic": "",
+"pos": "n.",
+"meaning": "假定，假設",
+"c": "math"
+},
+{
+"word": "asymmetric",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非對稱（的）",
+"c": "math"
+},
+{
+"word": "asymptote",
+"phonetic": "",
+"pos": "n.",
+"meaning": "漸近線",
+"c": "math"
+},
+{
+"word": "asymptotic error constant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "漸近誤差常數",
+"c": "math"
+},
+{
+"word": "augmented matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "增廣矩陣",
+"c": "math"
+},
+{
+"word": "auxiliary angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輔助角",
+"c": "math"
+},
+{
+"word": "auxiliary circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輔助圓",
+"c": "math"
+},
+{
+"word": "auxiliary equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輔助方程（式）",
+"c": "math"
+},
+{
+"word": "average",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平均（數），平均值",
+"c": "math"
+},
+{
+"word": "average speed",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平均速率",
+"c": "math"
+},
+{
+"word": "axial symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軸對稱",
+"c": "math"
+},
+{
+"word": "axiom",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公理，公設",
+"c": "math"
+},
+{
+"word": "axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軸",
+"c": "math"
+},
+{
+"word": "axis of revolution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉軸",
+"c": "math"
+},
+{
+"word": "axis of rotation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉軸",
+"c": "math"
+},
+{
+"word": "axis of rotational symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉對稱軸",
+"c": "math"
+},
+{
+"word": "axis of symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱軸",
+"c": "math"
+},
+{
+"word": "back substitution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "回代，後置法",
+"c": "math"
+},
+{
+"word": "back-to-back stem-and-leaf diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "背靠背幹葉圖，背靠背莖葉圖",
+"c": "math"
+},
+{
+"word": "bar chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "棒形圖，長條圖",
+"c": "math"
+},
+{
+"word": "base",
+"phonetic": "",
+"pos": "n.",
+"meaning": "底（邊）； ；基（數）；基底",
+"c": "math"
+},
+{
+"word": "base angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "底角",
+"c": "math"
+},
+{
+"word": "base area",
+"phonetic": "",
+"pos": "n.",
+"meaning": "底面積",
+"c": "math"
+},
+{
+"word": "base line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "底線",
+"c": "math"
+},
+{
+"word": "base number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "底數，基數",
+"c": "math"
+},
+{
+"word": "base of a logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數的底",
+"c": "math"
+},
+{
+"word": "basis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基，基底",
+"c": "math"
+},
+{
+"word": "bearing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方位，方向，方位角",
+"c": "math"
+},
+{
+"word": "bell-shaped curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鐘形曲線",
+"c": "math"
+},
+{
+"word": "Bernoulli distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "伯努利分佈",
+"c": "math"
+},
+{
+"word": "Bernoulli trials",
+"phonetic": "",
+"pos": "n.",
+"meaning": "伯努利試驗",
+"c": "math"
+},
+{
+"word": "Bernoulli variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "伯努利變量，伯努利變數",
+"c": "math"
+},
+{
+"word": "bias",
+"phonetic": "",
+"pos": "n.",
+"meaning": "偏差，偏誤，偏倚",
+"c": "math"
+},
+{
+"word": "biconditional",
+"phonetic": "",
+"pos": "n.",
+"meaning": "雙條件式，雙條件句，雙條件的",
+"c": "math"
+},
+{
+"word": "bimodal distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "雙峰分佈",
+"c": "math"
+},
+{
+"word": "binary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二進（位）數，二進制數",
+"c": "math"
+},
+{
+"word": "binary number system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二進位數制，二進（制）數系統",
+"c": "math"
+},
+{
+"word": "binary operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二元運算",
+"c": "math"
+},
+{
+"word": "binomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項式",
+"c": "math"
+},
+{
+"word": "binomial distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項分佈",
+"c": "math"
+},
+{
+"word": "binomial expansion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項展式，二項展開式",
+"c": "math"
+},
+{
+"word": "binomial expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項式",
+"c": "math"
+},
+{
+"word": "binomial series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項級數",
+"c": "math"
+},
+{
+"word": "binomial theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項式定理",
+"c": "math"
+},
+{
+"word": "binomial variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二項變量，二項變數",
+"c": "math"
+},
+{
+"word": "bisect",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平分，等分",
+"c": "math"
+},
+{
+"word": "bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等分線，平分線",
+"c": "math"
+},
+{
+"word": "block chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方塊圖",
+"c": "math"
+},
+{
+"word": "block graph",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方塊圖",
+"c": "math"
+},
+{
+"word": "Boolean algebra",
+"phonetic": "",
+"pos": "n.",
+"meaning": "布爾代數",
+"c": "math"
+},
+{
+"word": "boundary condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "邊界條件",
+"c": "math"
+},
+{
+"word": "boundary line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "界（線），邊界",
+"c": "math"
+},
+{
+"word": "bounded",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有界（的）",
+"c": "math"
+},
+{
+"word": "bounded above",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有上界（的），上有界（的）",
+"c": "math"
+},
+{
+"word": "bounded below",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有下界（的），下有界（的）",
+"c": "math"
+},
+{
+"word": "bounded function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有界函數",
+"c": "math"
+},
+{
+"word": "bounded sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有界數列，有界序列",
+"c": "math"
+},
+{
+"word": "box plot",
+"phonetic": "",
+"pos": "n.",
+"meaning": "框線圖，箱形圖",
+"c": "math"
+},
+{
+"word": "box-and-whisker diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "框線圖，箱形圖",
+"c": "math"
+},
+{
+"word": "brace",
+"phonetic": "",
+"pos": "n.",
+"meaning": "大括號，波形括號，花括號",
+"c": "math"
+},
+{
+"word": "breadth",
+"phonetic": "",
+"pos": "n.",
+"meaning": "闊（度），寬（度）",
+"c": "math"
+},
+{
+"word": "broken line graph",
+"phonetic": "",
+"pos": "n.",
+"meaning": "折線圖",
+"c": "math"
+},
+{
+"word": "calculate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "計算",
+"c": "math"
+},
+{
+"word": "calculator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "計算機，計算器",
+"c": "math"
+},
+{
+"word": "calculus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微積分（學）",
+"c": "math"
+},
+{
+"word": "cancellation law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "消去律",
+"c": "math"
+},
+{
+"word": "canonical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "典型，正準，標準",
+"c": "math"
+},
+{
+"word": "capacity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "容量",
+"c": "math"
+},
+{
+"word": "cardinal number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基數",
+"c": "math"
+},
+{
+"word": "carry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "進位",
+"c": "math"
+},
+{
+"word": "Cartesian coordinate system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛卡兒坐標系",
+"c": "math"
+},
+{
+"word": "Cartesian coordinates",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛卡兒坐標",
+"c": "math"
+},
+{
+"word": "Cartesian equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛卡兒方程（式）",
+"c": "math"
+},
+{
+"word": "Cartesian product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛卡兒積",
+"c": "math"
+},
+{
+"word": "categorical data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分類數據",
+"c": "math"
+},
+{
+"word": "category",
+"phonetic": "",
+"pos": "n.",
+"meaning": "類型，範疇",
+"c": "math"
+},
+{
+"word": "catenary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "懸鏈線",
+"c": "math"
+},
+{
+"word": "Cauchy principal value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柯西主值",
+"c": "math"
+},
+{
+"word": "Cauchy sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柯西數列，柯西序列",
+"c": "math"
+},
+{
+"word": "Cauchy-Schwarz inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柯西-施瓦茨不等式",
+"c": "math"
+},
+{
+"word": "ceiling function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上取整函數",
+"c": "math"
+},
+{
+"word": "centimetre (cm)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "厘米，公分",
+"c": "math"
+},
+{
+"word": "centimetre ruler",
+"phonetic": "",
+"pos": "n.",
+"meaning": "厘米尺",
+"c": "math"
+},
+{
+"word": "central limit theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中心極限定理，中央極限定理",
+"c": "math"
+},
+{
+"word": "central line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中線",
+"c": "math"
+},
+{
+"word": "central tendency",
+"phonetic": "",
+"pos": "n.",
+"meaning": "集中趨勢",
+"c": "math"
+},
+{
+"word": "centre",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中心，心",
+"c": "math"
+},
+{
+"word": "centre of a circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓心",
+"c": "math"
+},
+{
+"word": "centre of gravity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "重心",
+"c": "math"
+},
+{
+"word": "centre of mass",
+"phonetic": "",
+"pos": "n.",
+"meaning": "質量中心",
+"c": "math"
+},
+{
+"word": "centre of rotation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉中心",
+"c": "math"
+},
+{
+"word": "centroid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "形心",
+"c": "math"
+},
+{
+"word": "certain event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "必然事件",
+"c": "math"
+},
+{
+"word": "Ceva's Theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "塞瓦定理",
+"c": "math"
+},
+{
+"word": "chain rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鏈式法則， 連鎖律，連鎖規則",
+"c": "math"
+},
+{
+"word": "change of axes",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標軸的變換",
+"c": "math"
+},
+{
+"word": "change of base",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基變換",
+"c": "math"
+},
+{
+"word": "change of subject",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主項變換",
+"c": "math"
+},
+{
+"word": "change of variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變量變換，換元",
+"c": "math"
+},
+{
+"word": "characteristic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵方程（式）",
+"c": "math"
+},
+{
+"word": "characteristic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵函數",
+"c": "math"
+},
+{
+"word": "characteristic of logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數的首數，對數的定位部",
+"c": "math"
+},
+{
+"word": "characteristic polynomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵多項式",
+"c": "math"
+},
+{
+"word": "characteristic root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵根",
+"c": "math"
+},
+{
+"word": "chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖，圖表",
+"c": "math"
+},
+{
+"word": "check",
+"phonetic": "",
+"pos": "n.",
+"meaning": "驗算",
+"c": "math"
+},
+{
+"word": "check digit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "檢驗數位",
+"c": "math"
+},
+{
+"word": "checking computations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "驗算",
+"c": "math"
+},
+{
+"word": "Chinese numerals",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中國數字，中文數字",
+"c": "math"
+},
+{
+"word": "chord",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弦",
+"c": "math"
+},
+{
+"word": "chord at contact",
+"phonetic": "",
+"pos": "n.",
+"meaning": "切點弦",
+"c": "math"
+},
+{
+"word": "circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓",
+"c": "math"
+},
+{
+"word": "circular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓（形）的",
+"c": "math"
+},
+{
+"word": "circular argument",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環論證",
+"c": "math"
+},
+{
+"word": "circular cone",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓錐（體）",
+"c": "math"
+},
+{
+"word": "circular cylinder",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓柱（體）",
+"c": "math"
+},
+{
+"word": "circular function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓函數，三角函數",
+"c": "math"
+},
+{
+"word": "circular measure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弧度法",
+"c": "math"
+},
+{
+"word": "circular permutation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "環形排列，圓形排列，循環排列",
+"c": "math"
+},
+{
+"word": "circulating decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環小數",
+"c": "math"
+},
+{
+"word": "circumcentre",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外心，外接圓心",
+"c": "math"
+},
+{
+"word": "circumcircle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外接圓",
+"c": "math"
+},
+{
+"word": "circumference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓周",
+"c": "math"
+},
+{
+"word": "circumradius",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外接圓半徑",
+"c": "math"
+},
+{
+"word": "circumscribed circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外接圓",
+"c": "math"
+},
+{
+"word": "class boundary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組界",
+"c": "math"
+},
+{
+"word": "class interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組區間，組距",
+"c": "math"
+},
+{
+"word": "class limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組限",
+"c": "math"
+},
+{
+"word": "class mark",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組中點，組標",
+"c": "math"
+},
+{
+"word": "class width",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組距",
+"c": "math"
+},
+{
+"word": "classical theory of probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "古典概率論",
+"c": "math"
+},
+{
+"word": "clinometer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "測斜儀",
+"c": "math"
+},
+{
+"word": "clockwise direction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "順時針方向",
+"c": "math"
+},
+{
+"word": "closed convex region",
+"phonetic": "",
+"pos": "n.",
+"meaning": "閉凸區域",
+"c": "math"
+},
+{
+"word": "closed interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "閉區間",
+"c": "math"
+},
+{
+"word": "closed plane figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "閉合圖形",
+"c": "math"
+},
+{
+"word": "closed sentence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "閉（合）（語）句，封閉語句",
+"c": "math"
+},
+{
+"word": "coaxial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軸的",
+"c": "math"
+},
+{
+"word": "coaxial circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軸圓",
+"c": "math"
+},
+{
+"word": "coaxial system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軸系",
+"c": "math"
+},
+{
+"word": "coding",
+"phonetic": "",
+"pos": "n.",
+"meaning": "編碼",
+"c": "math"
+},
+{
+"word": "co-domain",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上域",
+"c": "math"
+},
+{
+"word": "coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "係數",
+"c": "math"
+},
+{
+"word": "coefficient matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "係數矩陣",
+"c": "math"
+},
+{
+"word": "coefficient of variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變異係數，變差係數",
+"c": "math"
+},
+{
+"word": "cofactor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘因子，餘因式",
+"c": "math"
+},
+{
+"word": "cofactor matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘因子矩陣，餘因式矩陣",
+"c": "math"
+},
+{
+"word": "coincide",
+"phonetic": "",
+"pos": "n.",
+"meaning": "疊合，重合",
+"c": "math"
+},
+{
+"word": "collection of terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "併項",
+"c": "math"
+},
+{
+"word": "collinear",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共線",
+"c": "math"
+},
+{
+"word": "collinear planes",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共線面",
+"c": "math"
+},
+{
+"word": "column",
+"phonetic": "",
+"pos": "n.",
+"meaning": "列",
+"c": "math"
+},
+{
+"word": "column form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直式",
+"c": "math"
+},
+{
+"word": "column matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "列矩陣",
+"c": "math"
+},
+{
+"word": "column vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "列向量，列矢量",
+"c": "math"
+},
+{
+"word": "combination",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組合",
+"c": "math"
+},
+{
+"word": "common chord",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公弦",
+"c": "math"
+},
+{
+"word": "common denominator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同分母，公分母",
+"c": "math"
+},
+{
+"word": "common difference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公差",
+"c": "math"
+},
+{
+"word": "common divisor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公約數",
+"c": "math"
+},
+{
+"word": "common factor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公因數，公因子，公因式",
+"c": "math"
+},
+{
+"word": "common logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "常用對數",
+"c": "math"
+},
+{
+"word": "common multiple",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公倍數，公倍式",
+"c": "math"
+},
+{
+"word": "common ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公比",
+"c": "math"
+},
+{
+"word": "common tangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公切線",
+"c": "math"
+},
+{
+"word": "common year",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平年",
+"c": "math"
+},
+{
+"word": "commutative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交換的，具交換性的",
+"c": "math"
+},
+{
+"word": "commutative law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交換律",
+"c": "math"
+},
+{
+"word": "commutative property",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交換性質",
+"c": "math"
+},
+{
+"word": "commutative property of addition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加法交換性質",
+"c": "math"
+},
+{
+"word": "commutative property of multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法交換性質",
+"c": "math"
+},
+{
+"word": "comparable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可比較（的）",
+"c": "math"
+},
+{
+"word": "compare",
+"phonetic": "",
+"pos": "n.",
+"meaning": "比較",
+"c": "math"
+},
+{
+"word": "compasses",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓規",
+"c": "math"
+},
+{
+"word": "compatible",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相容（的）",
+"c": "math"
+},
+{
+"word": "complementary angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘角",
+"c": "math"
+},
+{
+"word": "complementary equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "補餘方程（式）",
+"c": "math"
+},
+{
+"word": "complementary event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互補事件，對立事件，餘事件",
+"c": "math"
+},
+{
+"word": "complementary function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘函數",
+"c": "math"
+},
+{
+"word": "complementary law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互餘律，互補律，補餘律",
+"c": "math"
+},
+{
+"word": "complementary set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘集（合），補集",
+"c": "math"
+},
+{
+"word": "completing the square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "配方（法）",
+"c": "math"
+},
+{
+"word": "complex conjugate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛複數",
+"c": "math"
+},
+{
+"word": "complex fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "繁分數，繁分式",
+"c": "math"
+},
+{
+"word": "complex number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複數",
+"c": "math"
+},
+{
+"word": "complex number plane",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複數平面",
+"c": "math"
+},
+{
+"word": "complex root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複數根",
+"c": "math"
+},
+{
+"word": "component",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分量",
+"c": "math"
+},
+{
+"word": "composite function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複合函數，合成函數",
+"c": "math"
+},
+{
+"word": "composite mapping",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複合映射，合成映射",
+"c": "math"
+},
+{
+"word": "composition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "合成",
+"c": "math"
+},
+{
+"word": "composition of functions",
+"phonetic": "",
+"pos": "n.",
+"meaning": "函數的複合，函數的合成",
+"c": "math"
+},
+{
+"word": "composition of mappings",
+"phonetic": "",
+"pos": "n.",
+"meaning": "映射的複合，映射的合成",
+"c": "math"
+},
+{
+"word": "compound angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複角",
+"c": "math"
+},
+{
+"word": "compound angle formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複角公式",
+"c": "math"
+},
+{
+"word": "compound bar chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複合棒形圖",
+"c": "math"
+},
+{
+"word": "compound statement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "複合命題，複合叙述，複合語句",
+"c": "math"
+},
+{
+"word": "computation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "計算",
+"c": "math"
+},
+{
+"word": "computer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "電腦，電子計算機",
+"c": "math"
+},
+{
+"word": "concave",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凹",
+"c": "math"
+},
+{
+"word": "concave downward",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凹向下的，凹口向下",
+"c": "math"
+},
+{
+"word": "concave upward",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凹向上的，凹口向上",
+"c": "math"
+},
+{
+"word": "concavity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凹性",
+"c": "math"
+},
+{
+"word": "concentric circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同心圓",
+"c": "math"
+},
+{
+"word": "concept",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概念",
+"c": "math"
+},
+{
+"word": "conclusion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結論",
+"c": "math"
+},
+{
+"word": "concurrent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共點（的）",
+"c": "math"
+},
+{
+"word": "concyclic points",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共圓點",
+"c": "math"
+},
+{
+"word": "condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "條件",
+"c": "math"
+},
+{
+"word": "conditional",
+"phonetic": "",
+"pos": "n.",
+"meaning": "條件式，（有）條件的",
+"c": "math"
+},
+{
+"word": "conditional identity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "條件恆等式",
+"c": "math"
+},
+{
+"word": "conditional inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "條件不等式",
+"c": "math"
+},
+{
+"word": "conditional probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "條件概率",
+"c": "math"
+},
+{
+"word": "cone",
+"phonetic": "",
+"pos": "n.",
+"meaning": "錐（體），錐（面），圓錐（體）",
+"c": "math"
+},
+{
+"word": "confidence coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "置信係數，信賴係數",
+"c": "math"
+},
+{
+"word": "confidence interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "置信區間，信賴區間",
+"c": "math"
+},
+{
+"word": "confidence level",
+"phonetic": "",
+"pos": "n.",
+"meaning": "置信水平，信賴水平，信心水準",
+"c": "math"
+},
+{
+"word": "confidence limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "置信界限，信賴界限",
+"c": "math"
+},
+{
+"word": "congruence class",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同餘類",
+"c": "math"
+},
+{
+"word": "congruent triangles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全等三角形",
+"c": "math"
+},
+{
+"word": "conic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次曲線，圓錐曲線，錐線",
+"c": "math"
+},
+{
+"word": "conic section",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次曲線，圓錐截痕，圓錐曲線，圓錐截線",
+"c": "math"
+},
+{
+"word": "conjecture",
+"phonetic": "",
+"pos": "n.",
+"meaning": "猜想",
+"c": "math"
+},
+{
+"word": "conjugate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛",
+"c": "math"
+},
+{
+"word": "conjugate axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛軸",
+"c": "math"
+},
+{
+"word": "conjugate complex number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛複數",
+"c": "math"
+},
+{
+"word": "conjugate diameter",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛（直）徑",
+"c": "math"
+},
+{
+"word": "conjugate hyperbola",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛雙曲線",
+"c": "math"
+},
+{
+"word": "conjugate imaginary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛虛數",
+"c": "math"
+},
+{
+"word": "conjugate radical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛根式",
+"c": "math"
+},
+{
+"word": "conjugate surd",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共軛根式，共軛不盡根",
+"c": "math"
+},
+{
+"word": "conjunction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "合取",
+"c": "math"
+},
+{
+"word": "connective",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連（結）詞",
+"c": "math"
+},
+{
+"word": "consecutive integers",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續整數",
+"c": "math"
+},
+{
+"word": "consecutive numbers",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續數，相鄰數",
+"c": "math"
+},
+{
+"word": "consequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結論，推論",
+"c": "math"
+},
+{
+"word": "consequent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "後項",
+"c": "math"
+},
+{
+"word": "consistency condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相容條件",
+"c": "math"
+},
+{
+"word": "consistent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相容（的），一致（的），一貫（的）",
+"c": "math"
+},
+{
+"word": "consistent estimator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相容估計量",
+"c": "math"
+},
+{
+"word": "constant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "常數",
+"c": "math"
+},
+{
+"word": "constant function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "常數函數，常值函數",
+"c": "math"
+},
+{
+"word": "constant of integration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分常數",
+"c": "math"
+},
+{
+"word": "constraint",
+"phonetic": "",
+"pos": "n.",
+"meaning": "約束，約束條件",
+"c": "math"
+},
+{
+"word": "construction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "作圖",
+"c": "math"
+},
+{
+"word": "continued proportion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連比例",
+"c": "math"
+},
+{
+"word": "continued ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連比",
+"c": "math"
+},
+{
+"word": "continuity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續性",
+"c": "math"
+},
+{
+"word": "continuity correction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續校正",
+"c": "math"
+},
+{
+"word": "continuous",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續（的）",
+"c": "math"
+},
+{
+"word": "continuous data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續數據",
+"c": "math"
+},
+{
+"word": "continuous function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續函數",
+"c": "math"
+},
+{
+"word": "continuous random variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "連續隨機變量，連續隨機變數",
+"c": "math"
+},
+{
+"word": "contraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收縮，短縮，縮小",
+"c": "math"
+},
+{
+"word": "contradiction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矛盾",
+"c": "math"
+},
+{
+"word": "contrapositive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆否命題",
+"c": "math"
+},
+{
+"word": "converge",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂",
+"c": "math"
+},
+{
+"word": "convergence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂（性）",
+"c": "math"
+},
+{
+"word": "convergent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂的",
+"c": "math"
+},
+{
+"word": "convergent iteration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂迭代",
+"c": "math"
+},
+{
+"word": "convergent sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂數列，收斂序列",
+"c": "math"
+},
+{
+"word": "convergent series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "收斂級數",
+"c": "math"
+},
+{
+"word": "converse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆（定理），逆命題",
+"c": "math"
+},
+{
+"word": "converse of a relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆關係",
+"c": "math"
+},
+{
+"word": "converse theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆定理",
+"c": "math"
+},
+{
+"word": "conversion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "轉換",
+"c": "math"
+},
+{
+"word": "convex",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凸",
+"c": "math"
+},
+{
+"word": "convex polygon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凸多邊形",
+"c": "math"
+},
+{
+"word": "convex quadrilateral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凸四邊形",
+"c": "math"
+},
+{
+"word": "convexity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "凸性",
+"c": "math"
+},
+{
+"word": "coordinate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標",
+"c": "math"
+},
+{
+"word": "coordinate geometry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標幾何，解析幾何",
+"c": "math"
+},
+{
+"word": "coordinate system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標系",
+"c": "math"
+},
+{
+"word": "coplanar",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共面（的）",
+"c": "math"
+},
+{
+"word": "coplanar lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "共面線",
+"c": "math"
+},
+{
+"word": "co-prime",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互質，互素",
+"c": "math"
+},
+{
+"word": "corollary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "系定理，系，推論",
+"c": "math"
+},
+{
+"word": "correct to",
+"phonetic": "",
+"pos": "n.",
+"meaning": "準確至，取值至，精確到",
+"c": "math"
+},
+{
+"word": "correlation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相關",
+"c": "math"
+},
+{
+"word": "correlation coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相關係數",
+"c": "math"
+},
+{
+"word": "corresponding element",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對應元",
+"c": "math"
+},
+{
+"word": "corresponding side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對應邊",
+"c": "math"
+},
+{
+"word": "cosecant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘割",
+"c": "math"
+},
+{
+"word": "cosine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘弦",
+"c": "math"
+},
+{
+"word": "cosine formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘弦公式",
+"c": "math"
+},
+{
+"word": "cotangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘切",
+"c": "math"
+},
+{
+"word": "countable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可數（的）",
+"c": "math"
+},
+{
+"word": "countable set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可數集",
+"c": "math"
+},
+{
+"word": "countably infinite",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可數無限，可數無窮",
+"c": "math"
+},
+{
+"word": "counter clockwise direction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆時針方向，反時針方向",
+"c": "math"
+},
+{
+"word": "counter example",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反例",
+"c": "math"
+},
+{
+"word": "counting",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數數，計數",
+"c": "math"
+},
+{
+"word": "counting backwards",
+"phonetic": "",
+"pos": "n.",
+"meaning": "倒數",
+"c": "math"
+},
+{
+"word": "counting onwards",
+"phonetic": "",
+"pos": "n.",
+"meaning": "順數",
+"c": "math"
+},
+{
+"word": "critical point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "臨界點",
+"c": "math"
+},
+{
+"word": "critical region",
+"phonetic": "",
+"pos": "n.",
+"meaning": "臨界域",
+"c": "math"
+},
+{
+"word": "critical value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "臨界值",
+"c": "math"
+},
+{
+"word": "cross product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量積，叉積，矢量積，外積",
+"c": "math"
+},
+{
+"word": "cross-method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十字相乘法",
+"c": "math"
+},
+{
+"word": "cross-multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交叉相乘，叉乘法",
+"c": "math"
+},
+{
+"word": "cryptography",
+"phonetic": "",
+"pos": "n.",
+"meaning": "密碼學",
+"c": "math"
+},
+{
+"word": "cube",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正（立）方體，立方（體）",
+"c": "math"
+},
+{
+"word": "cube root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "立方根",
+"c": "math"
+},
+{
+"word": "cubic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三次方，立方，三次（的）",
+"c": "math"
+},
+{
+"word": "cubic centimetre (cm3)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "立方厘米，立方公分",
+"c": "math"
+},
+{
+"word": "cubic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三次方程（式）",
+"c": "math"
+},
+{
+"word": "cubic metre (m3)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "立方米，立方公尺",
+"c": "math"
+},
+{
+"word": "cubic roots of unity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位的立方根",
+"c": "math"
+},
+{
+"word": "cuboid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長方體，矩體",
+"c": "math"
+},
+{
+"word": "cumulative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積的",
+"c": "math"
+},
+{
+"word": "cumulative distribution function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積分佈函數",
+"c": "math"
+},
+{
+"word": "cumulative error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積誤差",
+"c": "math"
+},
+{
+"word": "cumulative frequency",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積頻數，累積頻率",
+"c": "math"
+},
+{
+"word": "cumulative frequency curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積頻數曲線，累積頻率曲線",
+"c": "math"
+},
+{
+"word": "cumulative frequency distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積頻數分佈，累積頻率分佈",
+"c": "math"
+},
+{
+"word": "cumulative frequency polygon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積頻數多邊形，累積頻率多邊形，累積頻數折線圖，累積頻率折線圖",
+"c": "math"
+},
+{
+"word": "cumulative frequency table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "累積頻數表，累積頻率表",
+"c": "math"
+},
+{
+"word": "curly bracket",
+"phonetic": "",
+"pos": "n.",
+"meaning": "波形括號，大括號，花括號",
+"c": "math"
+},
+{
+"word": "curvature of a curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲線的曲率",
+"c": "math"
+},
+{
+"word": "curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲線",
+"c": "math"
+},
+{
+"word": "curve sketching",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲線描繪（法）",
+"c": "math"
+},
+{
+"word": "curve stitching",
+"phonetic": "",
+"pos": "n.",
+"meaning": "繡曲線",
+"c": "math"
+},
+{
+"word": "curve tracing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲線畫法；曲線軌跡法",
+"c": "math"
+},
+{
+"word": "curved surface",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲面",
+"c": "math"
+},
+{
+"word": "curved surface area",
+"phonetic": "",
+"pos": "n.",
+"meaning": "曲面面積",
+"c": "math"
+},
+{
+"word": "cyclic expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環式",
+"c": "math"
+},
+{
+"word": "cyclic permutation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓形排列，循環排列",
+"c": "math"
+},
+{
+"word": "cyclic quadrilateral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓內接四邊形",
+"c": "math"
+},
+{
+"word": "cycloid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋輪線，擺線",
+"c": "math"
+},
+{
+"word": "cylinder",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柱（體），圓柱（體），柱面 ，圓筒",
+"c": "math"
+},
+{
+"word": "cylindrical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柱（面）的，圓柱形的",
+"c": "math"
+},
+{
+"word": "data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數據，資料",
+"c": "math"
+},
+{
+"word": "De Moivre's theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "棣莫弗定理",
+"c": "math"
+},
+{
+"word": "De Morgan's law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛摩根法則，笛摩根律",
+"c": "math"
+},
+{
+"word": "decagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十邊形",
+"c": "math"
+},
+{
+"word": "decile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十分位數",
+"c": "math"
+},
+{
+"word": "decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "小數，十進制小數",
+"c": "math"
+},
+{
+"word": "decimal part",
+"phonetic": "",
+"pos": "n.",
+"meaning": "小數部分",
+"c": "math"
+},
+{
+"word": "decimal place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "小數位",
+"c": "math"
+},
+{
+"word": "decimal point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "小數點",
+"c": "math"
+},
+{
+"word": "decoding",
+"phonetic": "",
+"pos": "n.",
+"meaning": "譯碼",
+"c": "math"
+},
+{
+"word": "decomposition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "退位，分解",
+"c": "math"
+},
+{
+"word": "decrease",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減少，減低，遞減",
+"c": "math"
+},
+{
+"word": "decreasing function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞減函數，下降函數",
+"c": "math"
+},
+{
+"word": "decreasing sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞減數列，下降數列，遞減序列，下降序列",
+"c": "math"
+},
+{
+"word": "decreasing series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞減級數，下降級數",
+"c": "math"
+},
+{
+"word": "decrement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減量",
+"c": "math"
+},
+{
+"word": "deduce",
+"phonetic": "",
+"pos": "n.",
+"meaning": "演繹",
+"c": "math"
+},
+{
+"word": "deduction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推論",
+"c": "math"
+},
+{
+"word": "deductive reasoning",
+"phonetic": "",
+"pos": "n.",
+"meaning": "演繹推理",
+"c": "math"
+},
+{
+"word": "definite",
+"phonetic": "",
+"pos": "n.",
+"meaning": "確定的，定的",
+"c": "math"
+},
+{
+"word": "definite integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定積分",
+"c": "math"
+},
+{
+"word": "definite integration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定積分法",
+"c": "math"
+},
+{
+"word": "definition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定義",
+"c": "math"
+},
+{
+"word": "degenerate conic section",
+"phonetic": "",
+"pos": "n.",
+"meaning": "退化二次曲線，降級退化圓錐曲線",
+"c": "math"
+},
+{
+"word": "degree",
+"phonetic": "",
+"pos": "n.",
+"meaning": "次（數）；度（數）",
+"c": "math"
+},
+{
+"word": "degree of a polynomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多項式的次數",
+"c": "math"
+},
+{
+"word": "degree of accuracy",
+"phonetic": "",
+"pos": "n.",
+"meaning": "準確度",
+"c": "math"
+},
+{
+"word": "degree of confidence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "置信度",
+"c": "math"
+},
+{
+"word": "degree of freedom",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自由度",
+"c": "math"
+},
+{
+"word": "degree of ordinary differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "常微分方程（式）次數",
+"c": "math"
+},
+{
+"word": "degree of precision",
+"phonetic": "",
+"pos": "n.",
+"meaning": "精確度",
+"c": "math"
+},
+{
+"word": "denary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十進（位）數，十進制數",
+"c": "math"
+},
+{
+"word": "denary number system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十進位數制，十進（制）數系統",
+"c": "math"
+},
+{
+"word": "denominator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分母",
+"c": "math"
+},
+{
+"word": "dependent event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相關事件，相依事件，從屬事件",
+"c": "math"
+},
+{
+"word": "dependent variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "應變量，應變數，依變數，因變數",
+"c": "math"
+},
+{
+"word": "derivable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可導的，可推導的",
+"c": "math"
+},
+{
+"word": "derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "導數，微商",
+"c": "math"
+},
+{
+"word": "derived curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "導函數曲線",
+"c": "math"
+},
+{
+"word": "derived function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "導函數",
+"c": "math"
+},
+{
+"word": "derived statistics",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推算統計資料，導出統計量",
+"c": "math"
+},
+{
+"word": "descending order",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞降序，倒序，遞減次序",
+"c": "math"
+},
+{
+"word": "descending power",
+"phonetic": "",
+"pos": "n.",
+"meaning": "降冪",
+"c": "math"
+},
+{
+"word": "descriptive statistics",
+"phonetic": "",
+"pos": "n.",
+"meaning": "敘述統計（學）",
+"c": "math"
+},
+{
+"word": "detached coefficients",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分離係數（法）",
+"c": "math"
+},
+{
+"word": "determinant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "行列式",
+"c": "math"
+},
+{
+"word": "deviation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離差，偏差",
+"c": "math"
+},
+{
+"word": "diagonal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對角線",
+"c": "math"
+},
+{
+"word": "diagonal matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對角矩陣",
+"c": "math"
+},
+{
+"word": "diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖，圖表",
+"c": "math"
+},
+{
+"word": "diameter",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直徑",
+"c": "math"
+},
+{
+"word": "diameter of a conic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓錐曲線的直徑，二次曲線的直徑",
+"c": "math"
+},
+{
+"word": "difference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "差（分）",
+"c": "math"
+},
+{
+"word": "difference equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "差分方程（式）",
+"c": "math"
+},
+{
+"word": "difference of sets",
+"phonetic": "",
+"pos": "n.",
+"meaning": "差集",
+"c": "math"
+},
+{
+"word": "differentiable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可導的，可微（分）的",
+"c": "math"
+},
+{
+"word": "differential",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微分",
+"c": "math"
+},
+{
+"word": "differential coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微商，微分係數",
+"c": "math"
+},
+{
+"word": "differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微分方程（式）",
+"c": "math"
+},
+{
+"word": "differential mean value theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微分中值定理",
+"c": "math"
+},
+{
+"word": "differentiate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "求導數",
+"c": "math"
+},
+{
+"word": "differentiate from first principles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "從基本原理求導數",
+"c": "math"
+},
+{
+"word": "differentiation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "求導法，微分法",
+"c": "math"
+},
+{
+"word": "digit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數字",
+"c": "math"
+},
+{
+"word": "dilation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "放大；伸縮",
+"c": "math"
+},
+{
+"word": "dimension",
+"phonetic": "",
+"pos": "n.",
+"meaning": "維（數），度；大小，尺寸",
+"c": "math"
+},
+{
+"word": "direct proportion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正比（例）",
+"c": "math"
+},
+{
+"word": "direct variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正變（分）",
+"c": "math"
+},
+{
+"word": "directed angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有向角",
+"c": "math"
+},
+{
+"word": "directed line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有向（直）線",
+"c": "math"
+},
+{
+"word": "directed line segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有向線段",
+"c": "math"
+},
+{
+"word": "directed number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有向數",
+"c": "math"
+},
+{
+"word": "direction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方向，方位",
+"c": "math"
+},
+{
+"word": "direction angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方向角",
+"c": "math"
+},
+{
+"word": "direction cosine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方向餘弦",
+"c": "math"
+},
+{
+"word": "direction number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方向數",
+"c": "math"
+},
+{
+"word": "direction ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方向比",
+"c": "math"
+},
+{
+"word": "directrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "準線",
+"c": "math"
+},
+{
+"word": "Dirichlet function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "狄利克雷函數",
+"c": "math"
+},
+{
+"word": "disc method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓盤法",
+"c": "math"
+},
+{
+"word": "discontinuity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不連續性",
+"c": "math"
+},
+{
+"word": "discontinuous",
+"phonetic": "",
+"pos": "n.",
+"meaning": "間斷（的），非連續（的），不連續（的）",
+"c": "math"
+},
+{
+"word": "discontinuous function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不連續函數",
+"c": "math"
+},
+{
+"word": "discontinuous point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不連續點",
+"c": "math"
+},
+{
+"word": "discount rate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "折扣率",
+"c": "math"
+},
+{
+"word": "discrete",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離散（的）",
+"c": "math"
+},
+{
+"word": "discrete data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離散數據",
+"c": "math"
+},
+{
+"word": "discrete probability distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離散概率分佈",
+"c": "math"
+},
+{
+"word": "discrete random variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離散隨機變量，離散隨機變數",
+"c": "math"
+},
+{
+"word": "discrete uniform distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離散均勻分佈",
+"c": "math"
+},
+{
+"word": "discriminant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "判別式",
+"c": "math"
+},
+{
+"word": "disjoint",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不相交的",
+"c": "math"
+},
+{
+"word": "disjoint sets",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不相交的集",
+"c": "math"
+},
+{
+"word": "disjunction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "析取",
+"c": "math"
+},
+{
+"word": "displacement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "位移",
+"c": "math"
+},
+{
+"word": "disprove",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反證",
+"c": "math"
+},
+{
+"word": "dissect",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分割",
+"c": "math"
+},
+{
+"word": "dissecting shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖形分割",
+"c": "math"
+},
+{
+"word": "distance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "距離",
+"c": "math"
+},
+{
+"word": "distance formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "距離公式",
+"c": "math"
+},
+{
+"word": "distinct roots",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相異根",
+"c": "math"
+},
+{
+"word": "distinct solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相異解",
+"c": "math"
+},
+{
+"word": "distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分佈",
+"c": "math"
+},
+{
+"word": "distributive law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分配律",
+"c": "math"
+},
+{
+"word": "distributive property",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分配性質，分配律",
+"c": "math"
+},
+{
+"word": "distributive property of multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法分配性質，乘法分配律",
+"c": "math"
+},
+{
+"word": "diverge",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散",
+"c": "math"
+},
+{
+"word": "divergence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散（性），散度，發散量",
+"c": "math"
+},
+{
+"word": "divergent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散的",
+"c": "math"
+},
+{
+"word": "divergent iteration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散性迭代",
+"c": "math"
+},
+{
+"word": "divergent sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散數列，發散序列",
+"c": "math"
+},
+{
+"word": "divergent series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "發散級數",
+"c": "math"
+},
+{
+"word": "divide",
+"phonetic": "",
+"pos": "n.",
+"meaning": "除",
+"c": "math"
+},
+{
+"word": "dividend",
+"phonetic": "",
+"pos": "n.",
+"meaning": "被除數，被除式",
+"c": "math"
+},
+{
+"word": "divisibility",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整除性，可除性",
+"c": "math"
+},
+{
+"word": "divisible",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可整除（的）",
+"c": "math"
+},
+{
+"word": "division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "除法",
+"c": "math"
+},
+{
+"word": "division algorithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "除法算式",
+"c": "math"
+},
+{
+"word": "divisor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "除數，除式，因子，因式",
+"c": "math"
+},
+{
+"word": "divisor of zero",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零因子",
+"c": "math"
+},
+{
+"word": "dodecagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十二邊形",
+"c": "math"
+},
+{
+"word": "dodecahedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十二面體",
+"c": "math"
+},
+{
+"word": "domain",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定義域，（區）域",
+"c": "math"
+},
+{
+"word": "dot",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點",
+"c": "math"
+},
+{
+"word": "dot product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點積",
+"c": "math"
+},
+{
+"word": "double angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二倍角，倍角",
+"c": "math"
+},
+{
+"word": "double angle formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二倍角公式，倍角公式",
+"c": "math"
+},
+{
+"word": "double root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二重根",
+"c": "math"
+},
+{
+"word": "dual",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對偶（的）",
+"c": "math"
+},
+{
+"word": "duality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對偶性",
+"c": "math"
+},
+{
+"word": "dummy variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "啞變量，啞變數，虛擬變量，虛擬變數",
+"c": "math"
+},
+{
+"word": "eccentric angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離心角",
+"c": "math"
+},
+{
+"word": "eccentric circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離心圓",
+"c": "math"
+},
+{
+"word": "eccentricity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "離心率",
+"c": "math"
+},
+{
+"word": "echelon form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "梯陣式，階梯形式",
+"c": "math"
+},
+{
+"word": "echelon matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "梯矩陣",
+"c": "math"
+},
+{
+"word": "edge",
+"phonetic": "",
+"pos": "n.",
+"meaning": "稜，邊",
+"c": "math"
+},
+{
+"word": "efficient estimator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有效估計量",
+"c": "math"
+},
+{
+"word": "eigenvalue",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵值",
+"c": "math"
+},
+{
+"word": "eigenvector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵向量",
+"c": "math"
+},
+{
+"word": "element",
+"phonetic": "",
+"pos": "n.",
+"meaning": "元（素）",
+"c": "math"
+},
+{
+"word": "elementary event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基本事件",
+"c": "math"
+},
+{
+"word": "elementary function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "初等函數",
+"c": "math"
+},
+{
+"word": "elementary row operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基本行運算",
+"c": "math"
+},
+{
+"word": "ellipse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "橢圓",
+"c": "math"
+},
+{
+"word": "ellipsoid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "橢球體",
+"c": "math"
+},
+{
+"word": "empirical data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "經驗數據",
+"c": "math"
+},
+{
+"word": "empirical formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "經驗公式",
+"c": "math"
+},
+{
+"word": "empirical probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "經驗概率",
+"c": "math"
+},
+{
+"word": "empty set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "空集",
+"c": "math"
+},
+{
+"word": "enclosure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "界限",
+"c": "math"
+},
+{
+"word": "encoding",
+"phonetic": "",
+"pos": "n.",
+"meaning": "編碼",
+"c": "math"
+},
+{
+"word": "end point, endpoint",
+"phonetic": "",
+"pos": "n.",
+"meaning": "端點",
+"c": "math"
+},
+{
+"word": "enlargement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "放大",
+"c": "math"
+},
+{
+"word": "entire surd",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整方根",
+"c": "math"
+},
+{
+"word": "epicycloid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外擺線，圓外旋轉線，圓外旋輪線",
+"c": "math"
+},
+{
+"word": "equal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相等（的），等於",
+"c": "math"
+},
+{
+"word": "equal roots",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等根",
+"c": "math"
+},
+{
+"word": "equal sets",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等集",
+"c": "math"
+},
+{
+"word": "equality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等（式）",
+"c": "math"
+},
+{
+"word": "equality sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等號",
+"c": "math"
+},
+{
+"word": "equally likely event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等可能事件",
+"c": "math"
+},
+{
+"word": "equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方程（式）",
+"c": "math"
+},
+{
+"word": "equation of a straight line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線方程（式）",
+"c": "math"
+},
+{
+"word": "equation of locus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軌跡方程（式）",
+"c": "math"
+},
+{
+"word": "equiangular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等角（的）",
+"c": "math"
+},
+{
+"word": "equidistant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等距（的）",
+"c": "math"
+},
+{
+"word": "equilateral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等邊（的）",
+"c": "math"
+},
+{
+"word": "equilateral triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等邊三角形，正三角形",
+"c": "math"
+},
+{
+"word": "equiprobable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等概率的",
+"c": "math"
+},
+{
+"word": "equiprobable space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等概率空間",
+"c": "math"
+},
+{
+"word": "equivalent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等價（的）",
+"c": "math"
+},
+{
+"word": "equivalent fractions",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等價分數，等值分數",
+"c": "math"
+},
+{
+"word": "error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "誤差",
+"c": "math"
+},
+{
+"word": "error estimate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "誤差估計",
+"c": "math"
+},
+{
+"word": "error term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "誤差項",
+"c": "math"
+},
+{
+"word": "estimate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "估計（值），推估，估計量",
+"c": "math"
+},
+{
+"word": "estimation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "估計",
+"c": "math"
+},
+{
+"word": "estimator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "估計量",
+"c": "math"
+},
+{
+"word": "Euclidean algorithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輾轉相除法，歐幾里得算法",
+"c": "math"
+},
+{
+"word": "Euclidean geometry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "歐氏幾何（學），歐幾里得幾何",
+"c": "math"
+},
+{
+"word": "Eulerian paths",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一筆畫",
+"c": "math"
+},
+{
+"word": "evaluate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "計值",
+"c": "math"
+},
+{
+"word": "even function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "偶函數",
+"c": "math"
+},
+{
+"word": "even number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "偶數，雙數",
+"c": "math"
+},
+{
+"word": "evenly distributed",
+"phonetic": "",
+"pos": "n.",
+"meaning": "均勻分佈的",
+"c": "math"
+},
+{
+"word": "event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "事件",
+"c": "math"
+},
+{
+"word": "ever-ready ruler",
+"phonetic": "",
+"pos": "n.",
+"meaning": "永備尺",
+"c": "math"
+},
+{
+"word": "exact differential form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正合微分形式",
+"c": "math"
+},
+{
+"word": "exact solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "精確解",
+"c": "math"
+},
+{
+"word": "exact value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "精確值，真確值",
+"c": "math"
+},
+{
+"word": "exclusive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不包含，互斥（的）",
+"c": "math"
+},
+{
+"word": "exclusive disjunction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互斥析取",
+"c": "math"
+},
+{
+"word": "exclusive events",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互斥事件",
+"c": "math"
+},
+{
+"word": "exhaustive event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "窮舉事件",
+"c": "math"
+},
+{
+"word": "existential quantifier",
+"phonetic": "",
+"pos": "n.",
+"meaning": "存在量詞",
+"c": "math"
+},
+{
+"word": "expand",
+"phonetic": "",
+"pos": "n.",
+"meaning": "展開",
+"c": "math"
+},
+{
+"word": "expanding fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "擴分",
+"c": "math"
+},
+{
+"word": "expansion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "展開，擴大，展式，展開式",
+"c": "math"
+},
+{
+"word": "expectation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "期望（值）",
+"c": "math"
+},
+{
+"word": "expectation value, expected value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "期望值，預期值",
+"c": "math"
+},
+{
+"word": "experimental design",
+"phonetic": "",
+"pos": "n.",
+"meaning": "試驗設計，實驗設計",
+"c": "math"
+},
+{
+"word": "explicit function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "顯函數",
+"c": "math"
+},
+{
+"word": "exponent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "指數",
+"c": "math"
+},
+{
+"word": "exponential function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "指數函數",
+"c": "math"
+},
+{
+"word": "exponential order",
+"phonetic": "",
+"pos": "n.",
+"meaning": "指數階，指數級",
+"c": "math"
+},
+{
+"word": "exponential series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "指數級數",
+"c": "math"
+},
+{
+"word": "expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "表達式，表示式，算式，式，數式",
+"c": "math"
+},
+{
+"word": "extension",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外延，延長，擴張，擴充",
+"c": "math"
+},
+{
+"word": "extension of a function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "函數的擴張",
+"c": "math"
+},
+{
+"word": "exterior angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外角",
+"c": "math"
+},
+{
+"word": "external bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外（平）分角線，外（角）平分線",
+"c": "math"
+},
+{
+"word": "external division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外分",
+"c": "math"
+},
+{
+"word": "external point of division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外分點",
+"c": "math"
+},
+{
+"word": "extreme point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極值點",
+"c": "math"
+},
+{
+"word": "extreme value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極值",
+"c": "math"
+},
+{
+"word": "extremum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極值",
+"c": "math"
+},
+{
+"word": "face",
+"phonetic": "",
+"pos": "n.",
+"meaning": "面",
+"c": "math"
+},
+{
+"word": "factor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "因數，因子，因式",
+"c": "math"
+},
+{
+"word": "factor theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "因式定理，因子定理",
+"c": "math"
+},
+{
+"word": "factorial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "階乘",
+"c": "math"
+},
+{
+"word": "factorisation, factorization",
+"phonetic": "",
+"pos": "n.",
+"meaning": "因式分解，因子分解，因數分解",
+"c": "math"
+},
+{
+"word": "factorisation of polynomials, factorization of polynomials",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多項式因式分解，多項式因子分解",
+"c": "math"
+},
+{
+"word": "fallacy",
+"phonetic": "",
+"pos": "n.",
+"meaning": "謬誤",
+"c": "math"
+},
+{
+"word": "falsehood",
+"phonetic": "",
+"pos": "n.",
+"meaning": "假（的）",
+"c": "math"
+},
+{
+"word": "false",
+"phonetic": "",
+"pos": "n.",
+"meaning": "假值",
+"c": "math"
+},
+{
+"word": "family",
+"phonetic": "",
+"pos": "n.",
+"meaning": "族",
+"c": "math"
+},
+{
+"word": "family of circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓族",
+"c": "math"
+},
+{
+"word": "family of concentric circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同心圓族",
+"c": "math"
+},
+{
+"word": "family of straight lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線族",
+"c": "math"
+},
+{
+"word": "favourable outcome",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有利結果",
+"c": "math"
+},
+{
+"word": "feasible solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可行解，容許解",
+"c": "math"
+},
+{
+"word": "Fibonacci number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斐波那契數，黃金分割數",
+"c": "math"
+},
+{
+"word": "Fibonacci sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斐波那契數列，斐波那契序列",
+"c": "math"
+},
+{
+"word": "figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖（形）； ；數字；（數）位",
+"c": "math"
+},
+{
+"word": "finding a common denominator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "通分",
+"c": "math"
+},
+{
+"word": "finite",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限（的）",
+"c": "math"
+},
+{
+"word": "finite population",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限總體",
+"c": "math"
+},
+{
+"word": "finite probability space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限概率空間",
+"c": "math"
+},
+{
+"word": "finite sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限數列，有限序列",
+"c": "math"
+},
+{
+"word": "finite series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限級數",
+"c": "math"
+},
+{
+"word": "finite set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限集",
+"c": "math"
+},
+{
+"word": "first approximation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "首近似值",
+"c": "math"
+},
+{
+"word": "first derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一階導數",
+"c": "math"
+},
+{
+"word": "first derivative test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一階導數判別法",
+"c": "math"
+},
+{
+"word": "first order differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一階微分方程（式）",
+"c": "math"
+},
+{
+"word": "first principles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "基本原理，第一原理",
+"c": "math"
+},
+{
+"word": "first quadrant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第一象限",
+"c": "math"
+},
+{
+"word": "first quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第一四分位數",
+"c": "math"
+},
+{
+"word": "first term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "首項",
+"c": "math"
+},
+{
+"word": "fitting",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拼砌，擬合",
+"c": "math"
+},
+{
+"word": "five-sided prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五角柱（體）",
+"c": "math"
+},
+{
+"word": "five-sided pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五角錐（體）",
+"c": "math"
+},
+{
+"word": "five-sided shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五邊形",
+"c": "math"
+},
+{
+"word": "fixed point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不動點，（固）定點",
+"c": "math"
+},
+{
+"word": "fixed point iteration method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定點迭代法",
+"c": "math"
+},
+{
+"word": "floor function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下取整函數",
+"c": "math"
+},
+{
+"word": "focal axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "焦軸",
+"c": "math"
+},
+{
+"word": "focal chord",
+"phonetic": "",
+"pos": "n.",
+"meaning": "焦弦",
+"c": "math"
+},
+{
+"word": "focal length",
+"phonetic": "",
+"pos": "n.",
+"meaning": "焦距",
+"c": "math"
+},
+{
+"word": "focus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "焦點",
+"c": "math"
+},
+{
+"word": "folium of Descartes",
+"phonetic": "",
+"pos": "n.",
+"meaning": "笛卡兒葉形線",
+"c": "math"
+},
+{
+"word": "foot of a perpendicular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂足",
+"c": "math"
+},
+{
+"word": "formal proof",
+"phonetic": "",
+"pos": "n.",
+"meaning": "形式證明",
+"c": "math"
+},
+{
+"word": "forming shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖形拼砌",
+"c": "math"
+},
+{
+"word": "formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公式",
+"c": "math"
+},
+{
+"word": "four arithmetic operations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四則運算",
+"c": "math"
+},
+{
+"word": "four fundamental operations of arithmetic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "算術（基本）四則運算",
+"c": "math"
+},
+{
+"word": "fourth quadrant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第四象限",
+"c": "math"
+},
+{
+"word": "fractal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分形（的），碎形",
+"c": "math"
+},
+{
+"word": "fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分數，分式",
+"c": "math"
+},
+{
+"word": "fraction in lowest terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最簡分數，最簡分式",
+"c": "math"
+},
+{
+"word": "fraction line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分線",
+"c": "math"
+},
+{
+"word": "fractional index",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分數指數",
+"c": "math"
+},
+{
+"word": "fractional inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分式不等式",
+"c": "math"
+},
+{
+"word": "free vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自由向量，自由矢量",
+"c": "math"
+},
+{
+"word": "frequency",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頻數，頻率",
+"c": "math"
+},
+{
+"word": "frequency curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頻數曲線，頻率曲線",
+"c": "math"
+},
+{
+"word": "frequency distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頻數分佈，頻率分佈",
+"c": "math"
+},
+{
+"word": "frequency polygon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頻數多邊形，頻率多邊形",
+"c": "math"
+},
+{
+"word": "frequency table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頻數表，頻率表",
+"c": "math"
+},
+{
+"word": "frustum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平截頭體，平截頭台，錐臺",
+"c": "math"
+},
+{
+"word": "function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "函數",
+"c": "math"
+},
+{
+"word": "function of function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "函數的函數，複合函數，疊函數",
+"c": "math"
+},
+{
+"word": "functional notation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "函數記號",
+"c": "math"
+},
+{
+"word": "fundamental theorem of algebra",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代數基本定理",
+"c": "math"
+},
+{
+"word": "fundamental theorem of calculus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "微積分基本定理",
+"c": "math"
+},
+{
+"word": "Gaussian elimination",
+"phonetic": "",
+"pos": "n.",
+"meaning": "高斯消去法",
+"c": "math"
+},
+{
+"word": "general form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一般式",
+"c": "math"
+},
+{
+"word": "general solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "通解，一般解",
+"c": "math"
+},
+{
+"word": "general term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "通項，一般項",
+"c": "math"
+},
+{
+"word": "generalisation, generalization",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推廣，概括，一般化",
+"c": "math"
+},
+{
+"word": "generalised, generalized",
+"phonetic": "",
+"pos": "n.",
+"meaning": "廣義的，普遍的",
+"c": "math"
+},
+{
+"word": "geoboard",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幾何板",
+"c": "math"
+},
+{
+"word": "geometric distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幾何分佈",
+"c": "math"
+},
+{
+"word": "geometric sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等比數列，幾何數列",
+"c": "math"
+},
+{
+"word": "geometric series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等比級數，幾何級數",
+"c": "math"
+},
+{
+"word": "geometric shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幾何形狀，幾何圖形",
+"c": "math"
+},
+{
+"word": "geometry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幾何（學）",
+"c": "math"
+},
+{
+"word": "geo-strip",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幾何條",
+"c": "math"
+},
+{
+"word": "global extremum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全局極值，總體極值，整體極值",
+"c": "math"
+},
+{
+"word": "global maximum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全局極大值，總體極大值，整體極大值",
+"c": "math"
+},
+{
+"word": "global minimum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全局極小值，總體極小值，整體極小值",
+"c": "math"
+},
+{
+"word": "golden ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "黃金（分割）比",
+"c": "math"
+},
+{
+"word": "golden section",
+"phonetic": "",
+"pos": "n.",
+"meaning": "黃金分割",
+"c": "math"
+},
+{
+"word": "Gougu theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "勾股定理",
+"c": "math"
+},
+{
+"word": "gradient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜率，傾斜量",
+"c": "math"
+},
+{
+"word": "gram (g)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "克",
+"c": "math"
+},
+{
+"word": "graph",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖，圖形，圖像",
+"c": "math"
+},
+{
+"word": "graph paper",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖表紙",
+"c": "math"
+},
+{
+"word": "graphical method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖解法",
+"c": "math"
+},
+{
+"word": "graphical representation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖示，以圖像表達",
+"c": "math"
+},
+{
+"word": "graphical solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圖解",
+"c": "math"
+},
+{
+"word": "greatest common divisor (gcd)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最大公因數，最大公因子，最大公因式",
+"c": "math"
+},
+{
+"word": "greatest integer function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下取整函數，最大整數函數",
+"c": "math"
+},
+{
+"word": "greatest term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最大項",
+"c": "math"
+},
+{
+"word": "greatest value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最大值",
+"c": "math"
+},
+{
+"word": "grid lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "網格線",
+"c": "math"
+},
+{
+"word": "grouped data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分組數據，分類數據",
+"c": "math"
+},
+{
+"word": "grouping",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分組，分類，歸類",
+"c": "math"
+},
+{
+"word": "grouping terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "併項",
+"c": "math"
+},
+{
+"word": "half-angle formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半角公式",
+"c": "math"
+},
+{
+"word": "half-closed interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半閉區間",
+"c": "math"
+},
+{
+"word": "half-open interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半開區間",
+"c": "math"
+},
+{
+"word": "height",
+"phonetic": "",
+"pos": "n.",
+"meaning": "高（度）",
+"c": "math"
+},
+{
+"word": "helix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "螺旋線",
+"c": "math"
+},
+{
+"word": "hemisphere",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半球體，半球，半球面",
+"c": "math"
+},
+{
+"word": "hendecagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十一邊形",
+"c": "math"
+},
+{
+"word": "heptadecagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十七邊形",
+"c": "math"
+},
+{
+"word": "heptagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "七邊形",
+"c": "math"
+},
+{
+"word": "Heron formula, Heron's formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "希羅公式，海倫公式，海龍公式",
+"c": "math"
+},
+{
+"word": "heterogeneous",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非齊次的",
+"c": "math"
+},
+{
+"word": "hexadecimal number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十六進（位）數，十六進制數",
+"c": "math"
+},
+{
+"word": "hexadecimal number system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十六進位數制，十六進（制）數系統",
+"c": "math"
+},
+{
+"word": "hexagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六邊形",
+"c": "math"
+},
+{
+"word": "hexagonal prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六角柱（體），六稜柱（體）",
+"c": "math"
+},
+{
+"word": "hexagonal pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六角錐（體），六稜錐（體）",
+"c": "math"
+},
+{
+"word": "hexahedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六面體",
+"c": "math"
+},
+{
+"word": "higher order derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "高階導數",
+"c": "math"
+},
+{
+"word": "highest common factor (H.C.F.)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最高公因式，最高公因子，最大公因數",
+"c": "math"
+},
+{
+"word": "histogram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "組織圖，直方圖，矩形圖",
+"c": "math"
+},
+{
+"word": "homogeneous",
+"phonetic": "",
+"pos": "n.",
+"meaning": "齊次的",
+"c": "math"
+},
+{
+"word": "homogeneous linear equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "齊次線性方程",
+"c": "math"
+},
+{
+"word": "horizontal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "水平（的）",
+"c": "math"
+},
+{
+"word": "horizontal asymptote",
+"phonetic": "",
+"pos": "n.",
+"meaning": "水平漸近線",
+"c": "math"
+},
+{
+"word": "horizontal axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "水平軸，橫軸",
+"c": "math"
+},
+{
+"word": "horizontal component",
+"phonetic": "",
+"pos": "n.",
+"meaning": "水平分量",
+"c": "math"
+},
+{
+"word": "horizontal form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "橫式",
+"c": "math"
+},
+{
+"word": "hundred million",
+"phonetic": "",
+"pos": "n.",
+"meaning": "億",
+"c": "math"
+},
+{
+"word": "hundred thousand",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十萬",
+"c": "math"
+},
+{
+"word": "hundreds place, hundred's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百位",
+"c": "math"
+},
+{
+"word": "hundredths place, hundredth's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分位",
+"c": "math"
+},
+{
+"word": "hyperbola",
+"phonetic": "",
+"pos": "n.",
+"meaning": "雙曲線",
+"c": "math"
+},
+{
+"word": "hyperbolic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "雙曲函數",
+"c": "math"
+},
+{
+"word": "hypotenuse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜邊",
+"c": "math"
+},
+{
+"word": "hypothesis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "假設",
+"c": "math"
+},
+{
+"word": "hypothesis testing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "假設檢驗",
+"c": "math"
+},
+{
+"word": "identical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆等（的）",
+"c": "math"
+},
+{
+"word": "identity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆等（式）",
+"c": "math"
+},
+{
+"word": "identity element",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位元（素）",
+"c": "math"
+},
+{
+"word": "identity function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆等函數",
+"c": "math"
+},
+{
+"word": "identity law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同一律",
+"c": "math"
+},
+{
+"word": "identity mapping",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆等映射，恆同映射",
+"c": "math"
+},
+{
+"word": "identity matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位矩陣",
+"c": "math"
+},
+{
+"word": "identity relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆等關係（式）",
+"c": "math"
+},
+{
+"word": "if and only if (iff)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "當且僅當",
+"c": "math"
+},
+{
+"word": "image",
+"phonetic": "",
+"pos": "n.",
+"meaning": "像，鏡像，影像",
+"c": "math"
+},
+{
+"word": "imaginary axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛軸",
+"c": "math"
+},
+{
+"word": "imaginary circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛圓",
+"c": "math"
+},
+{
+"word": "imaginary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛數",
+"c": "math"
+},
+{
+"word": "imaginary part",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛部",
+"c": "math"
+},
+{
+"word": "imaginary root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛根",
+"c": "math"
+},
+{
+"word": "inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "虛數單位",
+"c": "math"
+},
+{
+"word": "inequality sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不等號",
+"c": "math"
+},
+{
+"word": "infer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推斷",
+"c": "math"
+},
+{
+"word": "inference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推論",
+"c": "math"
+},
+{
+"word": "inferential statistics",
+"phonetic": "",
+"pos": "n.",
+"meaning": "推論統計",
+"c": "math"
+},
+{
+"word": "infinite",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮（的），無限（的）",
+"c": "math"
+},
+{
+"word": "infinite decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無限小數，無盡小數，無窮小數",
+"c": "math"
+},
+{
+"word": "infinite population",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無限母體，無限總體，無窮總體，無窮母體",
+"c": "math"
+},
+{
+"word": "infinite sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮序列，無限序列，無窮數列，無限數列",
+"c": "math"
+},
+{
+"word": "infinite series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮級數，無限級數",
+"c": "math"
+},
+{
+"word": "infinite set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮集，無限集",
+"c": "math"
+},
+{
+"word": "infinitely many",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮多，無限多",
+"c": "math"
+},
+{
+"word": "infinitesimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮小（的），無限小（的）",
+"c": "math"
+},
+{
+"word": "infinity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無窮（大），無限（大）",
+"c": "math"
+},
+{
+"word": "inflection point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拐點",
+"c": "math"
+},
+{
+"word": "inflexion point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拐點",
+"c": "math"
+},
+{
+"word": "inherent error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "固有誤差",
+"c": "math"
+},
+{
+"word": "initial approximation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "初始近似值",
+"c": "math"
+},
+{
+"word": "initial condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "初值條件，原始條件",
+"c": "math"
+},
+{
+"word": "initial point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "起（始）點",
+"c": "math"
+},
+{
+"word": "initial side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "始邊",
+"c": "math"
+},
+{
+"word": "initial value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "初（始）值，始值",
+"c": "math"
+},
+{
+"word": "initial-value problem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "初值問題",
+"c": "math"
+},
+{
+"word": "inner product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內積",
+"c": "math"
+},
+{
+"word": "inscribed circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內切圓",
+"c": "math"
+},
+{
+"word": "integer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數",
+"c": "math"
+},
+{
+"word": "integrable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可積（的）",
+"c": "math"
+},
+{
+"word": "integrable function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可積函數",
+"c": "math"
+},
+{
+"word": "integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分",
+"c": "math"
+},
+{
+"word": "integral index",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數指數",
+"c": "math"
+},
+{
+"word": "integral mean value theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分中值定理",
+"c": "math"
+},
+{
+"word": "integral part",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數部分",
+"c": "math"
+},
+{
+"word": "integral solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數解",
+"c": "math"
+},
+{
+"word": "integral value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數值",
+"c": "math"
+},
+{
+"word": "integrand",
+"phonetic": "",
+"pos": "n.",
+"meaning": "被積函數",
+"c": "math"
+},
+{
+"word": "integrate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積（分），求積分",
+"c": "math"
+},
+{
+"word": "integrating factor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分因子",
+"c": "math"
+},
+{
+"word": "integration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分法",
+"c": "math"
+},
+{
+"word": "integration by parts",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分部積分法",
+"c": "math"
+},
+{
+"word": "integration by substitution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代換積分法，換元積分法",
+"c": "math"
+},
+{
+"word": "integration constant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分常數",
+"c": "math"
+},
+{
+"word": "intercept form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截距式",
+"c": "math"
+},
+{
+"word": "intercept theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截線定理",
+"c": "math"
+},
+{
+"word": "interior angles onthe same side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同側內角",
+"c": "math"
+},
+{
+"word": "interior opposite angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內對角",
+"c": "math"
+},
+{
+"word": "intermediate value theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中間值定理，介值定理",
+"c": "math"
+},
+{
+"word": "internal bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內分角線，（內）角平分線",
+"c": "math"
+},
+{
+"word": "internal division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內分",
+"c": "math"
+},
+{
+"word": "internal point of division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內分點",
+"c": "math"
+},
+{
+"word": "interpolating polynomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "插值多項式",
+"c": "math"
+},
+{
+"word": "interpolation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "插值（法），內插（法）",
+"c": "math"
+},
+{
+"word": "interquartile range",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四分位（數間）距，內四分位距",
+"c": "math"
+},
+{
+"word": "intersection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交（集）；（相）交",
+"c": "math"
+},
+{
+"word": "interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "區間",
+"c": "math"
+},
+{
+"word": "interval estimate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "區間估計（值）",
+"c": "math"
+},
+{
+"word": "interval estimation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "區間估計，區域估計",
+"c": "math"
+},
+{
+"word": "invalid argument",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不對確論證，無效論證",
+"c": "math"
+},
+{
+"word": "invariance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不變性",
+"c": "math"
+},
+{
+"word": "invariant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不變的；不變量，不變式",
+"c": "math"
+},
+{
+"word": "inverse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆（的），反（的）",
+"c": "math"
+},
+{
+"word": "inverse circular function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反圓函數，反三角函數",
+"c": "math"
+},
+{
+"word": "inverse cosecant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘割",
+"c": "math"
+},
+{
+"word": "inverse cosine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘弦",
+"c": "math"
+},
+{
+"word": "inverse cotangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反餘切",
+"c": "math"
+},
+{
+"word": "inverse function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆函數，反函數",
+"c": "math"
+},
+{
+"word": "inverse mapping",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆映射，反向映射",
+"c": "math"
+},
+{
+"word": "inverse matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆矩陣，逆方陣，反矩陣",
+"c": "math"
+},
+{
+"word": "inverse proportion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反比（例）",
+"c": "math"
+},
+{
+"word": "inverse relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆關係",
+"c": "math"
+},
+{
+"word": "inverse secant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正割",
+"c": "math"
+},
+{
+"word": "inverse sine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正弦",
+"c": "math"
+},
+{
+"word": "inverse tangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反正切",
+"c": "math"
+},
+{
+"word": "inverse trigonometric function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反三角函數",
+"c": "math"
+},
+{
+"word": "inverse variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反變（分），逆變（分）",
+"c": "math"
+},
+{
+"word": "invertible",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可逆的",
+"c": "math"
+},
+{
+"word": "invertible matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可逆矩陣，可逆方陣",
+"c": "math"
+},
+{
+"word": "irrational number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無理數",
+"c": "math"
+},
+{
+"word": "irregular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不規則",
+"c": "math"
+},
+{
+"word": "irregular solid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不規則立體",
+"c": "math"
+},
+{
+"word": "isometric grids",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等距格點，等距網格",
+"c": "math"
+},
+{
+"word": "isosceles right triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等腰直角三角形",
+"c": "math"
+},
+{
+"word": "isosceles right-angled triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等腰直角三角形",
+"c": "math"
+},
+{
+"word": "isosceles triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等腰三角形",
+"c": "math"
+},
+{
+"word": "iterate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迭代",
+"c": "math"
+},
+{
+"word": "iteration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迭代",
+"c": "math"
+},
+{
+"word": "iteration form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迭代形",
+"c": "math"
+},
+{
+"word": "iterative function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迭代函數",
+"c": "math"
+},
+{
+"word": "iterative method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迭代法",
+"c": "math"
+},
+{
+"word": "joint variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "聯變（分），連變（分）",
+"c": "math"
+},
+{
+"word": "K K kilogram (kg)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "千克，公斤",
+"c": "math"
+},
+{
+"word": "kilometre (km)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "千米，公里",
+"c": "math"
+},
+{
+"word": "kilometres per hour (km h-1)(km/h)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "千米每小時，公里每小時",
+"c": "math"
+},
+{
+"word": "kite",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鳶形，鷂形",
+"c": "math"
+},
+{
+"word": "Lagrange interpolating polynomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拉格朗日插值多項式",
+"c": "math"
+},
+{
+"word": "Lagrange theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拉格朗日定理",
+"c": "math"
+},
+{
+"word": "large number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "大數",
+"c": "math"
+},
+{
+"word": "last term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "末項",
+"c": "math"
+},
+{
+"word": "latent root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特徵根，本徵根，本徵值",
+"c": "math"
+},
+{
+"word": "lateral face",
+"phonetic": "",
+"pos": "n.",
+"meaning": "側面",
+"c": "math"
+},
+{
+"word": "lattice point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "格點",
+"c": "math"
+},
+{
+"word": "law of indices",
+"phonetic": "",
+"pos": "n.",
+"meaning": "指數（定）律",
+"c": "math"
+},
+{
+"word": "law of total probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全概率公式",
+"c": "math"
+},
+{
+"word": "law of trichotomy",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三分律",
+"c": "math"
+},
+{
+"word": "leading coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "首項係數",
+"c": "math"
+},
+{
+"word": "leading diagonal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主對角線",
+"c": "math"
+},
+{
+"word": "leap year",
+"phonetic": "",
+"pos": "n.",
+"meaning": "閏年",
+"c": "math"
+},
+{
+"word": "least common multiple (L.C.M.)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最小公倍數，最小公倍式",
+"c": "math"
+},
+{
+"word": "least integer function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最小整數函數",
+"c": "math"
+},
+{
+"word": "least value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最小值",
+"c": "math"
+},
+{
+"word": "left-hand limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "左（方）極限",
+"c": "math"
+},
+{
+"word": "lemma",
+"phonetic": "",
+"pos": "n.",
+"meaning": "引理",
+"c": "math"
+},
+{
+"word": "length",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長（度）",
+"c": "math"
+},
+{
+"word": "level of significance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "顯著（性）水平",
+"c": "math"
+},
+{
+"word": "like surds",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同類根式",
+"c": "math"
+},
+{
+"word": "like terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "同類項",
+"c": "math"
+},
+{
+"word": "limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極限",
+"c": "math"
+},
+{
+"word": "limit of sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "序列的極限，數列的極限",
+"c": "math"
+},
+{
+"word": "limiting case",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極限情況",
+"c": "math"
+},
+{
+"word": "limiting position",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極限位置",
+"c": "math"
+},
+{
+"word": "line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線",
+"c": "math"
+},
+{
+"word": "line of greatest slope",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最大傾斜線，最大斜率的直線",
+"c": "math"
+},
+{
+"word": "line of symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱軸",
+"c": "math"
+},
+{
+"word": "line segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線段",
+"c": "math"
+},
+{
+"word": "linear",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性（的），一次（的）",
+"c": "math"
+},
+{
+"word": "linear differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性微分方程（式）",
+"c": "math"
+},
+{
+"word": "linear equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一次方程（式），線性方程（式）",
+"c": "math"
+},
+{
+"word": "linear equation in two unknowns",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二元一次方程（式），二元線性方程（式）",
+"c": "math"
+},
+{
+"word": "linear function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性函數，一次函數",
+"c": "math"
+},
+{
+"word": "linear inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一次不等式，線性不等式",
+"c": "math"
+},
+{
+"word": "linear interpolation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性插值（法），線性內插（法）",
+"c": "math"
+},
+{
+"word": "linear programming",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性規畫，線性規劃",
+"c": "math"
+},
+{
+"word": "linearly dependent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性相關（的）",
+"c": "math"
+},
+{
+"word": "linearly independent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線性無關（的），線性獨立（的）",
+"c": "math"
+},
+{
+"word": "list",
+"phonetic": "",
+"pos": "n.",
+"meaning": "列舉",
+"c": "math"
+},
+{
+"word": "literal coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "文字係數",
+"c": "math"
+},
+{
+"word": "literal equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "文字方程（式）",
+"c": "math"
+},
+{
+"word": "litre (L)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "升，公升",
+"c": "math"
+},
+{
+"word": "local extremum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "局部極值",
+"c": "math"
+},
+{
+"word": "local maximum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "局部極大（值）",
+"c": "math"
+},
+{
+"word": "local minimum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "局部極小（值）",
+"c": "math"
+},
+{
+"word": "locus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軌跡",
+"c": "math"
+},
+{
+"word": "logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數",
+"c": "math"
+},
+{
+"word": "logarithmic differentiation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數求導法，對數微分（法）",
+"c": "math"
+},
+{
+"word": "logarithmic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數函數",
+"c": "math"
+},
+{
+"word": "logarithmic transformation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數變換",
+"c": "math"
+},
+{
+"word": "logic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "邏輯",
+"c": "math"
+},
+{
+"word": "long division method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長除法",
+"c": "math"
+},
+{
+"word": "lower base",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下底",
+"c": "math"
+},
+{
+"word": "lower bound",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下界",
+"c": "math"
+},
+{
+"word": "lower boundary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下邊界",
+"c": "math"
+},
+{
+"word": "lower limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下（極）限",
+"c": "math"
+},
+{
+"word": "lower limit of integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分下限",
+"c": "math"
+},
+{
+"word": "lower quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下四分位數",
+"c": "math"
+},
+{
+"word": "lower sum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下和",
+"c": "math"
+},
+{
+"word": "lower triangular matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下三角形矩陣",
+"c": "math"
+},
+{
+"word": "lowest common multiple (L.C.M.)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最小公倍數，最低公倍式",
+"c": "math"
+},
+{
+"word": "Maclaurin expansion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "麥克勞林展開（式）",
+"c": "math"
+},
+{
+"word": "Maclaurin series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "麥克勞林級數",
+"c": "math"
+},
+{
+"word": "main diagonal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主對角線",
+"c": "math"
+},
+{
+"word": "major arc",
+"phonetic": "",
+"pos": "n.",
+"meaning": "優弧，大弧",
+"c": "math"
+},
+{
+"word": "major axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長軸",
+"c": "math"
+},
+{
+"word": "major sector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "優扇形，大扇形",
+"c": "math"
+},
+{
+"word": "major segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "優弓形，大弓形",
+"c": "math"
+},
+{
+"word": "mantissa of logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對數的尾數",
+"c": "math"
+},
+{
+"word": "many-sided figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多邊形",
+"c": "math"
+},
+{
+"word": "many-to-one",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多對一（的）",
+"c": "math"
+},
+{
+"word": "many-valued",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多值（的）",
+"c": "math"
+},
+{
+"word": "map-colouring problem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "地圖染色問題，地圖著色問題",
+"c": "math"
+},
+{
+"word": "map into",
+"phonetic": "",
+"pos": "n.",
+"meaning": "映入",
+"c": "math"
+},
+{
+"word": "map onto",
+"phonetic": "",
+"pos": "n.",
+"meaning": "映上（成）",
+"c": "math"
+},
+{
+"word": "mapping",
+"phonetic": "",
+"pos": "n.",
+"meaning": "映射",
+"c": "math"
+},
+{
+"word": "mathematical analysis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數學分析",
+"c": "math"
+},
+{
+"word": "mathematical induction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數學歸納法",
+"c": "math"
+},
+{
+"word": "mathematical model",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數學模型",
+"c": "math"
+},
+{
+"word": "mathematics",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數學",
+"c": "math"
+},
+{
+"word": "matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩陣，方陣",
+"c": "math"
+},
+{
+"word": "matrix operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩陣運算",
+"c": "math"
+},
+{
+"word": "maximise, maximize",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極大化",
+"c": "math"
+},
+{
+"word": "maximum point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極大點",
+"c": "math"
+},
+{
+"word": "maximum value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極大值",
+"c": "math"
+},
+{
+"word": "mean",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平均（數），平均值",
+"c": "math"
+},
+{
+"word": "mean deviation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平均離差，平均偏差",
+"c": "math"
+},
+{
+"word": "mean value theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中值定理，均值定理",
+"c": "math"
+},
+{
+"word": "measurement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "量度，測量，測定",
+"c": "math"
+},
+{
+"word": "median",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中位數；中線",
+"c": "math"
+},
+{
+"word": "meet",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相交",
+"c": "math"
+},
+{
+"word": "mensuration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "測量法，求積法",
+"c": "math"
+},
+{
+"word": "method of completing the square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "配方法",
+"c": "math"
+},
+{
+"word": "method of interpolation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "插值法，內插法",
+"c": "math"
+},
+{
+"word": "method of successive substitution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逐次代換法，遞代法",
+"c": "math"
+},
+{
+"word": "metre (m)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "米，公尺",
+"c": "math"
+},
+{
+"word": "metre per second (m s-1)(m/s)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "米每秒，公尺每秒",
+"c": "math"
+},
+{
+"word": "metric system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公制，十進制",
+"c": "math"
+},
+{
+"word": "midpoint, mid-point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "中點",
+"c": "math"
+},
+{
+"word": "millilitre (mL)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "毫升",
+"c": "math"
+},
+{
+"word": "millimetre (mm)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "毫米",
+"c": "math"
+},
+{
+"word": "million",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百萬",
+"c": "math"
+},
+{
+"word": "minimise, minimize",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極小化",
+"c": "math"
+},
+{
+"word": "minimum point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極小點",
+"c": "math"
+},
+{
+"word": "minimum value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極小值",
+"c": "math"
+},
+{
+"word": "minor arc",
+"phonetic": "",
+"pos": "n.",
+"meaning": "劣弧，小弧",
+"c": "math"
+},
+{
+"word": "minor axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "短軸",
+"c": "math"
+},
+{
+"word": "minor of a determinant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "子行列式",
+"c": "math"
+},
+{
+"word": "minor sector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "劣扇形，小扇形",
+"c": "math"
+},
+{
+"word": "minor segment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "劣弓形，小弓形",
+"c": "math"
+},
+{
+"word": "minus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減，負的",
+"c": "math"
+},
+{
+"word": "minus sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減號",
+"c": "math"
+},
+{
+"word": "minute (min)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分，分鐘",
+"c": "math"
+},
+{
+"word": "mixed arithmetic operations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四則混合運算",
+"c": "math"
+},
+{
+"word": "mixed fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "帶分數",
+"c": "math"
+},
+{
+"word": "mixed number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "帶分數",
+"c": "math"
+},
+{
+"word": "mixed operations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "混合計算，混合運算",
+"c": "math"
+},
+{
+"word": "modal class",
+"phonetic": "",
+"pos": "n.",
+"meaning": "眾數組",
+"c": "math"
+},
+{
+"word": "mode",
+"phonetic": "",
+"pos": "n.",
+"meaning": "眾數",
+"c": "math"
+},
+{
+"word": "modelling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "建模",
+"c": "math"
+},
+{
+"word": "modulus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "模（數）；絕對值；尺度",
+"c": "math"
+},
+{
+"word": "monomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單項式，單項的",
+"c": "math"
+},
+{
+"word": "monotone",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單調（的）",
+"c": "math"
+},
+{
+"word": "monotonic convergence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單調收斂",
+"c": "math"
+},
+{
+"word": "monotonic decreasing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單調遞減（的）",
+"c": "math"
+},
+{
+"word": "monotonic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單調函數",
+"c": "math"
+},
+{
+"word": "monotonic increasing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單調遞增（的）",
+"c": "math"
+},
+{
+"word": "multi-digit number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多位數",
+"c": "math"
+},
+{
+"word": "multinomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多項式",
+"c": "math"
+},
+{
+"word": "multiple angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "倍角",
+"c": "math"
+},
+{
+"word": "multiple-angle formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "倍角公式",
+"c": "math"
+},
+{
+"word": "multiplicand",
+"phonetic": "",
+"pos": "n.",
+"meaning": "被乘數，被乘式",
+"c": "math"
+},
+{
+"word": "multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法",
+"c": "math"
+},
+{
+"word": "multiplication law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法定律",
+"c": "math"
+},
+{
+"word": "multiplicative inverse",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘法逆元（素），乘法反元（素）",
+"c": "math"
+},
+{
+"word": "multiplier",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘數，乘式",
+"c": "math"
+},
+{
+"word": "multiply",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘",
+"c": "math"
+},
+{
+"word": "multi-valued",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多值的",
+"c": "math"
+},
+{
+"word": "mutually disjoint",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互不相交（的）",
+"c": "math"
+},
+{
+"word": "mutually exclusive events",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互斥事件，不相容事件",
+"c": "math"
+},
+{
+"word": "mutually perpendicular lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互相垂直線",
+"c": "math"
+},
+{
+"word": "n factorial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "階乘",
+"c": "math"
+},
+{
+"word": "Napierian logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "納皮爾對數，自然對數",
+"c": "math"
+},
+{
+"word": "natural logarithm",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自然對數",
+"c": "math"
+},
+{
+"word": "natural logarithmic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自然對數函數",
+"c": "math"
+},
+{
+"word": "natural number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自然數",
+"c": "math"
+},
+{
+"word": "necessary and sufficient condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "充要條件，充分且必要條件，必要且充分條件",
+"c": "math"
+},
+{
+"word": "necessary condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "必要條件",
+"c": "math"
+},
+{
+"word": "negation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "否定式",
+"c": "math"
+},
+{
+"word": "negative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "負（的）",
+"c": "math"
+},
+{
+"word": "negative angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "負角",
+"c": "math"
+},
+{
+"word": "negative index",
+"phonetic": "",
+"pos": "n.",
+"meaning": "負指數",
+"c": "math"
+},
+{
+"word": "negative integer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "負整數",
+"c": "math"
+},
+{
+"word": "negative number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "負數",
+"c": "math"
+},
+{
+"word": "neighbourhood",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鄰域",
+"c": "math"
+},
+{
+"word": "Newton's method, Newton method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "牛頓（方）法",
+"c": "math"
+},
+{
+"word": "nonagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "九邊形",
+"c": "math"
+},
+{
+"word": "non-collinear",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不共線（的），非共線（的）",
+"c": "math"
+},
+{
+"word": "non-collinear points",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非共線點",
+"c": "math"
+},
+{
+"word": "non-commutative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非交換的",
+"c": "math"
+},
+{
+"word": "non-coplanar",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非共面（的）",
+"c": "math"
+},
+{
+"word": "non-integral coefficients",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非整數係數",
+"c": "math"
+},
+{
+"word": "non-linear",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非線性（的）",
+"c": "math"
+},
+{
+"word": "non-metric units",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非十進制單位",
+"c": "math"
+},
+{
+"word": "non-negative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非負的",
+"c": "math"
+},
+{
+"word": "non-probability sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非概率抽樣，非機率抽樣",
+"c": "math"
+},
+{
+"word": "non-random sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非隨機抽樣",
+"c": "math"
+},
+{
+"word": "non-reflexive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非自反的，非反射的",
+"c": "math"
+},
+{
+"word": "non-singular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非奇異的，滿秩的",
+"c": "math"
+},
+{
+"word": "non-singular matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非奇異矩陣，滿秩矩陣",
+"c": "math"
+},
+{
+"word": "non-transitive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非可遞的，非傳遞的",
+"c": "math"
+},
+{
+"word": "non-trivial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非平凡的",
+"c": "math"
+},
+{
+"word": "non-trivial solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非平凡解，非明顯解",
+"c": "math"
+},
+{
+"word": "non-zero",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非零",
+"c": "math"
+},
+{
+"word": "normal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "法線；垂直的，正交的；正態的，常態的；正常的，正規的",
+"c": "math"
+},
+{
+"word": "normal curve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正態分佈曲線，常態分佈曲線，正規曲線",
+"c": "math"
+},
+{
+"word": "normal distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正態分佈，常態分佈",
+"c": "math"
+},
+{
+"word": "normal random variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正態隨機變量，正態隨機變數，常態隨機變量，常態隨機變數",
+"c": "math"
+},
+{
+"word": "normal variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正態變量，正態變數，常態變量，常態變數",
+"c": "math"
+},
+{
+"word": "normal vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "法向量，法矢量",
+"c": "math"
+},
+{
+"word": "normalise, normalize",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正規化，常態化",
+"c": "math"
+},
+{
+"word": "notation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "記法，記號",
+"c": "math"
+},
+{
+"word": "nth derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "階導數",
+"c": "math"
+},
+{
+"word": "nth root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "次根",
+"c": "math"
+},
+{
+"word": "null",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零（的），空（的）",
+"c": "math"
+},
+{
+"word": "null hypothesis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "原假設，虛（無）假設，零假設",
+"c": "math"
+},
+{
+"word": "null set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "空集，零集",
+"c": "math"
+},
+{
+"word": "null vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零向量，零矢量",
+"c": "math"
+},
+{
+"word": "number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數",
+"c": "math"
+},
+{
+"word": "number line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數線",
+"c": "math"
+},
+{
+"word": "number pattern",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數型",
+"c": "math"
+},
+{
+"word": "number system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數系",
+"c": "math"
+},
+{
+"word": "numeral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數字，數碼",
+"c": "math"
+},
+{
+"word": "numeral system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "記數系統",
+"c": "math"
+},
+{
+"word": "numerator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分子",
+"c": "math"
+},
+{
+"word": "numerical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數值的，數字的",
+"c": "math"
+},
+{
+"word": "numerical analysis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數值分析",
+"c": "math"
+},
+{
+"word": "numerical integration",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數值積分（法）",
+"c": "math"
+},
+{
+"word": "numerical method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數值方法",
+"c": "math"
+},
+{
+"word": "numerical value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數值",
+"c": "math"
+},
+{
+"word": "objective function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "目標函數",
+"c": "math"
+},
+{
+"word": "oblique asymptote",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜漸近線",
+"c": "math"
+},
+{
+"word": "oblique cone",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜圓錐",
+"c": "math"
+},
+{
+"word": "oblique grids",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜格點",
+"c": "math"
+},
+{
+"word": "oblong",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長方形（的）",
+"c": "math"
+},
+{
+"word": "obtuse angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鈍角",
+"c": "math"
+},
+{
+"word": "obtuse triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鈍角三角形",
+"c": "math"
+},
+{
+"word": "obtuse-angled triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "鈍角三角形",
+"c": "math"
+},
+{
+"word": "octagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "八邊形",
+"c": "math"
+},
+{
+"word": "octahedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "八面體",
+"c": "math"
+},
+{
+"word": "octal number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "八進位數，八進制數，八進數",
+"c": "math"
+},
+{
+"word": "odd function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "奇函數",
+"c": "math"
+},
+{
+"word": "odd number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "奇數，單數",
+"c": "math"
+},
+{
+"word": "one-one correspondence, one-to-one correspondence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一一對應",
+"c": "math"
+},
+{
+"word": "one-tailed test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單尾檢驗（法），單側檢驗（法）",
+"c": "math"
+},
+{
+"word": "one-to-many",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一對多（的）",
+"c": "math"
+},
+{
+"word": "one-to-one",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一對一（的）",
+"c": "math"
+},
+{
+"word": "only if",
+"phonetic": "",
+"pos": "n.",
+"meaning": "僅當",
+"c": "math"
+},
+{
+"word": "open interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "開區間",
+"c": "math"
+},
+{
+"word": "open sentence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "開（放）（語）句",
+"c": "math"
+},
+{
+"word": "operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "運算",
+"c": "math"
+},
+{
+"word": "opposite angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對角",
+"c": "math"
+},
+{
+"word": "opposite interior angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "內對角",
+"c": "math"
+},
+{
+"word": "opposite side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對邊",
+"c": "math"
+},
+{
+"word": "optimal solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "最優解",
+"c": "math"
+},
+{
+"word": "order",
+"phonetic": "",
+"pos": "n.",
+"meaning": "次；（次）序；階，級；重，折",
+"c": "math"
+},
+{
+"word": "order of a matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩陣的階",
+"c": "math"
+},
+{
+"word": "ordered pair",
+"phonetic": "",
+"pos": "n.",
+"meaning": "序偶，序對",
+"c": "math"
+},
+{
+"word": "ordered relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有序關係",
+"c": "math"
+},
+{
+"word": "ordered set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有序集",
+"c": "math"
+},
+{
+"word": "ordered triples",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有序三元（組）",
+"c": "math"
+},
+{
+"word": "ordinal number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "序數",
+"c": "math"
+},
+{
+"word": "ordinary differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "常微分方程（式）",
+"c": "math"
+},
+{
+"word": "ordinate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "縱坐標",
+"c": "math"
+},
+{
+"word": "origin",
+"phonetic": "",
+"pos": "n.",
+"meaning": "原點",
+"c": "math"
+},
+{
+"word": "orthocentre",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂心",
+"c": "math"
+},
+{
+"word": "orthogonal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正交（的）",
+"c": "math"
+},
+{
+"word": "orthogonal circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正交圓",
+"c": "math"
+},
+{
+"word": "orthogonal projection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正（交）投影",
+"c": "math"
+},
+{
+"word": "orthogonality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正交性",
+"c": "math"
+},
+{
+"word": "outcome",
+"phonetic": "",
+"pos": "n.",
+"meaning": "結果",
+"c": "math"
+},
+{
+"word": "pairwise disjoint",
+"phonetic": "",
+"pos": "n.",
+"meaning": "兩兩不相交（的）",
+"c": "math"
+},
+{
+"word": "pairwise mutually exclusive event",
+"phonetic": "",
+"pos": "n.",
+"meaning": "兩兩互斥事件",
+"c": "math"
+},
+{
+"word": "parabola",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拋物線",
+"c": "math"
+},
+{
+"word": "paradox",
+"phonetic": "",
+"pos": "n.",
+"meaning": "悖論",
+"c": "math"
+},
+{
+"word": "parallel",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行（的）",
+"c": "math"
+},
+{
+"word": "parallel lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行線",
+"c": "math"
+},
+{
+"word": "parallelepiped",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行六面體",
+"c": "math"
+},
+{
+"word": "parallelogram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行四邊形",
+"c": "math"
+},
+{
+"word": "parallelogram law of addition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行四邊形加法定律",
+"c": "math"
+},
+{
+"word": "parallelogram method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平行四邊形法",
+"c": "math"
+},
+{
+"word": "parameter",
+"phonetic": "",
+"pos": "n.",
+"meaning": "參數，參變量",
+"c": "math"
+},
+{
+"word": "parameter estimation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "參數估計",
+"c": "math"
+},
+{
+"word": "parametric equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "參數方程（式）",
+"c": "math"
+},
+{
+"word": "parametric form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "參數式",
+"c": "math"
+},
+{
+"word": "parenthesis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "小括號，小括弧，圓括號，圓括弧",
+"c": "math"
+},
+{
+"word": "partial fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "部分分式，部分分數",
+"c": "math"
+},
+{
+"word": "partial sum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "部分和",
+"c": "math"
+},
+{
+"word": "partial variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "部分變（分）",
+"c": "math"
+},
+{
+"word": "particular solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特解",
+"c": "math"
+},
+{
+"word": "partition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分割，劃分",
+"c": "math"
+},
+{
+"word": "pattern",
+"phonetic": "",
+"pos": "n.",
+"meaning": "規律，模型，圖案",
+"c": "math"
+},
+{
+"word": "pencil of lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "線束",
+"c": "math"
+},
+{
+"word": "pentagon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五邊形",
+"c": "math"
+},
+{
+"word": "pentagonal prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五角柱（體），五稜柱（體）",
+"c": "math"
+},
+{
+"word": "pentagonal pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五角錐（體），五稜錐（體）",
+"c": "math"
+},
+{
+"word": "percent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分率，百分比，百分數",
+"c": "math"
+},
+{
+"word": "percentage",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分法，百分比，百分率，百分數",
+"c": "math"
+},
+{
+"word": "percentage error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分誤差",
+"c": "math"
+},
+{
+"word": "percentage point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分（比）點",
+"c": "math"
+},
+{
+"word": "percentile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "百分位數（值）",
+"c": "math"
+},
+{
+"word": "perfect number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "完全數",
+"c": "math"
+},
+{
+"word": "perfect square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "完全平方",
+"c": "math"
+},
+{
+"word": "perimeter",
+"phonetic": "",
+"pos": "n.",
+"meaning": "周界，周長，周",
+"c": "math"
+},
+{
+"word": "period",
+"phonetic": "",
+"pos": "n.",
+"meaning": "週期",
+"c": "math"
+},
+{
+"word": "periodic decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環小數",
+"c": "math"
+},
+{
+"word": "periodic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "週期函數",
+"c": "math"
+},
+{
+"word": "periodicity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "週期性",
+"c": "math"
+},
+{
+"word": "permutation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "排列",
+"c": "math"
+},
+{
+"word": "permutation with repetition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有重排列",
+"c": "math"
+},
+{
+"word": "permutation without repetition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無重排列",
+"c": "math"
+},
+{
+"word": "perpendicular bisector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂直平分線，中垂線",
+"c": "math"
+},
+{
+"word": "perpendicular line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂（直）線",
+"c": "math"
+},
+{
+"word": "pi",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓周率",
+"c": "math"
+},
+{
+"word": "pictogram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "象形圖",
+"c": "math"
+},
+{
+"word": "pie chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓形圖（表），圓餅圖",
+"c": "math"
+},
+{
+"word": "place value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "位值",
+"c": "math"
+},
+{
+"word": "plan",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平面圖",
+"c": "math"
+},
+{
+"word": "plane",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平面",
+"c": "math"
+},
+{
+"word": "plane figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平面圖形",
+"c": "math"
+},
+{
+"word": "Platonic Solid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "柏拉圖立體",
+"c": "math"
+},
+{
+"word": "plot",
+"phonetic": "",
+"pos": "n.",
+"meaning": "作圖",
+"c": "math"
+},
+{
+"word": "plus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加， 加號，正的",
+"c": "math"
+},
+{
+"word": "plus sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加號",
+"c": "math"
+},
+{
+"word": "point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點",
+"c": "math"
+},
+{
+"word": "point circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點圓",
+"c": "math"
+},
+{
+"word": "point estimate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點估計值",
+"c": "math"
+},
+{
+"word": "point estimation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點估計",
+"c": "math"
+},
+{
+"word": "point estimator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點估計量",
+"c": "math"
+},
+{
+"word": "point of contact",
+"phonetic": "",
+"pos": "n.",
+"meaning": "切（觸）點",
+"c": "math"
+},
+{
+"word": "point of division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分點",
+"c": "math"
+},
+{
+"word": "point of inflection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拐點",
+"c": "math"
+},
+{
+"word": "point of inflexion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "拐點",
+"c": "math"
+},
+{
+"word": "point of intersection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "交點",
+"c": "math"
+},
+{
+"word": "point-slope form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "點斜式",
+"c": "math"
+},
+{
+"word": "Poisson distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "泊松分佈，卜瓦松分佈",
+"c": "math"
+},
+{
+"word": "Poisson variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "泊松變量，泊松變數",
+"c": "math"
+},
+{
+"word": "polar coordinates",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極坐標",
+"c": "math"
+},
+{
+"word": "polar equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極方程（式）",
+"c": "math"
+},
+{
+"word": "polar form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "極（形）式",
+"c": "math"
+},
+{
+"word": "polygon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多邊形",
+"c": "math"
+},
+{
+"word": "polygon law of addition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多邊形加法定律",
+"c": "math"
+},
+{
+"word": "polygon method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多邊形法，折線法",
+"c": "math"
+},
+{
+"word": "polyhedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多面體",
+"c": "math"
+},
+{
+"word": "polynomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多項式",
+"c": "math"
+},
+{
+"word": "polynomial equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "多項式方程（式）",
+"c": "math"
+},
+{
+"word": "population",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總體，母體",
+"c": "math"
+},
+{
+"word": "population mean",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總體平均（值）",
+"c": "math"
+},
+{
+"word": "population parameter",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總體參數，母體參數",
+"c": "math"
+},
+{
+"word": "population proportion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總體比例",
+"c": "math"
+},
+{
+"word": "position",
+"phonetic": "",
+"pos": "n.",
+"meaning": "位置",
+"c": "math"
+},
+{
+"word": "position vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "位置向量，位置矢量",
+"c": "math"
+},
+{
+"word": "positive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正",
+"c": "math"
+},
+{
+"word": "positive index",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正指數",
+"c": "math"
+},
+{
+"word": "positive integer",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正整數",
+"c": "math"
+},
+{
+"word": "positive number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正數",
+"c": "math"
+},
+{
+"word": "posterior probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "後驗概率，事後概率",
+"c": "math"
+},
+{
+"word": "postulate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "公設",
+"c": "math"
+},
+{
+"word": "power function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "冪函數",
+"c": "math"
+},
+{
+"word": "power series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "冪級數",
+"c": "math"
+},
+{
+"word": "power set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "冪集",
+"c": "math"
+},
+{
+"word": "precision",
+"phonetic": "",
+"pos": "n.",
+"meaning": "精確度",
+"c": "math"
+},
+{
+"word": "prime number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "質數，素數",
+"c": "math"
+},
+{
+"word": "primitive function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "原函數",
+"c": "math"
+},
+{
+"word": "principal angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主角",
+"c": "math"
+},
+{
+"word": "principal axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主軸",
+"c": "math"
+},
+{
+"word": "principal diagonal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主對角線",
+"c": "math"
+},
+{
+"word": "principal value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主值",
+"c": "math"
+},
+{
+"word": "principal value interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主值區間",
+"c": "math"
+},
+{
+"word": "principle of mathematical induction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數學歸納法原理",
+"c": "math"
+},
+{
+"word": "principle of superposition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "疊合原理，重疊原理",
+"c": "math"
+},
+{
+"word": "prior probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "先驗概率，事先概率",
+"c": "math"
+},
+{
+"word": "prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角柱（體），稜柱（體）",
+"c": "math"
+},
+{
+"word": "prismoid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平截頭稜錐體",
+"c": "math"
+},
+{
+"word": "probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率，機率，或然率",
+"c": "math"
+},
+{
+"word": "probability density function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率密度函數",
+"c": "math"
+},
+{
+"word": "probability distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率分佈",
+"c": "math"
+},
+{
+"word": "probability function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率函數",
+"c": "math"
+},
+{
+"word": "probability generating function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率母函數",
+"c": "math"
+},
+{
+"word": "probability sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "概率抽樣，機率抽樣",
+"c": "math"
+},
+{
+"word": "problem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "應用題",
+"c": "math"
+},
+{
+"word": "product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積，乘積",
+"c": "math"
+},
+{
+"word": "product rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積法則",
+"c": "math"
+},
+{
+"word": "product sample space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積樣本空間",
+"c": "math"
+},
+{
+"word": "product set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積集（合）",
+"c": "math"
+},
+{
+"word": "product sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘號",
+"c": "math"
+},
+{
+"word": "product-to-sum formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積化和差公式",
+"c": "math"
+},
+{
+"word": "projecting lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "投影線，投映線",
+"c": "math"
+},
+{
+"word": "projecting plane",
+"phonetic": "",
+"pos": "n.",
+"meaning": "投影平面，投映平面",
+"c": "math"
+},
+{
+"word": "projection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "投影，投映，射影，射映",
+"c": "math"
+},
+{
+"word": "proof",
+"phonetic": "",
+"pos": "n.",
+"meaning": "證（明）",
+"c": "math"
+},
+{
+"word": "proof by contradiction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反證法，歸謬法",
+"c": "math"
+},
+{
+"word": "proof by contrapositive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逆否命題法",
+"c": "math"
+},
+{
+"word": "proper fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "真分數，真分式",
+"c": "math"
+},
+{
+"word": "proper integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正常積分",
+"c": "math"
+},
+{
+"word": "proper subset",
+"phonetic": "",
+"pos": "n.",
+"meaning": "真子集",
+"c": "math"
+},
+{
+"word": "property",
+"phonetic": "",
+"pos": "n.",
+"meaning": "性質",
+"c": "math"
+},
+{
+"word": "proportion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "比例",
+"c": "math"
+},
+{
+"word": "proportional",
+"phonetic": "",
+"pos": "n.",
+"meaning": "成比例的",
+"c": "math"
+},
+{
+"word": "proposition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "命題",
+"c": "math"
+},
+{
+"word": "propositional calculus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "命題演算",
+"c": "math"
+},
+{
+"word": "propositional inference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "命題推演",
+"c": "math"
+},
+{
+"word": "protractor",
+"phonetic": "",
+"pos": "n.",
+"meaning": "量角器",
+"c": "math"
+},
+{
+"word": "prove",
+"phonetic": "",
+"pos": "n.",
+"meaning": "證（明）",
+"c": "math"
+},
+{
+"word": "Ptolemy Theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "托勒密定理",
+"c": "math"
+},
+{
+"word": "purely imaginary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純虛數",
+"c": "math"
+},
+{
+"word": "pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "角錐（體），稜錐（體）",
+"c": "math"
+},
+{
+"word": "Pythagoras theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "畢氏定理，畢達哥拉斯定理，勾股定理，商高定理",
+"c": "math"
+},
+{
+"word": "Pythagorean triples, Pythagorean triplet",
+"phonetic": "",
+"pos": "n.",
+"meaning": "畢氏三元（數）組，畢達哥拉斯三元（數）組",
+"c": "math"
+},
+{
+"word": "quadrant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "象限",
+"c": "math"
+},
+{
+"word": "quadratic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次方程（式）",
+"c": "math"
+},
+{
+"word": "quadratic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次函數",
+"c": "math"
+},
+{
+"word": "quadratic inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次不等式",
+"c": "math"
+},
+{
+"word": "quadratic surd",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二次不盡根，二次根式",
+"c": "math"
+},
+{
+"word": "quadrilateral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四邊形，四邊的",
+"c": "math"
+},
+{
+"word": "quadrilateral prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四角柱",
+"c": "math"
+},
+{
+"word": "quadrilateral pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四角錐",
+"c": "math"
+},
+{
+"word": "quantifier",
+"phonetic": "",
+"pos": "n.",
+"meaning": "量詞",
+"c": "math"
+},
+{
+"word": "quarter-circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四分（之）一圓",
+"c": "math"
+},
+{
+"word": "quartic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四次方程（式）",
+"c": "math"
+},
+{
+"word": "quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四分位數",
+"c": "math"
+},
+{
+"word": "quintic equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "五次方程（式）",
+"c": "math"
+},
+{
+"word": "quotient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "商（式），商數",
+"c": "math"
+},
+{
+"word": "quotient rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "商法則",
+"c": "math"
+},
+{
+"word": "R R radial component",
+"phonetic": "",
+"pos": "n.",
+"meaning": "徑向分量",
+"c": "math"
+},
+{
+"word": "radian",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弧度",
+"c": "math"
+},
+{
+"word": "radian measure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弧度（法）",
+"c": "math"
+},
+{
+"word": "radical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根（式），根號，根數，根基",
+"c": "math"
+},
+{
+"word": "radical axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根軸，等冪軸",
+"c": "math"
+},
+{
+"word": "radical centre",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根心，等冪心",
+"c": "math"
+},
+{
+"word": "radical sign",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根號",
+"c": "math"
+},
+{
+"word": "radication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "開方",
+"c": "math"
+},
+{
+"word": "radius",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半徑",
+"c": "math"
+},
+{
+"word": "random",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機（的）",
+"c": "math"
+},
+{
+"word": "random experiment",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機試驗",
+"c": "math"
+},
+{
+"word": "random number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機數",
+"c": "math"
+},
+{
+"word": "random sample",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機樣本",
+"c": "math"
+},
+{
+"word": "random sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機抽樣",
+"c": "math"
+},
+{
+"word": "random variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "隨機變量，隨機變數",
+"c": "math"
+},
+{
+"word": "rank",
+"phonetic": "",
+"pos": "n.",
+"meaning": "秩",
+"c": "math"
+},
+{
+"word": "rate of change",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變（化）率",
+"c": "math"
+},
+{
+"word": "ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "比（率），比值",
+"c": "math"
+},
+{
+"word": "rational expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有理式，有理表達式",
+"c": "math"
+},
+{
+"word": "rational function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有理函數",
+"c": "math"
+},
+{
+"word": "rational index",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有理（數）指數",
+"c": "math"
+},
+{
+"word": "rational number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有理數",
+"c": "math"
+},
+{
+"word": "rationalisation, rationalization",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有理化",
+"c": "math"
+},
+{
+"word": "raw data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "原始數據",
+"c": "math"
+},
+{
+"word": "raw score",
+"phonetic": "",
+"pos": "n.",
+"meaning": "原始分（數）",
+"c": "math"
+},
+{
+"word": "real axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "實軸",
+"c": "math"
+},
+{
+"word": "real number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "實數",
+"c": "math"
+},
+{
+"word": "real part",
+"phonetic": "",
+"pos": "n.",
+"meaning": "實部",
+"c": "math"
+},
+{
+"word": "real root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "實根",
+"c": "math"
+},
+{
+"word": "rectangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "長方形，矩形",
+"c": "math"
+},
+{
+"word": "rectangular coordinate system",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角坐標系",
+"c": "math"
+},
+{
+"word": "rectangular coordinates",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角坐標",
+"c": "math"
+},
+{
+"word": "rectangular distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩形分佈",
+"c": "math"
+},
+{
+"word": "rectangular hyperbola",
+"phonetic": "",
+"pos": "n.",
+"meaning": "等軸雙曲線，直角雙曲線",
+"c": "math"
+},
+{
+"word": "rectangular number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩形數",
+"c": "math"
+},
+{
+"word": "rectangular prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩形稜柱（體），四角柱（體），長方柱",
+"c": "math"
+},
+{
+"word": "rectangular pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "矩形稜錐（體），四角錐（體）",
+"c": "math"
+},
+{
+"word": "rectilinear figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線圖形",
+"c": "math"
+},
+{
+"word": "recurrence formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "遞推公式",
+"c": "math"
+},
+{
+"word": "recurrent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環的，遞歸的",
+"c": "math"
+},
+{
+"word": "recurring decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環小數",
+"c": "math"
+},
+{
+"word": "recurring period",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環節",
+"c": "math"
+},
+{
+"word": "reduce",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡化",
+"c": "math"
+},
+{
+"word": "reducibility",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可約性，可化簡性",
+"c": "math"
+},
+{
+"word": "reducible",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可約的，可化簡的",
+"c": "math"
+},
+{
+"word": "reducing fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "約分",
+"c": "math"
+},
+{
+"word": "Reductio ad absurdum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "歸謬法",
+"c": "math"
+},
+{
+"word": "reduction formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "歸約公式，約化公式",
+"c": "math"
+},
+{
+"word": "reflection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反射，鏡射",
+"c": "math"
+},
+{
+"word": "reflectional symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "反射對稱",
+"c": "math"
+},
+{
+"word": "reflex angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "優角，反角",
+"c": "math"
+},
+{
+"word": "reflexive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自反的，反射的",
+"c": "math"
+},
+{
+"word": "reflexive relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "自反關係",
+"c": "math"
+},
+{
+"word": "region",
+"phonetic": "",
+"pos": "n.",
+"meaning": "區域",
+"c": "math"
+},
+{
+"word": "region of acceptance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "接受區域，接收區域",
+"c": "math"
+},
+{
+"word": "region of rejection",
+"phonetic": "",
+"pos": "n.",
+"meaning": "否定區域",
+"c": "math"
+},
+{
+"word": "regular polygon",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正多邊形",
+"c": "math"
+},
+{
+"word": "regular polyhedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正多面體",
+"c": "math"
+},
+{
+"word": "regular prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正稜柱（體）",
+"c": "math"
+},
+{
+"word": "regular pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正稜錐（體）",
+"c": "math"
+},
+{
+"word": "relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "關係（式）",
+"c": "math"
+},
+{
+"word": "relative error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相對誤差",
+"c": "math"
+},
+{
+"word": "relative frequency",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相對頻數",
+"c": "math"
+},
+{
+"word": "relative maximum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相對極大（值）",
+"c": "math"
+},
+{
+"word": "relative minimum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相對極小（值）",
+"c": "math"
+},
+{
+"word": "relatively prime",
+"phonetic": "",
+"pos": "n.",
+"meaning": "互質，互素",
+"c": "math"
+},
+{
+"word": "remainder",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘數，餘式，餘項，剩餘",
+"c": "math"
+},
+{
+"word": "remainder term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘項",
+"c": "math"
+},
+{
+"word": "remainder theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "餘式定理",
+"c": "math"
+},
+{
+"word": "repeated trials",
+"phonetic": "",
+"pos": "n.",
+"meaning": "重複試驗",
+"c": "math"
+},
+{
+"word": "repeating decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "循環小數",
+"c": "math"
+},
+{
+"word": "resolution of vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量分解，矢量分解",
+"c": "math"
+},
+{
+"word": "resultant vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "合（成）向量，合（成）矢量",
+"c": "math"
+},
+{
+"word": "rhombus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "菱形",
+"c": "math"
+},
+{
+"word": "Riemann sum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "黎曼和",
+"c": "math"
+},
+{
+"word": "right angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角",
+"c": "math"
+},
+{
+"word": "right circular cone",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直（立）圓錐（體）",
+"c": "math"
+},
+{
+"word": "right circular cylinder",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直（立）圓柱（體）",
+"c": "math"
+},
+{
+"word": "right prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直（立）稜柱（體）",
+"c": "math"
+},
+{
+"word": "right pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直（立）稜錐（體）",
+"c": "math"
+},
+{
+"word": "right triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角三角形",
+"c": "math"
+},
+{
+"word": "right-angled isosceles triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角等腰三角形",
+"c": "math"
+},
+{
+"word": "right-angled triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直角三角形",
+"c": "math"
+},
+{
+"word": "right-hand limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "右（方）極限",
+"c": "math"
+},
+{
+"word": "Rolle's theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "洛爾定理，羅爾定理",
+"c": "math"
+},
+{
+"word": "Roman numerals",
+"phonetic": "",
+"pos": "n.",
+"meaning": "羅馬數字",
+"c": "math"
+},
+{
+"word": "root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根",
+"c": "math"
+},
+{
+"word": "root-mean-square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "均方根",
+"c": "math"
+},
+{
+"word": "rotation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉",
+"c": "math"
+},
+{
+"word": "rotational symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉對稱",
+"c": "math"
+},
+{
+"word": "round angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "周角",
+"c": "math"
+},
+{
+"word": "round bracket",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓括號，圓括弧",
+"c": "math"
+},
+{
+"word": "round down",
+"phonetic": "",
+"pos": "n.",
+"meaning": "下捨入，不進位捨入",
+"c": "math"
+},
+{
+"word": "round off",
+"phonetic": "",
+"pos": "n.",
+"meaning": "捨入，四捨五入",
+"c": "math"
+},
+{
+"word": "round up",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上捨入，進位捨入",
+"c": "math"
+},
+{
+"word": "row",
+"phonetic": "",
+"pos": "n.",
+"meaning": "行",
+"c": "math"
+},
+{
+"word": "row vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "行向量，行矢量",
+"c": "math"
+},
+{
+"word": "rule of total probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總概率法則",
+"c": "math"
+},
+{
+"word": "ruler",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直尺",
+"c": "math"
+},
+{
+"word": "sample",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本",
+"c": "math"
+},
+{
+"word": "sample mean",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本平均數（值），樣本均值",
+"c": "math"
+},
+{
+"word": "sample size",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本大小，樣本數，樣本量",
+"c": "math"
+},
+{
+"word": "sample space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本空間",
+"c": "math"
+},
+{
+"word": "sample standard deviation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本標準差",
+"c": "math"
+},
+{
+"word": "sample statistic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本統計量",
+"c": "math"
+},
+{
+"word": "sample variance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樣本方差",
+"c": "math"
+},
+{
+"word": "sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "抽樣",
+"c": "math"
+},
+{
+"word": "sampling distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "抽樣分佈，樣本分佈",
+"c": "math"
+},
+{
+"word": "sampling technique",
+"phonetic": "",
+"pos": "n.",
+"meaning": "抽樣技術",
+"c": "math"
+},
+{
+"word": "sampling theory",
+"phonetic": "",
+"pos": "n.",
+"meaning": "抽樣（理）論",
+"c": "math"
+},
+{
+"word": "sandwich theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迫近定理",
+"c": "math"
+},
+{
+"word": "scalar",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純量（的），無向量（的），標量（的）",
+"c": "math"
+},
+{
+"word": "scalar matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純量矩陣，標量矩陣",
+"c": "math"
+},
+{
+"word": "scalar multiplication",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純量乘法，標量乘法",
+"c": "math"
+},
+{
+"word": "scalar product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純量積，點積，內積",
+"c": "math"
+},
+{
+"word": "scalar triple product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "純量三重積",
+"c": "math"
+},
+{
+"word": "scale",
+"phonetic": "",
+"pos": "n.",
+"meaning": "比例尺，標度，圖尺，尺度",
+"c": "math"
+},
+{
+"word": "scalene triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不等邊三角形，不規則三角形",
+"c": "math"
+},
+{
+"word": "scatter diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "散點圖，散佈圖",
+"c": "math"
+},
+{
+"word": "scientific notation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "科學記數法，科學記法，科學記號",
+"c": "math"
+},
+{
+"word": "secant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正割；割線",
+"c": "math"
+},
+{
+"word": "secant method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "割線法，正割法",
+"c": "math"
+},
+{
+"word": "second(s)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "秒",
+"c": "math"
+},
+{
+"word": "second derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二階導數，二次導數",
+"c": "math"
+},
+{
+"word": "second derivative test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二階導數判別法，二階導數檢測",
+"c": "math"
+},
+{
+"word": "second order ordinary differential equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二階常微分方程（式）",
+"c": "math"
+},
+{
+"word": "second quadrant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第二象限",
+"c": "math"
+},
+{
+"word": "second quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第二四分位數",
+"c": "math"
+},
+{
+"word": "section",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截面，切面；截線；截點",
+"c": "math"
+},
+{
+"word": "section formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截點公式",
+"c": "math"
+},
+{
+"word": "sector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "扇形",
+"c": "math"
+},
+{
+"word": "segment of a circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "弓形",
+"c": "math"
+},
+{
+"word": "semi-circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半圓",
+"c": "math"
+},
+{
+"word": "semi-conjugate axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半共軛軸",
+"c": "math"
+},
+{
+"word": "semi-major axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半主軸，半長軸",
+"c": "math"
+},
+{
+"word": "semi-minor axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半副軸，半短軸",
+"c": "math"
+},
+{
+"word": "semi-regular polyhedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半正多面體",
+"c": "math"
+},
+{
+"word": "semi-transverse axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半貫軸",
+"c": "math"
+},
+{
+"word": "semi-vertical angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半頂角",
+"c": "math"
+},
+{
+"word": "sentence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "句，語句",
+"c": "math"
+},
+{
+"word": "sequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數列，序列",
+"c": "math"
+},
+{
+"word": "series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "級數",
+"c": "math"
+},
+{
+"word": "set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "集（合）",
+"c": "math"
+},
+{
+"word": "set square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角尺，三角板",
+"c": "math"
+},
+{
+"word": "sexagesimal number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六十進制數，六十進位數，六十進數",
+"c": "math"
+},
+{
+"word": "shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "形狀，圖形",
+"c": "math"
+},
+{
+"word": "shear",
+"phonetic": "",
+"pos": "n.",
+"meaning": "剪（切），剪力",
+"c": "math"
+},
+{
+"word": "shell method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "外殼法",
+"c": "math"
+},
+{
+"word": "short division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "短除法",
+"c": "math"
+},
+{
+"word": "side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "邊，側",
+"c": "math"
+},
+{
+"word": "Sieve of Eratosthenes",
+"phonetic": "",
+"pos": "n.",
+"meaning": "愛氏篩，埃拉托色尼篩法",
+"c": "math"
+},
+{
+"word": "significance level",
+"phonetic": "",
+"pos": "n.",
+"meaning": "顯著性水平",
+"c": "math"
+},
+{
+"word": "significant digit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有效位",
+"c": "math"
+},
+{
+"word": "significant figure",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有效數字",
+"c": "math"
+},
+{
+"word": "signum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正負號函數",
+"c": "math"
+},
+{
+"word": "similar figures",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相似圖形",
+"c": "math"
+},
+{
+"word": "similar triangles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相似三角形",
+"c": "math"
+},
+{
+"word": "similarity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "相似（性）",
+"c": "math"
+},
+{
+"word": "simple equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡易方程（式）",
+"c": "math"
+},
+{
+"word": "simple iteration method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡單迭代法",
+"c": "math"
+},
+{
+"word": "simple random sample",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡單隨機樣本",
+"c": "math"
+},
+{
+"word": "simple random sampling",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡單隨機抽樣",
+"c": "math"
+},
+{
+"word": "simplify",
+"phonetic": "",
+"pos": "n.",
+"meaning": "簡化",
+"c": "math"
+},
+{
+"word": "simplifying fraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "約分",
+"c": "math"
+},
+{
+"word": "Simpson integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "森遜積分，辛普森積分",
+"c": "math"
+},
+{
+"word": "Simpson rule, Simpson's rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "森遜法則，辛普森法則",
+"c": "math"
+},
+{
+"word": "simultaneous equations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "聯立方程（式）",
+"c": "math"
+},
+{
+"word": "simultaneous inequalities",
+"phonetic": "",
+"pos": "n.",
+"meaning": "聯立不等式",
+"c": "math"
+},
+{
+"word": "simultaneous linear equations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "聯立一次方程，聯立線性方程",
+"c": "math"
+},
+{
+"word": "sine",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正弦",
+"c": "math"
+},
+{
+"word": "sine formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正弦公式",
+"c": "math"
+},
+{
+"word": "singleton",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單元集",
+"c": "math"
+},
+{
+"word": "single-valued function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單值函數",
+"c": "math"
+},
+{
+"word": "singular",
+"phonetic": "",
+"pos": "n.",
+"meaning": "奇（異）的",
+"c": "math"
+},
+{
+"word": "singular matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "奇異矩陣",
+"c": "math"
+},
+{
+"word": "six-sided prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六角柱（體）",
+"c": "math"
+},
+{
+"word": "six-sided pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六角錐（體）",
+"c": "math"
+},
+{
+"word": "six-sided shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "六邊形",
+"c": "math"
+},
+{
+"word": "skew distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "偏斜分佈",
+"c": "math"
+},
+{
+"word": "slant edge",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜稜，斜棱",
+"c": "math"
+},
+{
+"word": "slant height",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜高",
+"c": "math"
+},
+{
+"word": "slide rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "計算尺",
+"c": "math"
+},
+{
+"word": "slope",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜率，斜度，傾斜，坡度",
+"c": "math"
+},
+{
+"word": "slope-intercept form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "斜率截距式，斜截式",
+"c": "math"
+},
+{
+"word": "solid of revolution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉體，迴旋體",
+"c": "math"
+},
+{
+"word": "solidus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "分線",
+"c": "math"
+},
+{
+"word": "solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "解，解法",
+"c": "math"
+},
+{
+"word": "solution of equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方程（式）解",
+"c": "math"
+},
+{
+"word": "solution of triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "解三角形，三角形解法",
+"c": "math"
+},
+{
+"word": "solution set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "解集（合）",
+"c": "math"
+},
+{
+"word": "solve",
+"phonetic": "",
+"pos": "n.",
+"meaning": "解",
+"c": "math"
+},
+{
+"word": "Soma Cube",
+"phonetic": "",
+"pos": "n.",
+"meaning": "索馬立體",
+"c": "math"
+},
+{
+"word": "span",
+"phonetic": "",
+"pos": "n.",
+"meaning": "生成",
+"c": "math"
+},
+{
+"word": "special angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "特殊角，特別角",
+"c": "math"
+},
+{
+"word": "speed",
+"phonetic": "",
+"pos": "n.",
+"meaning": "速率，速度",
+"c": "math"
+},
+{
+"word": "spheroid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "球體",
+"c": "math"
+},
+{
+"word": "spiral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "螺線",
+"c": "math"
+},
+{
+"word": "square",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平方，二次冪；正方形；乘方",
+"c": "math"
+},
+{
+"word": "square centimetre (cm2)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平方厘米，平方公分",
+"c": "math"
+},
+{
+"word": "square matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方（矩）陣",
+"c": "math"
+},
+{
+"word": "square metre (m2)",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平方米，平方公尺",
+"c": "math"
+},
+{
+"word": "square number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正方形數，平方數",
+"c": "math"
+},
+{
+"word": "square root",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平方根，二次根",
+"c": "math"
+},
+{
+"word": "squeeze theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "迫近定理",
+"c": "math"
+},
+{
+"word": "standard deviation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準差",
+"c": "math"
+},
+{
+"word": "standard equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準方程（式）",
+"c": "math"
+},
+{
+"word": "standard error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準誤（差）",
+"c": "math"
+},
+{
+"word": "standard form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準式，標準型",
+"c": "math"
+},
+{
+"word": "standard normal distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準正態分佈，標準常態分佈",
+"c": "math"
+},
+{
+"word": "standard normal table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準正態（分佈）表",
+"c": "math"
+},
+{
+"word": "standard normal variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準正態變量，標準常態變量，標準正態變數，標準常態變數",
+"c": "math"
+},
+{
+"word": "standard score",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準分",
+"c": "math"
+},
+{
+"word": "standard unit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準單位",
+"c": "math"
+},
+{
+"word": "standardisation, standardization",
+"phonetic": "",
+"pos": "n.",
+"meaning": "標準化",
+"c": "math"
+},
+{
+"word": "statement",
+"phonetic": "",
+"pos": "n.",
+"meaning": "陳述，述句，語句",
+"c": "math"
+},
+{
+"word": "stationary point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平穩點，駐點",
+"c": "math"
+},
+{
+"word": "stationary value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平穩值",
+"c": "math"
+},
+{
+"word": "statistic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計量",
+"c": "math"
+},
+{
+"word": "statistical analysis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計分析",
+"c": "math"
+},
+{
+"word": "statistical chart",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計圖（表）",
+"c": "math"
+},
+{
+"word": "statistical data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計數據",
+"c": "math"
+},
+{
+"word": "statistical inference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計推論",
+"c": "math"
+},
+{
+"word": "statistical reasoning",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計推理",
+"c": "math"
+},
+{
+"word": "statistical significance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計顯著性",
+"c": "math"
+},
+{
+"word": "statistical test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "統計檢驗，統計試驗",
+"c": "math"
+},
+{
+"word": "stem-and-leaf diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "幹葉圖，莖葉圖",
+"c": "math"
+},
+{
+"word": "step function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "階梯函數",
+"c": "math"
+},
+{
+"word": "straight angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平角",
+"c": "math"
+},
+{
+"word": "straight line",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線",
+"c": "math"
+},
+{
+"word": "straight line graph",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線圖像",
+"c": "math"
+},
+{
+"word": "strictly monotonic",
+"phonetic": "",
+"pos": "n.",
+"meaning": "嚴格單調",
+"c": "math"
+},
+{
+"word": "strictly monotonic function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "嚴格單調函數",
+"c": "math"
+},
+{
+"word": "sub-interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "子區間",
+"c": "math"
+},
+{
+"word": "subject",
+"phonetic": "",
+"pos": "n.",
+"meaning": "主項",
+"c": "math"
+},
+{
+"word": "submultiple angle formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "半角公式",
+"c": "math"
+},
+{
+"word": "subnormal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "次法線",
+"c": "math"
+},
+{
+"word": "subsequence",
+"phonetic": "",
+"pos": "n.",
+"meaning": "子序列，子數列",
+"c": "math"
+},
+{
+"word": "subset",
+"phonetic": "",
+"pos": "n.",
+"meaning": "子集（合）",
+"c": "math"
+},
+{
+"word": "subsidiary angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輔助角",
+"c": "math"
+},
+{
+"word": "subsidiary angle form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "輔助角形式",
+"c": "math"
+},
+{
+"word": "substitute",
+"phonetic": "",
+"pos": "n.",
+"meaning": "代入，代換",
+"c": "math"
+},
+{
+"word": "subtend",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對向",
+"c": "math"
+},
+{
+"word": "subtract",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減",
+"c": "math"
+},
+{
+"word": "subtraction",
+"phonetic": "",
+"pos": "n.",
+"meaning": "減法",
+"c": "math"
+},
+{
+"word": "subtraction with borrowing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "退位減法",
+"c": "math"
+},
+{
+"word": "successive approximation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逐次逼近，逐次近似",
+"c": "math"
+},
+{
+"word": "successive derivative",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逐次導數，逐次微商",
+"c": "math"
+},
+{
+"word": "successive differentiation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "逐次求導法，逐次微分法",
+"c": "math"
+},
+{
+"word": "Sudoku",
+"phonetic": "",
+"pos": "n.",
+"meaning": "數獨",
+"c": "math"
+},
+{
+"word": "sufficiency",
+"phonetic": "",
+"pos": "n.",
+"meaning": "充分性",
+"c": "math"
+},
+{
+"word": "sufficient and necessary condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "充要條件",
+"c": "math"
+},
+{
+"word": "sufficient condition",
+"phonetic": "",
+"pos": "n.",
+"meaning": "充分條件",
+"c": "math"
+},
+{
+"word": "sum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "和，總數",
+"c": "math"
+},
+{
+"word": "sum to infinity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無限項之和",
+"c": "math"
+},
+{
+"word": "sum to n terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "項和",
+"c": "math"
+},
+{
+"word": "sum to product formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "和差化積公式",
+"c": "math"
+},
+{
+"word": "summation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "求和（法），總和",
+"c": "math"
+},
+{
+"word": "summation formula",
+"phonetic": "",
+"pos": "n.",
+"meaning": "求和公式，總和公式",
+"c": "math"
+},
+{
+"word": "summation notation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "求和記法",
+"c": "math"
+},
+{
+"word": "superimposing",
+"phonetic": "",
+"pos": "n.",
+"meaning": "疊和，疊合",
+"c": "math"
+},
+{
+"word": "supplementary angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "補角",
+"c": "math"
+},
+{
+"word": "surd",
+"phonetic": "",
+"pos": "n.",
+"meaning": "根式，不盡根",
+"c": "math"
+},
+{
+"word": "surface",
+"phonetic": "",
+"pos": "n.",
+"meaning": "面，表面，曲面",
+"c": "math"
+},
+{
+"word": "surface area",
+"phonetic": "",
+"pos": "n.",
+"meaning": "表面面積，曲面面積",
+"c": "math"
+},
+{
+"word": "surface of revolution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉曲面，迴轉曲面",
+"c": "math"
+},
+{
+"word": "syllogism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三段論",
+"c": "math"
+},
+{
+"word": "symbol",
+"phonetic": "",
+"pos": "n.",
+"meaning": "符號，記號",
+"c": "math"
+},
+{
+"word": "symmetric difference",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱差",
+"c": "math"
+},
+{
+"word": "symmetric expression",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱式",
+"c": "math"
+},
+{
+"word": "symmetric matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱矩陣",
+"c": "math"
+},
+{
+"word": "symmetric relation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱關係",
+"c": "math"
+},
+{
+"word": "symmetrical shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱圖形",
+"c": "math"
+},
+{
+"word": "symmetry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對稱（性）",
+"c": "math"
+},
+{
+"word": "synthetic division",
+"phonetic": "",
+"pos": "n.",
+"meaning": "綜合除法",
+"c": "math"
+},
+{
+"word": "system of circles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "圓系",
+"c": "math"
+},
+{
+"word": "system of homogeneous linear equations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "齊次線性方程組",
+"c": "math"
+},
+{
+"word": "system of non-homogeneous linear equations",
+"phonetic": "",
+"pos": "n.",
+"meaning": "非齊次線性方程組",
+"c": "math"
+},
+{
+"word": "system of numerals",
+"phonetic": "",
+"pos": "n.",
+"meaning": "記數系統",
+"c": "math"
+},
+{
+"word": "system of straight lines",
+"phonetic": "",
+"pos": "n.",
+"meaning": "直線系",
+"c": "math"
+},
+{
+"word": "table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "表",
+"c": "math"
+},
+{
+"word": "tabulate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "製表",
+"c": "math"
+},
+{
+"word": "tabulation form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "表列式",
+"c": "math"
+},
+{
+"word": "tabulation method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "列表法",
+"c": "math"
+},
+{
+"word": "tangent",
+"phonetic": "",
+"pos": "n.",
+"meaning": "正切；切線（的）",
+"c": "math"
+},
+{
+"word": "tangram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "七巧板",
+"c": "math"
+},
+{
+"word": "tautology",
+"phonetic": "",
+"pos": "n.",
+"meaning": "恆真命題，恆真式，重言式",
+"c": "math"
+},
+{
+"word": "Taylor expansion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "泰勒展開式",
+"c": "math"
+},
+{
+"word": "Taylor series",
+"phonetic": "",
+"pos": "n.",
+"meaning": "泰勒級數",
+"c": "math"
+},
+{
+"word": "Taylor theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "泰勒定理",
+"c": "math"
+},
+{
+"word": "ten million",
+"phonetic": "",
+"pos": "n.",
+"meaning": "千萬",
+"c": "math"
+},
+{
+"word": "tenthousands",
+"phonetic": "",
+"pos": "n.",
+"meaning": "萬",
+"c": "math"
+},
+{
+"word": "tenthousands place, tenthousand's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "萬位",
+"c": "math"
+},
+{
+"word": "tenthousandths place, tenthousandth's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "萬分位",
+"c": "math"
+},
+{
+"word": "tens place, ten's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十位",
+"c": "math"
+},
+{
+"word": "tenths place, tenth's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "十分位",
+"c": "math"
+},
+{
+"word": "term",
+"phonetic": "",
+"pos": "n.",
+"meaning": "項",
+"c": "math"
+},
+{
+"word": "terminal point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "終點",
+"c": "math"
+},
+{
+"word": "terminal side",
+"phonetic": "",
+"pos": "n.",
+"meaning": "終邊",
+"c": "math"
+},
+{
+"word": "terminating decimal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有限小數，有盡小數",
+"c": "math"
+},
+{
+"word": "tessellation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "密鋪，鋪嵌，嵌圖",
+"c": "math"
+},
+{
+"word": "test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "檢驗，試驗，測驗，檢定",
+"c": "math"
+},
+{
+"word": "test criterion",
+"phonetic": "",
+"pos": "n.",
+"meaning": "檢驗標準，檢驗判據",
+"c": "math"
+},
+{
+"word": "test of significance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "顯著性檢驗",
+"c": "math"
+},
+{
+"word": "test quotient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "試商",
+"c": "math"
+},
+{
+"word": "tetrahedron",
+"phonetic": "",
+"pos": "n.",
+"meaning": "四面體",
+"c": "math"
+},
+{
+"word": "theorem",
+"phonetic": "",
+"pos": "n.",
+"meaning": "定理",
+"c": "math"
+},
+{
+"word": "theoretical probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "理論概率",
+"c": "math"
+},
+{
+"word": "third quadrant",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第三象限",
+"c": "math"
+},
+{
+"word": "third quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第三四分位數",
+"c": "math"
+},
+{
+"word": "thousandths place, thousandth's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "千分位",
+"c": "math"
+},
+{
+"word": "three-dimensional shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "立體圖形",
+"c": "math"
+},
+{
+"word": "three-dimensional space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三維空間",
+"c": "math"
+},
+{
+"word": "time interval",
+"phonetic": "",
+"pos": "n.",
+"meaning": "時間間隔，時間區間",
+"c": "math"
+},
+{
+"word": "times",
+"phonetic": "",
+"pos": "n.",
+"meaning": "乘，倍",
+"c": "math"
+},
+{
+"word": "torus",
+"phonetic": "",
+"pos": "n.",
+"meaning": "環面",
+"c": "math"
+},
+{
+"word": "total probability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "總概率，全概率",
+"c": "math"
+},
+{
+"word": "touch",
+"phonetic": "",
+"pos": "n.",
+"meaning": "切（觸）",
+"c": "math"
+},
+{
+"word": "trace",
+"phonetic": "",
+"pos": "n.",
+"meaning": "跡",
+"c": "math"
+},
+{
+"word": "transcendental function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "超越函數",
+"c": "math"
+},
+{
+"word": "transcendental number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "超越數",
+"c": "math"
+},
+{
+"word": "transform",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變換，轉換",
+"c": "math"
+},
+{
+"word": "transformation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變換，轉換",
+"c": "math"
+},
+{
+"word": "transitive",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可（傳）遞的，可遷的",
+"c": "math"
+},
+{
+"word": "transitive law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可遷律，傳遞律",
+"c": "math"
+},
+{
+"word": "transitive property",
+"phonetic": "",
+"pos": "n.",
+"meaning": "傳遞性",
+"c": "math"
+},
+{
+"word": "transitivity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "傳遞性",
+"c": "math"
+},
+{
+"word": "translation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平移",
+"c": "math"
+},
+{
+"word": "transpose of matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "轉置矩陣",
+"c": "math"
+},
+{
+"word": "transversal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截線，橫截的",
+"c": "math"
+},
+{
+"word": "transverse axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "貫軸，橫截軸",
+"c": "math"
+},
+{
+"word": "transverse component",
+"phonetic": "",
+"pos": "n.",
+"meaning": "橫截分量",
+"c": "math"
+},
+{
+"word": "trapezium",
+"phonetic": "",
+"pos": "n.",
+"meaning": "梯形",
+"c": "math"
+},
+{
+"word": "trapezoidal integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "梯形積分",
+"c": "math"
+},
+{
+"word": "trapezoidal rule",
+"phonetic": "",
+"pos": "n.",
+"meaning": "梯形法則",
+"c": "math"
+},
+{
+"word": "travel graph",
+"phonetic": "",
+"pos": "n.",
+"meaning": "行程圖",
+"c": "math"
+},
+{
+"word": "tree diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "樹形圖",
+"c": "math"
+},
+{
+"word": "trial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "試，試驗",
+"c": "math"
+},
+{
+"word": "triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角形",
+"c": "math"
+},
+{
+"word": "triangle inequality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角不等式",
+"c": "math"
+},
+{
+"word": "triangle method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角形法",
+"c": "math"
+},
+{
+"word": "triangular matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角（形）矩陣",
+"c": "math"
+},
+{
+"word": "triangular number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角形數",
+"c": "math"
+},
+{
+"word": "triangular prism",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角柱（體），三稜柱（體）",
+"c": "math"
+},
+{
+"word": "triangular pyramid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角錐（體），三稜錐（體）",
+"c": "math"
+},
+{
+"word": "trichotomy law",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三分律",
+"c": "math"
+},
+{
+"word": "trigonometric equation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角方程（式）",
+"c": "math"
+},
+{
+"word": "trigonometric function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角函數",
+"c": "math"
+},
+{
+"word": "trigonometric identity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角恆等式",
+"c": "math"
+},
+{
+"word": "trigonometric ratio",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角比",
+"c": "math"
+},
+{
+"word": "trigonometric table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角函數表",
+"c": "math"
+},
+{
+"word": "trigonometry",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三角學",
+"c": "math"
+},
+{
+"word": "trinomial",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三項式",
+"c": "math"
+},
+{
+"word": "triple angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三倍角",
+"c": "math"
+},
+{
+"word": "triple product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三重積",
+"c": "math"
+},
+{
+"word": "trisect",
+"phonetic": "",
+"pos": "n.",
+"meaning": "三等分",
+"c": "math"
+},
+{
+"word": "trivial solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平凡解",
+"c": "math"
+},
+{
+"word": "true",
+"phonetic": "",
+"pos": "n.",
+"meaning": "真（的）",
+"c": "math"
+},
+{
+"word": "truncation error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截斷誤差，截尾誤差，捨位誤差",
+"c": "math"
+},
+{
+"word": "trundle wheel",
+"phonetic": "",
+"pos": "n.",
+"meaning": "滾輪",
+"c": "math"
+},
+{
+"word": "truth table",
+"phonetic": "",
+"pos": "n.",
+"meaning": "真（假）值表",
+"c": "math"
+},
+{
+"word": "truth value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "真（假）值",
+"c": "math"
+},
+{
+"word": "turning point",
+"phonetic": "",
+"pos": "n.",
+"meaning": "轉向點",
+"c": "math"
+},
+{
+"word": "two-dimensional shape",
+"phonetic": "",
+"pos": "n.",
+"meaning": "平面圖形",
+"c": "math"
+},
+{
+"word": "two-dimensional space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "二維空間",
+"c": "math"
+},
+{
+"word": "two-point form",
+"phonetic": "",
+"pos": "n.",
+"meaning": "兩點式",
+"c": "math"
+},
+{
+"word": "two-tailed test",
+"phonetic": "",
+"pos": "n.",
+"meaning": "雙尾檢驗，雙端檢驗",
+"c": "math"
+},
+{
+"word": "type I error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第一型誤差，第一類誤差",
+"c": "math"
+},
+{
+"word": "type II error",
+"phonetic": "",
+"pos": "n.",
+"meaning": "第二型誤差，第二類誤差",
+"c": "math"
+},
+{
+"word": "unary operation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "一元運算",
+"c": "math"
+},
+{
+"word": "unbiased estimator",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無偏估計量，不偏估計量",
+"c": "math"
+},
+{
+"word": "unbounded function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "無界函數",
+"c": "math"
+},
+{
+"word": "undefined",
+"phonetic": "",
+"pos": "n.",
+"meaning": "未定義（的）",
+"c": "math"
+},
+{
+"word": "undetermined coefficient",
+"phonetic": "",
+"pos": "n.",
+"meaning": "待定係數",
+"c": "math"
+},
+{
+"word": "unequal",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不等",
+"c": "math"
+},
+{
+"word": "ungrouped data",
+"phonetic": "",
+"pos": "n.",
+"meaning": "未分組數據，不分組數據",
+"c": "math"
+},
+{
+"word": "uniform cross-section",
+"phonetic": "",
+"pos": "n.",
+"meaning": "均勻截面，均勻橫切面",
+"c": "math"
+},
+{
+"word": "uniform distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "均勻分佈",
+"c": "math"
+},
+{
+"word": "unimodal distribution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單峰分佈",
+"c": "math"
+},
+{
+"word": "union",
+"phonetic": "",
+"pos": "n.",
+"meaning": "併集，和集，聯（集），併",
+"c": "math"
+},
+{
+"word": "unique",
+"phonetic": "",
+"pos": "n.",
+"meaning": "唯一（的）",
+"c": "math"
+},
+{
+"word": "unique solution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "唯一解",
+"c": "math"
+},
+{
+"word": "uniqueness",
+"phonetic": "",
+"pos": "n.",
+"meaning": "唯一性",
+"c": "math"
+},
+{
+"word": "unit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位",
+"c": "math"
+},
+{
+"word": "unit area",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位面積",
+"c": "math"
+},
+{
+"word": "unit circle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位圓",
+"c": "math"
+},
+{
+"word": "unit imaginary number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位虛數",
+"c": "math"
+},
+{
+"word": "unit matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位矩陣",
+"c": "math"
+},
+{
+"word": "unit vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位向量，單位矢量",
+"c": "math"
+},
+{
+"word": "unit volume",
+"phonetic": "",
+"pos": "n.",
+"meaning": "單位體積",
+"c": "math"
+},
+{
+"word": "unitary method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "歸一法",
+"c": "math"
+},
+{
+"word": "units place, unit's place",
+"phonetic": "",
+"pos": "n.",
+"meaning": "個位",
+"c": "math"
+},
+{
+"word": "universal quantifier",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全稱量詞",
+"c": "math"
+},
+{
+"word": "universal set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "全集，宇集，泛集",
+"c": "math"
+},
+{
+"word": "unknown",
+"phonetic": "",
+"pos": "n.",
+"meaning": "未知數，未知量",
+"c": "math"
+},
+{
+"word": "unknown quantity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "未知量",
+"c": "math"
+},
+{
+"word": "unlike terms",
+"phonetic": "",
+"pos": "n.",
+"meaning": "異類項",
+"c": "math"
+},
+{
+"word": "upper base",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上底",
+"c": "math"
+},
+{
+"word": "upper bound",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上界",
+"c": "math"
+},
+{
+"word": "upper boundary",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上邊界",
+"c": "math"
+},
+{
+"word": "upper limit",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上（極）限",
+"c": "math"
+},
+{
+"word": "upper limit of integral",
+"phonetic": "",
+"pos": "n.",
+"meaning": "積分上限",
+"c": "math"
+},
+{
+"word": "upper quartile",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上四分位數",
+"c": "math"
+},
+{
+"word": "upper sum",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上和",
+"c": "math"
+},
+{
+"word": "upper triangular matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "上三角形矩陣",
+"c": "math"
+},
+{
+"word": "valid",
+"phonetic": "",
+"pos": "n.",
+"meaning": "有效的",
+"c": "math"
+},
+{
+"word": "valid argument",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對確論證，有效論證",
+"c": "math"
+},
+{
+"word": "validity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "效度；有效性",
+"c": "math"
+},
+{
+"word": "value",
+"phonetic": "",
+"pos": "n.",
+"meaning": "值，數值",
+"c": "math"
+},
+{
+"word": "variability",
+"phonetic": "",
+"pos": "n.",
+"meaning": "可變性，變異性",
+"c": "math"
+},
+{
+"word": "variable",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變量，元，變元，變數",
+"c": "math"
+},
+{
+"word": "variance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "方差，變異數",
+"c": "math"
+},
+{
+"word": "variation",
+"phonetic": "",
+"pos": "n.",
+"meaning": "變數，變分",
+"c": "math"
+},
+{
+"word": "vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量，矢量",
+"c": "math"
+},
+{
+"word": "vector product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量積，矢量積，叉積",
+"c": "math"
+},
+{
+"word": "vector space",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量空間",
+"c": "math"
+},
+{
+"word": "vector triple product",
+"phonetic": "",
+"pos": "n.",
+"meaning": "向量三重積",
+"c": "math"
+},
+{
+"word": "velocity",
+"phonetic": "",
+"pos": "n.",
+"meaning": "速度",
+"c": "math"
+},
+{
+"word": "Venn diagram",
+"phonetic": "",
+"pos": "n.",
+"meaning": "溫氏圖，范氏圖，文氏圖，維恩圖",
+"c": "math"
+},
+{
+"word": "verification",
+"phonetic": "",
+"pos": "n.",
+"meaning": "檢驗，驗證",
+"c": "math"
+},
+{
+"word": "verify",
+"phonetic": "",
+"pos": "n.",
+"meaning": "檢驗，驗證",
+"c": "math"
+},
+{
+"word": "vertex",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頂點",
+"c": "math"
+},
+{
+"word": "vertical",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂直（的），鉛垂（的）",
+"c": "math"
+},
+{
+"word": "vertical angle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "頂角",
+"c": "math"
+},
+{
+"word": "vertical asymptote",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂直漸近線",
+"c": "math"
+},
+{
+"word": "vertical axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "縱軸",
+"c": "math"
+},
+{
+"word": "vertical component",
+"phonetic": "",
+"pos": "n.",
+"meaning": "垂直分量",
+"c": "math"
+},
+{
+"word": "vertically opposite angles",
+"phonetic": "",
+"pos": "n.",
+"meaning": "對頂角",
+"c": "math"
+},
+{
+"word": "void set",
+"phonetic": "",
+"pos": "n.",
+"meaning": "空集，虛集",
+"c": "math"
+},
+{
+"word": "volume",
+"phonetic": "",
+"pos": "n.",
+"meaning": "體積",
+"c": "math"
+},
+{
+"word": "volume of revolution",
+"phonetic": "",
+"pos": "n.",
+"meaning": "旋轉體的體積，迴轉體的體積",
+"c": "math"
+},
+{
+"word": "W W water displacement method",
+"phonetic": "",
+"pos": "n.",
+"meaning": "排水法，水置換法",
+"c": "math"
+},
+{
+"word": "weighing balance",
+"phonetic": "",
+"pos": "n.",
+"meaning": "磅",
+"c": "math"
+},
+{
+"word": "weighing scale",
+"phonetic": "",
+"pos": "n.",
+"meaning": "磅",
+"c": "math"
+},
+{
+"word": "weighted average",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加權平均數，加權平均值",
+"c": "math"
+},
+{
+"word": "weighted mean",
+"phonetic": "",
+"pos": "n.",
+"meaning": "加權平均數，加權平均值",
+"c": "math"
+},
+{
+"word": "whole number",
+"phonetic": "",
+"pos": "n.",
+"meaning": "整數",
+"c": "math"
+},
+{
+"word": "width",
+"phonetic": "",
+"pos": "n.",
+"meaning": "闊（度），寬（度）",
+"c": "math"
+},
+{
+"word": "without loss of generality",
+"phonetic": "",
+"pos": "n.",
+"meaning": "不失一般性，不失普遍性",
+"c": "math"
+},
+{
+"word": "x-axis",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軸",
+"c": "math"
+},
+{
+"word": "x-coordinate",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標",
+"c": "math"
+},
+{
+"word": "x-intercept",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截距",
+"c": "math"
+},
+{
+"word": "Yang Hui triangle",
+"phonetic": "",
+"pos": "n.",
+"meaning": "楊輝三角（形）",
+"c": "math"
+},
+{
+"word": "y-axis y",
+"phonetic": "",
+"pos": "n.",
+"meaning": "軸",
+"c": "math"
+},
+{
+"word": "y-coordinate y",
+"phonetic": "",
+"pos": "n.",
+"meaning": "坐標",
+"c": "math"
+},
+{
+"word": "y-intercept y",
+"phonetic": "",
+"pos": "n.",
+"meaning": "截距",
+"c": "math"
+},
+{
+"word": "zero function",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零函數",
+"c": "math"
+},
+{
+"word": "zero matrix",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零矩陣",
+"c": "math"
+},
+{
+"word": "zero vector",
+"phonetic": "",
+"pos": "n.",
+"meaning": "零向量，零矢量",
+"c": "math"
+}
+]

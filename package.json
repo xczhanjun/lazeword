@@ -1,0 +1,94 @@
+{
+  "name": "dsh-lazeword",
+  "description": "躺着背单词 lazeword — cozy offline vocabulary & subject learning for DeepSeek Harness (dsh): 15,000 words (EDB math/science/geography, Oxford 5000, Chinese classics, engineers' words), FSRS-5 scheduling, Anki sync, word games (3D racing, mine-sweeping, letter spelling, memory match). Runs standalone as a single HTML file.",
+  "version": "0.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xczhanjun/lazeword.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xczhanjun/lazeword/issues"
+  },
+  "homepage": "https://github.com/xczhanjun/lazeword#readme",
+  "keywords": [
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "desktop",
+    "vocabulary",
+    "english",
+    "kids",
+    "education",
+    "flashcards",
+    "spaced-repetition",
+    "fsrs",
+    "anki",
+    "offline"
+  ],
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/build-client.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "test:e2e": "playwright test",
+    "check": "node --check lib/index.js && node --check lib/client.js",
+    "prepublishOnly": "npm run test && npm run build && npm run check",
+    "check:laze": "node scripts/validate-laze.mjs"
+  },
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-connection",
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-runtime",
+        "@deepseek-ai/dsh-client-ui-primitives",
+        "@deepseek-ai/dsh-client-ui-settings",
+        "@deepseek-ai/dsh-api-remotes"
+      ]
+    }
+  },
+  "engines": {
+    "node": "^22.19.0 || >=24.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": ">=4.0.0 <5",
+    "@deepseek-ai/dsh-api-remotes": ">=0.1.0-rc.0 <0.2.0",
+    "@deepseek-ai/dsh-client-connection": ">=0.1.0-rc.0 <0.2.0",
+    "@deepseek-ai/dsh-client-locale": ">=0.1.0-rc.0 <0.2.0",
+    "@deepseek-ai/dsh-client-runtime": ">=0.1.0-rc.0 <0.2.0",
+    "@deepseek-ai/dsh-client-ui-primitives": ">=0.1.0-rc.0 <0.2.0",
+    "@deepseek-ai/dsh-client-ui-settings": ">=0.1.0-rc.0 <0.2.0",
+    "react": ">=18.2.0 <19"
+  },
+  "files": [
+    "lib/index.js",
+    "lib/client.js",
+    "cordis.patch.yml",
+    "app/lazeword.html",
+    "README.md",
+    "README.zh.md",
+    "CHANGELOG.md"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "ajv": "^8.20.0"
+  }
+}

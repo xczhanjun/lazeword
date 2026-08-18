@@ -1,0 +1,2149 @@
+[
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-1",
+      "title": "基礎詞 第 1 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Ambition",
+          "Decision",
+          "Effort",
+          "Journey",
+          "Knowledge",
+          "Opinion",
+          "Advice",
+          "Benefit",
+          "Challenge",
+          "Choice",
+          "Communication",
+          "Community",
+          "Competition",
+          "Confidence",
+          "Courage",
+          "Culture",
+          "Customer",
+          "Damage",
+          "Education",
+          "Emotion"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 1
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-2",
+      "title": "基礎詞 第 2 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Energy",
+          "Environment",
+          "Event",
+          "Experience",
+          "Freedom",
+          "Friendship",
+          "Goal",
+          "Growth",
+          "Health",
+          "History",
+          "Idea",
+          "Importance",
+          "Improvement",
+          "Information",
+          "Invention",
+          "Language",
+          "Leader",
+          "Lesson",
+          "Moment",
+          "Nature"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 2
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-3",
+      "title": "基礎詞 第 3 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Opinion",
+          "Opportunity",
+          "Organization",
+          "Partnership",
+          "Performance",
+          "Planet",
+          "Pleasure",
+          "Population",
+          "Position",
+          "Possibility",
+          "Practice",
+          "Problem",
+          "Process",
+          "Product",
+          "Progress",
+          "Project",
+          "Purpose",
+          "Quality",
+          "Question",
+          "Reason"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 3
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-4",
+      "title": "基礎詞 第 4 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Relationship",
+          "Religion",
+          "Result",
+          "Safety",
+          "Schedule",
+          "Service",
+          "Situation",
+          "Society",
+          "Solution",
+          "Speech",
+          "Strength",
+          "Success",
+          "System",
+          "Talent",
+          "Technology",
+          "Thought",
+          "Tradition",
+          "Trust",
+          "Value",
+          "Vision"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 4
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-5",
+      "title": "基礎詞 第 5 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Wealth",
+          "Wisdom",
+          "Worker",
+          "Writer",
+          "Audience",
+          "Author",
+          "Balance",
+          "Behavior",
+          "Budget",
+          "Career",
+          "choice",
+          "Climate",
+          "Company",
+          "Conflict",
+          "Connection",
+          "Conversation",
+          "Development",
+          "Decision",
+          "Direction",
+          "Discipline"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 5
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-6",
+      "title": "基礎詞 第 6 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Accept",
+          "Achieve",
+          "Admire",
+          "Advise",
+          "Agree",
+          "Announce",
+          "Apologize",
+          "Apply",
+          "Appreciate",
+          "Argue",
+          "Arrange",
+          "Arrive",
+          "Assume",
+          "Avoid",
+          "Behave",
+          "Believe",
+          "Borrow",
+          "Break",
+          "Build",
+          "Buy"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 6
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-7",
+      "title": "基礎詞 第 7 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Call",
+          "Care",
+          "Carry",
+          "Change",
+          "Choose",
+          "Clean",
+          "Climb",
+          "Collect",
+          "Complain",
+          "Complete",
+          "Confirm",
+          "Connect",
+          "Consider",
+          "Continue",
+          "Contribute",
+          "Control",
+          "Cook",
+          "Correct",
+          "Count",
+          "Create"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 7
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-8",
+      "title": "基礎詞 第 8 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Cut",
+          "Decide",
+          "Deliver",
+          "Depend",
+          "Describe",
+          "Develop",
+          "Discuss",
+          "Discover",
+          "Display",
+          "Drive",
+          "Earn",
+          "Encourage",
+          "Enjoy",
+          "Enter",
+          "Escape",
+          "Explain",
+          "Express",
+          "Fail",
+          "Fall",
+          "Feed"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 8
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-9",
+      "title": "基礎詞 第 9 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Feel",
+          "Fight",
+          "Find",
+          "Fix",
+          "Follow",
+          "Forget",
+          "Forgive",
+          "Get",
+          "Give",
+          "Go",
+          "Grow",
+          "Guess",
+          "Happen",
+          "Hear",
+          "Help",
+          "Hold",
+          "Hope",
+          "Improve",
+          "Include",
+          "Invite"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 9
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-10",
+      "title": "基礎詞 第 10 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Join",
+          "Keep",
+          "Know",
+          "Laugh",
+          "Learn",
+          "Leave",
+          "Lend",
+          "Lie",
+          "Listen",
+          "Live",
+          "Look",
+          "Lose",
+          "Love",
+          "Make",
+          "Manage",
+          "Move",
+          "Need",
+          "Offer",
+          "Open",
+          "Organize"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 10
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-11",
+      "title": "基礎詞 第 11 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Accurate",
+          "Active",
+          "Adventurous",
+          "Ambitious",
+          "Ancient",
+          "Angry",
+          "Anxious",
+          "Attractive",
+          "Available",
+          "Aware",
+          "Beautiful",
+          "Bitter",
+          "Brave",
+          "Bright",
+          "Broad",
+          "Calm",
+          "Careful",
+          "Certain",
+          "Charming",
+          "Cheerful"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 11
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-12",
+      "title": "基礎詞 第 12 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Clean",
+          "Clear",
+          "Clever",
+          "Cold",
+          "Comfortable",
+          "Common",
+          "Complex",
+          "Confident",
+          "Confusing",
+          "Cool",
+          "Correct",
+          "Creative",
+          "Cruel",
+          "Curious",
+          "Dangerous",
+          "Delicious",
+          "Dependent",
+          "Difficult",
+          "Dirty",
+          "Distant"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 12
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-13",
+      "title": "基礎詞 第 13 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Diverse",
+          "Double",
+          "Dramatic",
+          "Eager",
+          "Easy",
+          "Educated",
+          "Effective",
+          "Efficient",
+          "Emotional",
+          "Empty",
+          "Equal",
+          "Essential",
+          "Excellent",
+          "Expensive",
+          "Famous",
+          "Fantastic",
+          "Fast",
+          "Fearless",
+          "Fine",
+          "Flat"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 13
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-14",
+      "title": "基礎詞 第 14 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Flexible",
+          "Friendly",
+          "Funny",
+          "Generous",
+          "Gentle",
+          "Glad",
+          "Global",
+          "Great",
+          "Happy",
+          "Healthy",
+          "Helpful",
+          "Honest",
+          "Hopeful",
+          "Hot",
+          "Huge",
+          "Hungry",
+          "Important",
+          "Independent",
+          "Interesting",
+          "Kind"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 14
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-15",
+      "title": "基礎詞 第 15 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Lazy",
+          "Light",
+          "Lonely",
+          "Lucky",
+          "Modern",
+          "Narrow",
+          "Natural",
+          "Neat",
+          "Nervous",
+          "Noisy",
+          "Normal",
+          "Open",
+          "Patient",
+          "Peaceful",
+          "Polite",
+          "Poor",
+          "Powerful",
+          "Proud",
+          "Quick",
+          "Quiet"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 15
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-16",
+      "title": "基礎詞 第 16 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Above",
+          "Across",
+          "After",
+          "Again",
+          "Almost",
+          "Along",
+          "Already",
+          "Although",
+          "Among",
+          "Around",
+          "Aside",
+          "At",
+          "Away",
+          "Back",
+          "Before",
+          "Behind",
+          "Below",
+          "Besides",
+          "Between",
+          "Beyond"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 16
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-17",
+      "title": "基礎詞 第 17 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Carefully",
+          "Clearly",
+          "Completely",
+          "Constantly",
+          "Correctly",
+          "Currently",
+          "Deeply",
+          "Down",
+          "During",
+          "Easily",
+          "Elsewhere",
+          "Especially",
+          "Even",
+          "Ever",
+          "Everywhere",
+          "Exactly",
+          "Far",
+          "Fast",
+          "Finally",
+          "Forward"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 17
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-18",
+      "title": "基礎詞 第 18 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Frequently",
+          "Fully",
+          "Generally",
+          "Gently",
+          "Hardly",
+          "Here",
+          "However",
+          "Immediately",
+          "Inside",
+          "Instead",
+          "Just",
+          "Late",
+          "Lately",
+          "Likely",
+          "Near",
+          "Nearly",
+          "Never",
+          "Next",
+          "Now",
+          "Often"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 18
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-19",
+      "title": "基礎詞 第 19 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Once",
+          "Only",
+          "Outside",
+          "Over",
+          "Perhaps",
+          "Quickly",
+          "Quite",
+          "Rarely",
+          "Recently",
+          "Really",
+          "Right",
+          "Since",
+          "Slowly",
+          "Sometimes",
+          "Soon",
+          "Still",
+          "Suddenly",
+          "Then",
+          "There",
+          "Though"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 19
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-20",
+      "title": "基礎詞 第 20 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Through",
+          "Throughout",
+          "Today",
+          "Together",
+          "Tomorrow",
+          "Too",
+          "Toward",
+          "Under",
+          "Until",
+          "Up",
+          "Usually",
+          "Very",
+          "Well",
+          "When",
+          "Where",
+          "While",
+          "Within",
+          "Without",
+          "Yet",
+          "I"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 20
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-21",
+      "title": "基礎詞 第 21 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "You",
+          "He",
+          "She",
+          "It",
+          "We",
+          "They",
+          "Me",
+          "Him",
+          "Her",
+          "Us",
+          "Them",
+          "My",
+          "Your",
+          "His",
+          "Her",
+          "Our",
+          "Their",
+          "Mine",
+          "Yours",
+          "Hers"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 21
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-22",
+      "title": "基礎詞 第 22 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Ours",
+          "Theirs",
+          "This",
+          "That",
+          "These",
+          "Those",
+          "Who",
+          "Whom",
+          "Whose",
+          "Which",
+          "What",
+          "Where",
+          "When",
+          "Why",
+          "Because",
+          "Although",
+          "And",
+          "But",
+          "Or",
+          "So"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 22
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-23",
+      "title": "基礎詞 第 23 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Yet",
+          "While",
+          "Unless",
+          "Until",
+          "Since",
+          "If",
+          "Though",
+          "Therefore",
+          "Alarm",
+          "Apartment",
+          "Appointment",
+          "Bakery",
+          "Bank",
+          "Bathroom",
+          "Bed",
+          "Bill",
+          "Breakfast",
+          "Bus",
+          "Calendar",
+          "Camera"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 23
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-24",
+      "title": "基礎詞 第 24 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Chair",
+          "Classroom",
+          "Clock",
+          "Clothes",
+          "Coffee",
+          "Computer",
+          "Conversation",
+          "Cooking",
+          "Customer",
+          "Desk",
+          "Dinner",
+          "Door",
+          "Electricity",
+          "Elevator",
+          "Email",
+          "Exercise",
+          "Factory",
+          "Family",
+          "Food",
+          "Friend"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 24
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-25",
+      "title": "基礎詞 第 25 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Gas",
+          "Grocery",
+          "Gym",
+          "Hospital",
+          "Hotel",
+          "Internet",
+          "Journey",
+          "Kitchen",
+          "Laptop",
+          "Library",
+          "Lunch",
+          "Market",
+          "Meeting",
+          "Mobile",
+          "Money",
+          "Movie",
+          "Museum",
+          "Office",
+          "Park",
+          "Passport"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 25
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-26",
+      "title": "基礎詞 第 26 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Payment",
+          "Phone",
+          "Photograph",
+          "Plan",
+          "Restaurant",
+          "Room",
+          "School",
+          "Shopping",
+          "Station",
+          "Street",
+          "Store",
+          "Student",
+          "Study",
+          "Teacher",
+          "Ticket",
+          "Toothbrush",
+          "Traffic",
+          "Train",
+          "Trip",
+          "Vacation"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 26
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-27",
+      "title": "基礎詞 第 27 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Visitor",
+          "Wallet",
+          "Water",
+          "Weekend",
+          "Window",
+          "Workplace",
+          "Airport",
+          "ATM",
+          "Barber",
+          "Boss",
+          "Cleaner",
+          "Delivery",
+          "Doctor",
+          "Driver",
+          "Engineer",
+          "Flight",
+          "Job",
+          "Laundry",
+          "Mechanic",
+          "Meeting"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 27
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-28",
+      "title": "基礎詞 第 28 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Neighbor",
+          "Nurse",
+          "Plumber",
+          "Police",
+          "Postman",
+          "Receptionist",
+          "Waiter",
+          "Annual",
+          "Century",
+          "Decade",
+          "Moment",
+          "Instant",
+          "Minute",
+          "Hour",
+          "Day",
+          "Week",
+          "Month",
+          "Year",
+          "Quarter",
+          "Half"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 28
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-29",
+      "title": "基礎詞 第 29 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Twice",
+          "Once",
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Yearly",
+          "Before",
+          "After",
+          "Now",
+          "Soon",
+          "Later",
+          "Early",
+          "Late",
+          "Tomorrow",
+          "Yesterday",
+          "Today",
+          "Morning",
+          "Afternoon",
+          "Evening",
+          "Night"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 29
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-30",
+      "title": "基礎詞 第 30 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Midnight",
+          "Noon",
+          "Future",
+          "Past",
+          "Present",
+          "Clock",
+          "Calendar",
+          "Date",
+          "Number",
+          "Digit",
+          "Dozen",
+          "Pair",
+          "Hundred",
+          "Thousand",
+          "Million",
+          "Billion",
+          "Zero",
+          "Appetite",
+          "Bakery",
+          "Beverage"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 30
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-31",
+      "title": "基礎詞 第 31 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Breakfast",
+          "Lunch",
+          "Dinner",
+          "Snack",
+          "Dessert",
+          "Fruit",
+          "Vegetable",
+          "Meat",
+          "Seafood",
+          "Spice",
+          "Herb",
+          "Ingredient",
+          "Recipe",
+          "Sauce",
+          "Soup",
+          "Salad",
+          "Bread",
+          "Cheese",
+          "Butter",
+          "Yogurt"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 31
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-32",
+      "title": "基礎詞 第 32 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Rice",
+          "Pasta",
+          "Pizza",
+          "Burger",
+          "Sandwich",
+          "Egg",
+          "Chicken",
+          "Beef",
+          "Pork",
+          "Fish",
+          "Shrimp",
+          "Crab",
+          "Lobster",
+          "Juice",
+          "Tea",
+          "Coffee",
+          "Milk",
+          "Water",
+          "Wine",
+          "Beer"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 32
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-33",
+      "title": "基礎詞 第 33 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Honey",
+          "Sugar",
+          "Salt",
+          "Oil",
+          "Vinegar",
+          "Flour",
+          "Cake",
+          "Ankle",
+          "Arm",
+          "Back",
+          "Blood",
+          "Bone",
+          "Brain",
+          "Chest",
+          "Chin",
+          "Ear",
+          "Elbow",
+          "Eye",
+          "Eyelash",
+          "Eyebrow"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 33
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-34",
+      "title": "基礎詞 第 34 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Face",
+          "Finger",
+          "Foot",
+          "Forehead",
+          "Hand",
+          "Head",
+          "Heart",
+          "Hip",
+          "Knee",
+          "Leg",
+          "Lips",
+          "Mouth",
+          "Neck",
+          "Nose",
+          "Shoulder",
+          "Skin",
+          "Stomach",
+          "Teeth",
+          "Throat",
+          "Toe"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 34
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-35",
+      "title": "基礎詞 第 35 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Tongue",
+          "Waist",
+          "Wrist",
+          "Doctor",
+          "Nurse",
+          "Patient",
+          "Hospital",
+          "Clinic",
+          "Medicine",
+          "Tablet",
+          "Syrup",
+          "Vaccine",
+          "Operation",
+          "Pain",
+          "Cough",
+          "Cold",
+          "Fever",
+          "Father",
+          "Mother",
+          "Parent"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 35
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-36",
+      "title": "基礎詞 第 36 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Son",
+          "Daughter",
+          "Brother",
+          "Sister",
+          "Sibling",
+          "Grandfather",
+          "Grandmother",
+          "Grandparent",
+          "Uncle",
+          "Aunt",
+          "Cousin",
+          "Nephew",
+          "Niece",
+          "Husband",
+          "Wife",
+          "Spouse",
+          "In-laws",
+          "Father-in-law",
+          "Mother-in-law",
+          "Son-in-law"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 36
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-37",
+      "title": "基礎詞 第 37 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Daughter-in-law",
+          "Brother-in-law",
+          "Sister-in-law",
+          "Child",
+          "Baby",
+          "Teenager",
+          "Adult",
+          "Family",
+          "Relative",
+          "Relationship",
+          "Marriage",
+          "Divorce",
+          "Engagement",
+          "Couple",
+          "Boyfriend",
+          "Girlfriend",
+          "Friend",
+          "Best friend",
+          "Neighbor",
+          "Roommate"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 37
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-38",
+      "title": "基礎詞 第 38 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Classmate",
+          "Teammate",
+          "Colleague",
+          "Boss",
+          "Partner",
+          "Companion",
+          "Caretaker",
+          "Shirt",
+          "T-shirt",
+          "Blouse",
+          "Dress",
+          "Skirt",
+          "Jeans",
+          "Pants",
+          "Trousers",
+          "Shorts",
+          "Suit",
+          "Coat",
+          "Jacket",
+          "Sweater"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 38
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-39",
+      "title": "基礎詞 第 39 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Hoodie",
+          "Cardigan",
+          "Scarf",
+          "Gloves",
+          "Mittens",
+          "Socks",
+          "Shoes",
+          "Boots",
+          "Sandals",
+          "Slippers",
+          "Hat",
+          "Cap",
+          "Belt",
+          "Tie",
+          "Bow tie",
+          "Watch",
+          "Ring",
+          "Necklace",
+          "Bracelet",
+          "Earrings"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 39
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-40",
+      "title": "基礎詞 第 40 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Sunglasses",
+          "Wallet",
+          "Handbag",
+          "Backpack",
+          "Purse",
+          "Umbrella",
+          "Raincoat",
+          "Uniform",
+          "Costume",
+          "Apron",
+          "Glasses",
+          "Helmet",
+          "Mask",
+          "Jewel",
+          "Fabric",
+          "Thread",
+          "Button",
+          "Weather",
+          "Climate",
+          "Rain"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 40
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-41",
+      "title": "基礎詞 第 41 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Snow",
+          "Hail",
+          "Wind",
+          "Storm",
+          "Thunder",
+          "Lightning",
+          "Cloud",
+          "Sunshine",
+          "Fog",
+          "Mist",
+          "Breeze",
+          "Hurricane",
+          "Tornado",
+          "Temperature",
+          "Heat",
+          "Cold",
+          "Frost",
+          "Ice",
+          "Snowflake",
+          "Drizzle"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 41
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-42",
+      "title": "基礎詞 第 42 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Flood",
+          "Drought",
+          "Rainbow",
+          "Season",
+          "Spring",
+          "Summer",
+          "Autumn",
+          "Winter",
+          "Nature",
+          "Mountain",
+          "Hill",
+          "Valley",
+          "River",
+          "Lake",
+          "Ocean",
+          "Sea",
+          "Island",
+          "Forest",
+          "Tree",
+          "Bush"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 42
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-43",
+      "title": "基礎詞 第 43 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Grass",
+          "Flower",
+          "Leaf",
+          "Root",
+          "Soil",
+          "Rock",
+          "Sand",
+          "Travel",
+          "Journey",
+          "Trip",
+          "Tour",
+          "Vacation",
+          "Luggage",
+          "Suitcase",
+          "Passport",
+          "Ticket",
+          "Map",
+          "Route",
+          "Direction",
+          "Destination"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 43
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-44",
+      "title": "基礎詞 第 44 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Airport",
+          "Airplane",
+          "Pilot",
+          "Flight",
+          "Train",
+          "Railway",
+          "Station",
+          "Bus",
+          "Taxi",
+          "Car",
+          "Truck",
+          "Motorcycle",
+          "Bicycle",
+          "Scooter",
+          "Boat",
+          "Ship",
+          "Ferry",
+          "Submarine",
+          "Helicopter",
+          "Traffic"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 44
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-45",
+      "title": "基礎詞 第 45 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Road",
+          "Highway",
+          "Bridge",
+          "Tunnel",
+          "Lane",
+          "Signal",
+          "Crosswalk",
+          "Driver",
+          "Passenger",
+          "Speed",
+          "Stop",
+          "Turn",
+          "Fuel",
+          "Engine",
+          "Seatbelt",
+          "Parking",
+          "License",
+          "Teacher",
+          "Doctor",
+          "Nurse"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 45
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-46",
+      "title": "基礎詞 第 46 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Engineer",
+          "Architect",
+          "Lawyer",
+          "Judge",
+          "Police officer",
+          "Firefighter",
+          "Pilot",
+          "Flight attendant",
+          "Chef",
+          "Waiter",
+          "Cashier",
+          "Shopkeeper",
+          "Farmer",
+          "Fisherman",
+          "Carpenter",
+          "Plumber",
+          "Electrician",
+          "Mechanic",
+          "Driver",
+          "Cleaner"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 46
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-47",
+      "title": "基礎詞 第 47 組（20 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Tailor",
+          "Hairdresser",
+          "Artist",
+          "Musician",
+          "Actor",
+          "Photographer",
+          "Writer",
+          "Journalist",
+          "Editor",
+          "Scientist",
+          "Biologist",
+          "Chemist",
+          "Physicist",
+          "Astronomer",
+          "Veterinarian",
+          "Dentist",
+          "Pharmacist",
+          "Banker",
+          "Accountant",
+          "Businessperson"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 47
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  },
+  {
+    "laze": "0.1",
+    "scenario": {
+      "id": "starter-wordquiz-48",
+      "title": "基礎詞 第 48 組（7 詞）",
+      "subject": "en",
+      "entities": {
+        "words": [
+          "Receptionist",
+          "Secretary",
+          "Manager",
+          "CEO",
+          "Software developer",
+          "Web designer",
+          "Graphic designer"
+        ]
+      },
+      "behavior": {
+        "type": "word-quiz",
+        "mode": "en2zh",
+        "difficulty": 1,
+        "count": 10
+      },
+      "conditions": {
+        "seed": 48
+      },
+      "trace": {
+        "write": true
+      },
+      "storyboard": []
+    }
+  }
+]

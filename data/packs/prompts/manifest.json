@@ -1,0 +1,6 @@
+{
+  "id": "prompts",
+  "order": 50,
+  "scenes": [{ "key": "prompt_bench", "zh": "Prompt 測試（UI/前端生成）" }],
+  "dataFiles": { "prompts": "prompts.json" }
+}

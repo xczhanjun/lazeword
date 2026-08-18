@@ -1,0 +1,8 @@
+{
+  "id": "autodrive",
+  "order": 40,
+  "scenes": [{ "key": "autodrive", "zh": "自動駕駛（未來科技）" }],
+  "quizTypes": [],
+  "refSections": [],
+  "modules": []
+}

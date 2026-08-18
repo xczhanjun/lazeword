@@ -1,0 +1,219 @@
+[
+ {
+  "g": "奠基",
+  "items": [
+   {
+    "title": "Computing Machinery and Intelligence",
+    "authors": "Alan Turing",
+    "year": 1950,
+    "venue": "Mind",
+    "url": "https://doi.org/10.1093/mind/LIX.236.433",
+    "zh": "提出「機器會思考嗎」與圖靈測試——AI 的第一個問題",
+    "words": [
+     "test",
+     "intelligence"
+    ]
+   },
+   {
+    "title": "Deep Learning",
+    "authors": "LeCun, Bengio & Hinton",
+    "year": 2015,
+    "venue": "Nature 521",
+    "url": "https://www.nature.com/articles/nature14539",
+    "zh": "深度學習三部曲：一篇論文總結一個時代",
+    "words": [
+     "deep learning",
+     "neural network"
+    ]
+   },
+   {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": "He, Zhang, Ren & Sun",
+    "year": 2015,
+    "venue": "CVPR 2016",
+    "url": "https://arxiv.org/abs/1512.03385",
+    "zh": "ResNet 殘差網路：讓百層網路可訓練，AI 史上被引最多之一",
+    "words": [
+     "residual",
+     "training"
+    ]
+   }
+  ]
+ },
+ {
+  "g": "語言",
+  "items": [
+   {
+    "title": "Attention Is All You Need",
+    "authors": "Vaswani et al.",
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "zh": "Transformer 架構誕生——今天所有大語言模型的共同祖先",
+    "words": [
+     "transformer",
+     "attention"
+    ]
+   },
+   {
+    "title": "Language Models are Few-Shot Learners (GPT-3)",
+    "authors": "Brown et al.",
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "zh": "GPT-3：大模型「湧現能力」的開端",
+    "words": [
+     "model",
+     "prompt"
+    ]
+   },
+   {
+    "title": "Software 2.0",
+    "authors": "Andrej Karpathy",
+    "year": 2017,
+    "venue": "karpathy.medium.com",
+    "url": "https://karpathy.medium.com/software-2-0-a64152b37c35",
+    "zh": "一篇文章講清「寫程式」如何變成「養模型」",
+    "words": [
+     "software",
+     "training"
+    ]
+   }
+  ]
+ },
+ {
+  "g": "會學習的 AI",
+  "items": [
+   {
+    "title": "Human-level control through deep reinforcement learning (DQN)",
+    "authors": "Mnih et al.",
+    "year": 2015,
+    "venue": "Nature 518",
+    "url": "https://www.nature.com/articles/nature14236",
+    "zh": "AI 自己玩會雅達利遊戲——強化學習的里程碑",
+    "words": [
+     "reinforcement learning",
+     "reward"
+    ]
+   },
+   {
+    "title": "Mastering the game of Go with deep neural networks and tree search (AlphaGo)",
+    "authors": "Silver et al.",
+    "year": 2016,
+    "venue": "Nature 529",
+    "url": "https://www.nature.com/articles/nature16961",
+    "zh": "AlphaGo 戰勝李世石，下出人類未見過的棋步",
+    "words": [
+     "game",
+     "move"
+    ]
+   },
+   {
+    "title": "Deep Reinforcement Learning from Human Preferences",
+    "authors": "Christiano et al.",
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1706.03741",
+    "zh": "RLHF 的起點：讓模型學習「人類喜歡什麼」",
+    "words": [
+     "reward",
+     "alignment"
+    ]
+   }
+  ]
+ },
+ {
+  "g": "安全與向善",
+  "items": [
+   {
+    "title": "Concrete Problems in AI Safety",
+    "authors": "Amodei et al.",
+    "year": 2016,
+    "venue": "arXiv:1606.06565",
+    "url": "https://arxiv.org/abs/1606.06565",
+    "zh": "AI 安全領域的奠基論文：把「安全」變成可研究的具體問題",
+    "words": [
+     "safety",
+     "alignment"
+    ]
+   },
+   {
+    "title": "Model Cards for Model Reporting",
+    "authors": "Mitchell et al.",
+    "year": 2019,
+    "venue": "FAT*",
+    "url": "https://arxiv.org/abs/1810.03993",
+    "zh": "每個模型都應附一張「說明書」：用途、限制、偏見",
+    "words": [
+     "transparency",
+     "accountability"
+    ]
+   },
+   {
+    "title": "On the Dangers of Stochastic Parrots",
+    "authors": "Bender, Gebru et al.",
+    "year": 2021,
+    "venue": "FAccT",
+    "url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "zh": "學會讀批判論文：大模型真的是「鸚鵡」嗎？",
+    "words": [
+     "bias",
+     "misinformation"
+    ]
+   }
+  ]
+ },
+ {
+  "g": "工程實踐",
+  "items": [
+   {
+    "title": "The AI Engineering Skills Map",
+    "authors": "Andrew Ng",
+    "year": 2025,
+    "venue": "DeepLearning.AI",
+    "url": "",
+    "zh": "AI 工程師的能力地圖：從基礎模型到 evals、RAG、agents 的系統化技能體系——學 AI 不是背詞，是能看懂這張地圖",
+    "words": [
+     "agent",
+     "eval",
+     "retrieval",
+     "fine-tuning",
+     "orchestration",
+     "prompt engineering"
+    ]
+   },
+   {
+    "title": "AI Engineering (Stanford Lecture)",
+    "authors": "Andrej Karpathy",
+    "year": 2025,
+    "venue": "Stanford",
+    "url": "",
+    "zh": "AI 工程的進階階梯：10% LLM → 30% Prompt → 50% Agent → 70% Loop → 100% Graph——「Delete everything, keep Graph」：圍繞模型建系統，而不是只寫更好的 prompt",
+    "words": [
+     "agent",
+     "loop",
+     "graph",
+     "context",
+     "memory",
+     "feedback"
+    ]
+   },
+   {
+    "title": "Agentic Software Engineering at Scale",
+    "authors": "Daisy Hollman (Anthropic, Claude Code team)",
+    "year": 2026,
+    "venue": "NDC Conferences (YouTube)",
+    "url": "",
+    "zh": "智能體編程的工程框架：上下文窗口是越來越擠的盒子——「零開銷原則」（用不到的東西不該佔地方）；工具分兩種（彌補智能不足 vs 隨智能持續有用）；hooks 不觸發就不佔地方；2026 年重點從「餵信息進模型」轉向「把信息從模型取出來餵人」——「你的注意力，是這套系統裡最小的盒子」",
+    "words": [
+     "context window",
+     "hook",
+     "sub-agent",
+     "worktree",
+     "attention",
+     "fleet view"
+    ]
+   }
+  ]
+ }
+]

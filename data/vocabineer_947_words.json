@@ -1,0 +1,8525 @@
+[
+  {
+    "index": 1,
+    "word": "Ambition",
+    "phonetic": "/æmˈbɪʃn/",
+    "pos": "n.",
+    "meaning": "雄心，野心",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 2,
+    "word": "Decision",
+    "phonetic": "/dɪˈsɪʒn/",
+    "pos": "n.",
+    "meaning": "決定",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 3,
+    "word": "Effort",
+    "phonetic": "/ˈefərt/",
+    "pos": "n.",
+    "meaning": "努力",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 4,
+    "word": "Journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "pos": "n.",
+    "meaning": "旅行，旅程",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 5,
+    "word": "Knowledge",
+    "phonetic": "/ˈnɑːlɪdʒ/",
+    "pos": "n.",
+    "meaning": "知識",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 6,
+    "word": "Opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "pos": "n.",
+    "meaning": "意見，看法",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 7,
+    "word": "Advice",
+    "phonetic": "/ədˈvaɪs/",
+    "pos": "n.",
+    "meaning": "建議",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 8,
+    "word": "Benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "pos": "n.",
+    "meaning": "益處，優勢",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 9,
+    "word": "Challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "pos": "n.",
+    "meaning": "挑戰",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 10,
+    "word": "Choice",
+    "phonetic": "/tʃɔɪs/",
+    "pos": "n.",
+    "meaning": "選擇",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 11,
+    "word": "Communication",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "交流，溝通",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 12,
+    "word": "Community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "pos": "n.",
+    "meaning": "社區",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 13,
+    "word": "Competition",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "pos": "n.",
+    "meaning": "競爭，比賽",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 14,
+    "word": "Confidence",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "pos": "n.",
+    "meaning": "信心",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 15,
+    "word": "Courage",
+    "phonetic": "/ˈkɜːrɪdʒ/",
+    "pos": "n.",
+    "meaning": "勇氣",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 16,
+    "word": "Culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "pos": "n.",
+    "meaning": "文化",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 17,
+    "word": "Customer",
+    "phonetic": "/ˈkʌstəmər/",
+    "pos": "n.",
+    "meaning": "顧客",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 18,
+    "word": "Damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "pos": "n.",
+    "meaning": "損害",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 19,
+    "word": "Education",
+    "phonetic": "/ˌedʒuˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "教育",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 20,
+    "word": "Emotion",
+    "phonetic": "/ɪˈmoʊʃn/",
+    "pos": "n.",
+    "meaning": "情感",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 21,
+    "word": "Energy",
+    "phonetic": "/ˈenərdʒi/",
+    "pos": "n.",
+    "meaning": "能量",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 22,
+    "word": "Environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "pos": "n.",
+    "meaning": "環境",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 23,
+    "word": "Event",
+    "phonetic": "/ɪˈvent/",
+    "pos": "n.",
+    "meaning": "事件",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 24,
+    "word": "Experience",
+    "phonetic": "/ɪkˈspɪriəns/",
+    "pos": "n.",
+    "meaning": "經驗，經歷",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 25,
+    "word": "Freedom",
+    "phonetic": "/ˈfriːdəm/",
+    "pos": "n.",
+    "meaning": "自由",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 26,
+    "word": "Friendship",
+    "phonetic": "/ˈfrendʃɪp/",
+    "pos": "n.",
+    "meaning": "友誼",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 27,
+    "word": "Goal",
+    "phonetic": "/ɡoʊl/",
+    "pos": "n.",
+    "meaning": "目標",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 28,
+    "word": "Growth",
+    "phonetic": "/ɡroʊθ/",
+    "pos": "n.",
+    "meaning": "成長",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 29,
+    "word": "Health",
+    "phonetic": "/helθ/",
+    "pos": "n.",
+    "meaning": "健康",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 30,
+    "word": "History",
+    "phonetic": "/ˈhɪstri/",
+    "pos": "n.",
+    "meaning": "歷史",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 31,
+    "word": "Idea",
+    "phonetic": "/aɪˈdiːə/",
+    "pos": "n.",
+    "meaning": "想法",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 32,
+    "word": "Importance",
+    "phonetic": "/ɪmˈpɔːrtns/",
+    "pos": "n.",
+    "meaning": "重要性",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 33,
+    "word": "Improvement",
+    "phonetic": "/ɪmˈpruːvmənt/",
+    "pos": "n.",
+    "meaning": "改進",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 34,
+    "word": "Information",
+    "phonetic": "/ˌɪnfərˈmeɪʃn/",
+    "pos": "n.",
+    "meaning": "信息",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 35,
+    "word": "Invention",
+    "phonetic": "/ɪnˈvenʃn/",
+    "pos": "n.",
+    "meaning": "發明",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 36,
+    "word": "Language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "pos": "n.",
+    "meaning": "語言",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 37,
+    "word": "Leader",
+    "phonetic": "/ˈliːdər/",
+    "pos": "n.",
+    "meaning": "領導者",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 38,
+    "word": "Lesson",
+    "phonetic": "/ˈlesn/",
+    "pos": "n.",
+    "meaning": "課，教訓",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 39,
+    "word": "Moment",
+    "phonetic": "/ˈmoʊmənt/",
+    "pos": "n.",
+    "meaning": "時刻",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 40,
+    "word": "Nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "pos": "n.",
+    "meaning": "自然",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 41,
+    "word": "Opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "pos": "n.",
+    "meaning": "看法",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 42,
+    "word": "Opportunity",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "pos": "n.",
+    "meaning": "機會",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 43,
+    "word": "Organization",
+    "phonetic": "/ˌɔːrɡənəˈzeɪʃn/",
+    "pos": "n.",
+    "meaning": "組織",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 44,
+    "word": "Partnership",
+    "phonetic": "/ˈpɑːrtnərʃɪp/",
+    "pos": "n.",
+    "meaning": "夥伴關係",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 45,
+    "word": "Performance",
+    "phonetic": "/pərˈfɔːrməns/",
+    "pos": "n.",
+    "meaning": "表現",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 46,
+    "word": "Planet",
+    "phonetic": "/ˈplænɪt/",
+    "pos": "n.",
+    "meaning": "行星",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 47,
+    "word": "Pleasure",
+    "phonetic": "/ˈpleʒər/",
+    "pos": "n.",
+    "meaning": "快樂",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 48,
+    "word": "Population",
+    "phonetic": "/ˌpɑːpjuˈleɪʃn/",
+    "pos": "n.",
+    "meaning": "人口",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 49,
+    "word": "Position",
+    "phonetic": "/pəˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "位置，職位",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 50,
+    "word": "Possibility",
+    "phonetic": "/ˌpɑːsəˈbɪləti/",
+    "pos": "n.",
+    "meaning": "可能性",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 51,
+    "word": "Practice",
+    "phonetic": "/ˈpræktɪs/",
+    "pos": "n.",
+    "meaning": "練習",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 52,
+    "word": "Problem",
+    "phonetic": "/ˈprɑːbləm/",
+    "pos": "n.",
+    "meaning": "問題",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 53,
+    "word": "Process",
+    "phonetic": "/ˈprɑːses/",
+    "pos": "n.",
+    "meaning": "過程",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 54,
+    "word": "Product",
+    "phonetic": "/ˈprɑːdʌkt/",
+    "pos": "n.",
+    "meaning": "產品",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 55,
+    "word": "Progress",
+    "phonetic": "/ˈprɑːɡres/",
+    "pos": "n.",
+    "meaning": "進步",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 56,
+    "word": "Project",
+    "phonetic": "/ˈprɑːdʒekt/",
+    "pos": "n.",
+    "meaning": "項目",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 57,
+    "word": "Purpose",
+    "phonetic": "/ˈpɜːrpəs/",
+    "pos": "n.",
+    "meaning": "目的",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 58,
+    "word": "Quality",
+    "phonetic": "/ˈkwɑːləti/",
+    "pos": "n.",
+    "meaning": "質量",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 59,
+    "word": "Question",
+    "phonetic": "/ˈkwestʃən/",
+    "pos": "n.",
+    "meaning": "問題",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 60,
+    "word": "Reason",
+    "phonetic": "/ˈriːzn/",
+    "pos": "n.",
+    "meaning": "理由",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 61,
+    "word": "Relationship",
+    "phonetic": "/rɪˈleɪʃnʃɪp/",
+    "pos": "n.",
+    "meaning": "關係",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 62,
+    "word": "Religion",
+    "phonetic": "/rɪˈlɪdʒən/",
+    "pos": "n.",
+    "meaning": "宗教",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 63,
+    "word": "Result",
+    "phonetic": "/rɪˈzʌlt/",
+    "pos": "n.",
+    "meaning": "結果",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 64,
+    "word": "Safety",
+    "phonetic": "/ˈseɪfti/",
+    "pos": "n.",
+    "meaning": "安全",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 65,
+    "word": "Schedule",
+    "phonetic": "/ˈskedʒuːl/",
+    "pos": "n.",
+    "meaning": "日程表",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 66,
+    "word": "Service",
+    "phonetic": "/ˈsɜːrvɪs/",
+    "pos": "n.",
+    "meaning": "服務",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 67,
+    "word": "Situation",
+    "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+    "pos": "n.",
+    "meaning": "情況",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 68,
+    "word": "Society",
+    "phonetic": "/səˈsaɪəti/",
+    "pos": "n.",
+    "meaning": "社會",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 69,
+    "word": "Solution",
+    "phonetic": "/səˈluːʃn/",
+    "pos": "n.",
+    "meaning": "解決方案",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 70,
+    "word": "Speech",
+    "phonetic": "/spiːtʃ/",
+    "pos": "n.",
+    "meaning": "演講",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 71,
+    "word": "Strength",
+    "phonetic": "/streŋkθ/",
+    "pos": "n.",
+    "meaning": "力量",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 72,
+    "word": "Success",
+    "phonetic": "/səkˈses/",
+    "pos": "n.",
+    "meaning": "成功",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 73,
+    "word": "System",
+    "phonetic": "/ˈsɪstəm/",
+    "pos": "n.",
+    "meaning": "系統",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 74,
+    "word": "Talent",
+    "phonetic": "/ˈtælənt/",
+    "pos": "n.",
+    "meaning": "天賦",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 75,
+    "word": "Technology",
+    "phonetic": "/tekˈnɑːlədʒi/",
+    "pos": "n.",
+    "meaning": "技術",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 76,
+    "word": "Thought",
+    "phonetic": "/θɔːt/",
+    "pos": "n.",
+    "meaning": "想法",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 77,
+    "word": "Tradition",
+    "phonetic": "/trəˈdɪʃn/",
+    "pos": "n.",
+    "meaning": "傳統",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 78,
+    "word": "Trust",
+    "phonetic": "/trʌst/",
+    "pos": "n.",
+    "meaning": "信任",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 79,
+    "word": "Value",
+    "phonetic": "/ˈvæljuː/",
+    "pos": "n.",
+    "meaning": "價值",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 80,
+    "word": "Vision",
+    "phonetic": "/ˈvɪʒn/",
+    "pos": "n.",
+    "meaning": "願景",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 81,
+    "word": "Wealth",
+    "phonetic": "/welθ/",
+    "pos": "n.",
+    "meaning": "財富",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 82,
+    "word": "Wisdom",
+    "phonetic": "/ˈwɪzdəm/",
+    "pos": "n.",
+    "meaning": "智慧",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 83,
+    "word": "Worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "pos": "n.",
+    "meaning": "工人",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 84,
+    "word": "Writer",
+    "phonetic": "/ˈraɪtər/",
+    "pos": "n.",
+    "meaning": "作家",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 85,
+    "word": "Audience",
+    "phonetic": "/ˈɔːdiəns/",
+    "pos": "n.",
+    "meaning": "觀眾",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 86,
+    "word": "Author",
+    "phonetic": "/ˈɔːθər/",
+    "pos": "n.",
+    "meaning": "作者",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 87,
+    "word": "Balance",
+    "phonetic": "/ˈbæləns/",
+    "pos": "n.",
+    "meaning": "平衡",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 88,
+    "word": "Behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "pos": "n.",
+    "meaning": "行為",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 89,
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "pos": "n.",
+    "meaning": "預算",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 90,
+    "word": "Career",
+    "phonetic": "/kəˈrɪr/",
+    "pos": "n.",
+    "meaning": "職業",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 91,
+    "word": "choice",
+    "phonetic": "/tʃɔɪs/",
+    "pos": "n.",
+    "meaning": "選擇",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 92,
+    "word": "Climate",
+    "phonetic": "/ˈklaɪmət/",
+    "pos": "n.",
+    "meaning": "氣候",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 93,
+    "word": "Company",
+    "phonetic": "/ˈkʌmpəni/",
+    "pos": "n.",
+    "meaning": "公司",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 94,
+    "word": "Conflict",
+    "phonetic": "/ˈkɑːnflɪkt/",
+    "pos": "n.",
+    "meaning": "衝突",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 95,
+    "word": "Connection",
+    "phonetic": "/kəˈnekʃn/",
+    "pos": "n.",
+    "meaning": "聯繫",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 96,
+    "word": "Conversation",
+    "phonetic": "/ˌkɑːnvərˈseɪʃn/",
+    "pos": "n.",
+    "meaning": "對話",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 97,
+    "word": "Development",
+    "phonetic": "/dɪˈveləpmənt/",
+    "pos": "n.",
+    "meaning": "發展",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 98,
+    "word": "Decision",
+    "phonetic": "/dɪ'sɪʒ(ə)n/",
+    "pos": "n.",
+    "meaning": "決定",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 99,
+    "word": "Direction",
+    "phonetic": "/dəˈrekʃn/",
+    "pos": "n.",
+    "meaning": "方向",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 100,
+    "word": "Discipline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "pos": "n.",
+    "meaning": "紀律",
+    "category_key": "nouns",
+    "category_zh": "名词"
+  },
+  {
+    "index": 101,
+    "word": "Accept",
+    "phonetic": "/əkˈsept/",
+    "pos": "v.",
+    "meaning": "接受",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 102,
+    "word": "Achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "pos": "v.",
+    "meaning": "實現",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 103,
+    "word": "Admire",
+    "phonetic": "/ədˈmaɪər/",
+    "pos": "v.",
+    "meaning": "欽佩",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 104,
+    "word": "Advise",
+    "phonetic": "/ədˈvaɪz/",
+    "pos": "v.",
+    "meaning": "建議",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 105,
+    "word": "Agree",
+    "phonetic": "/əˈɡriː/",
+    "pos": "v.",
+    "meaning": "同意",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 106,
+    "word": "Announce",
+    "phonetic": "/əˈnaʊns/",
+    "pos": "v.",
+    "meaning": "宣佈",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 107,
+    "word": "Apologize",
+    "phonetic": "/əˈpɑːlədʒaɪz/",
+    "pos": "v.",
+    "meaning": "道歉",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 108,
+    "word": "Apply",
+    "phonetic": "/əˈplaɪ/",
+    "pos": "v.",
+    "meaning": "申請",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 109,
+    "word": "Appreciate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "pos": "v.",
+    "meaning": "欣賞，感激",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 110,
+    "word": "Argue",
+    "phonetic": "/ˈɑːrɡjuː/",
+    "pos": "v.",
+    "meaning": "爭論",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 111,
+    "word": "Arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "pos": "v.",
+    "meaning": "安排",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 112,
+    "word": "Arrive",
+    "phonetic": "/əˈraɪv/",
+    "pos": "v.",
+    "meaning": "到達",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 113,
+    "word": "Assume",
+    "phonetic": "/əˈsuːm/",
+    "pos": "v.",
+    "meaning": "假定",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 114,
+    "word": "Avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "pos": "v.",
+    "meaning": "避免",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 115,
+    "word": "Behave",
+    "phonetic": "/bɪˈheɪv/",
+    "pos": "v.",
+    "meaning": "表現",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 116,
+    "word": "Believe",
+    "phonetic": "/bɪˈliːv/",
+    "pos": "v.",
+    "meaning": "相信",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 117,
+    "word": "Borrow",
+    "phonetic": "/ˈbɑːroʊ/",
+    "pos": "v.",
+    "meaning": "借入",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 118,
+    "word": "Break",
+    "phonetic": "/breɪk/",
+    "pos": "v.",
+    "meaning": "打破",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 119,
+    "word": "Build",
+    "phonetic": "/bɪld/",
+    "pos": "v.",
+    "meaning": "建造",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 120,
+    "word": "Buy",
+    "phonetic": "/baɪ/",
+    "pos": "v.",
+    "meaning": "購買",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 121,
+    "word": "Call",
+    "phonetic": "/kɔːl/",
+    "pos": "v.",
+    "meaning": "打電話",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 122,
+    "word": "Care",
+    "phonetic": "/ker/",
+    "pos": "v.",
+    "meaning": "關心",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 123,
+    "word": "Carry",
+    "phonetic": "/ˈkæri/",
+    "pos": "v.",
+    "meaning": "攜帶",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 124,
+    "word": "Change",
+    "phonetic": "/tʃeɪndʒ/",
+    "pos": "v.",
+    "meaning": "改變",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 125,
+    "word": "Choose",
+    "phonetic": "/tʃuːz/",
+    "pos": "v.",
+    "meaning": "選擇",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 126,
+    "word": "Clean",
+    "phonetic": "/kliːn/",
+    "pos": "v.",
+    "meaning": "打掃",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 127,
+    "word": "Climb",
+    "phonetic": "/klaɪm/",
+    "pos": "v.",
+    "meaning": "攀登",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 128,
+    "word": "Collect",
+    "phonetic": "/kəˈlekt/",
+    "pos": "v.",
+    "meaning": "收集",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 129,
+    "word": "Complain",
+    "phonetic": "/kəmˈpleɪn/",
+    "pos": "v.",
+    "meaning": "抱怨",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 130,
+    "word": "Complete",
+    "phonetic": "/kəmˈpliːt/",
+    "pos": "v.",
+    "meaning": "完成",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 131,
+    "word": "Confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "pos": "v.",
+    "meaning": "確認",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 132,
+    "word": "Connect",
+    "phonetic": "/kəˈnekt/",
+    "pos": "v.",
+    "meaning": "連接",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 133,
+    "word": "Consider",
+    "phonetic": "/kənˈsɪdər/",
+    "pos": "v.",
+    "meaning": "考慮",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 134,
+    "word": "Continue",
+    "phonetic": "/kənˈtɪnjuː/",
+    "pos": "v.",
+    "meaning": "繼續",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 135,
+    "word": "Contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "pos": "v.",
+    "meaning": "貢獻",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 136,
+    "word": "Control",
+    "phonetic": "/kənˈtroʊl/",
+    "pos": "v.",
+    "meaning": "控制",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 137,
+    "word": "Cook",
+    "phonetic": "/kʊk/",
+    "pos": "v.",
+    "meaning": "烹飪",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 138,
+    "word": "Correct",
+    "phonetic": "/kəˈrekt/",
+    "pos": "v.",
+    "meaning": "糾正",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 139,
+    "word": "Count",
+    "phonetic": "/kaʊnt/",
+    "pos": "v.",
+    "meaning": "數數",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 140,
+    "word": "Create",
+    "phonetic": "/kriˈeɪt/",
+    "pos": "v.",
+    "meaning": "創造",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 141,
+    "word": "Cut",
+    "phonetic": "/kʌt/",
+    "pos": "v.",
+    "meaning": "切",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 142,
+    "word": "Decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "pos": "v.",
+    "meaning": "決定",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 143,
+    "word": "Deliver",
+    "phonetic": "/dɪˈlɪvər/",
+    "pos": "v.",
+    "meaning": "遞送",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 144,
+    "word": "Depend",
+    "phonetic": "/dɪˈpend/",
+    "pos": "v.",
+    "meaning": "依賴",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 145,
+    "word": "Describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "pos": "v.",
+    "meaning": "描述",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 146,
+    "word": "Develop",
+    "phonetic": "/dɪˈveləp/",
+    "pos": "v.",
+    "meaning": "發展",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 147,
+    "word": "Discuss",
+    "phonetic": "/dɪˈskʌs/",
+    "pos": "v.",
+    "meaning": "討論",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 148,
+    "word": "Discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "pos": "v.",
+    "meaning": "發現",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 149,
+    "word": "Display",
+    "phonetic": "/dɪˈspleɪ/",
+    "pos": "v.",
+    "meaning": "展示",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 150,
+    "word": "Drive",
+    "phonetic": "/draɪv/",
+    "pos": "v.",
+    "meaning": "駕駛",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 151,
+    "word": "Earn",
+    "phonetic": "/ɜːrn/",
+    "pos": "v.",
+    "meaning": "賺取",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 152,
+    "word": "Encourage",
+    "phonetic": "/ɪnˈkɜːrɪdʒ/",
+    "pos": "v.",
+    "meaning": "鼓勵",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 153,
+    "word": "Enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "pos": "v.",
+    "meaning": "享受",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 154,
+    "word": "Enter",
+    "phonetic": "/ˈentər/",
+    "pos": "v.",
+    "meaning": "進入",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 155,
+    "word": "Escape",
+    "phonetic": "/ɪˈskeɪp/",
+    "pos": "v.",
+    "meaning": "逃跑",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 156,
+    "word": "Explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "pos": "v.",
+    "meaning": "解釋",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 157,
+    "word": "Express",
+    "phonetic": "/ɪkˈspres/",
+    "pos": "v.",
+    "meaning": "表達",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 158,
+    "word": "Fail",
+    "phonetic": "/feɪl/",
+    "pos": "v.",
+    "meaning": "失敗",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 159,
+    "word": "Fall",
+    "phonetic": "/fɔːl/",
+    "pos": "v.",
+    "meaning": "落下",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 160,
+    "word": "Feed",
+    "phonetic": "/fiːd/",
+    "pos": "v.",
+    "meaning": "餵食",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 161,
+    "word": "Feel",
+    "phonetic": "/fiːl/",
+    "pos": "v.",
+    "meaning": "感覺",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 162,
+    "word": "Fight",
+    "phonetic": "/faɪt/",
+    "pos": "v.",
+    "meaning": "打架",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 163,
+    "word": "Find",
+    "phonetic": "/faɪnd/",
+    "pos": "v.",
+    "meaning": "找到",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 164,
+    "word": "Fix",
+    "phonetic": "/fɪks/",
+    "pos": "v.",
+    "meaning": "修理",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 165,
+    "word": "Follow",
+    "phonetic": "/ˈfɑːloʊ/",
+    "pos": "v.",
+    "meaning": "跟隨",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 166,
+    "word": "Forget",
+    "phonetic": "/fərˈɡet/",
+    "pos": "v.",
+    "meaning": "忘記",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 167,
+    "word": "Forgive",
+    "phonetic": "/fərˈɡɪv/",
+    "pos": "v.",
+    "meaning": "原諒",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 168,
+    "word": "Get",
+    "phonetic": "/ɡet/",
+    "pos": "v.",
+    "meaning": "獲得",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 169,
+    "word": "Give",
+    "phonetic": "/ɡɪv/",
+    "pos": "v.",
+    "meaning": "給予",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 170,
+    "word": "Go",
+    "phonetic": "/ɡoʊ/",
+    "pos": "v.",
+    "meaning": "去",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 171,
+    "word": "Grow",
+    "phonetic": "/ɡroʊ/",
+    "pos": "v.",
+    "meaning": "生長",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 172,
+    "word": "Guess",
+    "phonetic": "/ɡes/",
+    "pos": "v.",
+    "meaning": "猜測",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 173,
+    "word": "Happen",
+    "phonetic": "/ˈhæpən/",
+    "pos": "v.",
+    "meaning": "發生",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 174,
+    "word": "Hear",
+    "phonetic": "/hɪr/",
+    "pos": "v.",
+    "meaning": "聽見",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 175,
+    "word": "Help",
+    "phonetic": "/help/",
+    "pos": "v.",
+    "meaning": "幫助",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 176,
+    "word": "Hold",
+    "phonetic": "/hoʊld/",
+    "pos": "v.",
+    "meaning": "握住",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 177,
+    "word": "Hope",
+    "phonetic": "/hoʊp/",
+    "pos": "v.",
+    "meaning": "希望",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 178,
+    "word": "Improve",
+    "phonetic": "/ɪmˈpruːv/",
+    "pos": "v.",
+    "meaning": "改進",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 179,
+    "word": "Include",
+    "phonetic": "/ɪnˈkluːd/",
+    "pos": "v.",
+    "meaning": "包括",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 180,
+    "word": "Invite",
+    "phonetic": "/ɪnˈvaɪt/",
+    "pos": "v.",
+    "meaning": "邀請",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 181,
+    "word": "Join",
+    "phonetic": "/dʒɔɪn/",
+    "pos": "v.",
+    "meaning": "加入",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 182,
+    "word": "Keep",
+    "phonetic": "/kiːp/",
+    "pos": "v.",
+    "meaning": "保持",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 183,
+    "word": "Know",
+    "phonetic": "/noʊ/",
+    "pos": "v.",
+    "meaning": "知道",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 184,
+    "word": "Laugh",
+    "phonetic": "/læf/",
+    "pos": "v.",
+    "meaning": "笑",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 185,
+    "word": "Learn",
+    "phonetic": "/lɜːrn/",
+    "pos": "v.",
+    "meaning": "學習",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 186,
+    "word": "Leave",
+    "phonetic": "/liːv/",
+    "pos": "v.",
+    "meaning": "離開",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 187,
+    "word": "Lend",
+    "phonetic": "/lend/",
+    "pos": "v.",
+    "meaning": "借出",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 188,
+    "word": "Lie",
+    "phonetic": "/laɪ/",
+    "pos": "v.",
+    "meaning": "説謊",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 189,
+    "word": "Listen",
+    "phonetic": "/ˈlɪsn/",
+    "pos": "v.",
+    "meaning": "聽",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 190,
+    "word": "Live",
+    "phonetic": "/lɪv/",
+    "pos": "v.",
+    "meaning": "生活",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 191,
+    "word": "Look",
+    "phonetic": "/lʊk/",
+    "pos": "v.",
+    "meaning": "看",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 192,
+    "word": "Lose",
+    "phonetic": "/luːz/",
+    "pos": "v.",
+    "meaning": "失去",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 193,
+    "word": "Love",
+    "phonetic": "/lʌv/",
+    "pos": "v.",
+    "meaning": "愛",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 194,
+    "word": "Make",
+    "phonetic": "/meɪk/",
+    "pos": "v.",
+    "meaning": "製作",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 195,
+    "word": "Manage",
+    "phonetic": "/ˈmænɪdʒ/",
+    "pos": "v.",
+    "meaning": "管理",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 196,
+    "word": "Move",
+    "phonetic": "/muːv/",
+    "pos": "v.",
+    "meaning": "移動",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 197,
+    "word": "Need",
+    "phonetic": "/niːd/",
+    "pos": "v.",
+    "meaning": "需要",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 198,
+    "word": "Offer",
+    "phonetic": "/ˈɔːfər/",
+    "pos": "v.",
+    "meaning": "提供",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 199,
+    "word": "Open",
+    "phonetic": "/ˈoʊpən/",
+    "pos": "v.",
+    "meaning": "打開",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 200,
+    "word": "Organize",
+    "phonetic": "/ˈɔːrɡənaɪz/",
+    "pos": "v.",
+    "meaning": "組織",
+    "category_key": "verbs",
+    "category_zh": "动词"
+  },
+  {
+    "index": 201,
+    "word": "Accurate",
+    "phonetic": "/ˈækjərət/",
+    "pos": "adj.",
+    "meaning": "準確的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 202,
+    "word": "Active",
+    "phonetic": "/ˈæktɪv/",
+    "pos": "adj.",
+    "meaning": "活躍的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 203,
+    "word": "Adventurous",
+    "phonetic": "/ədˈventʃərəs/",
+    "pos": "adj.",
+    "meaning": "愛冒險的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 204,
+    "word": "Ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "pos": "adj.",
+    "meaning": "有雄心的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 205,
+    "word": "Ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "pos": "adj.",
+    "meaning": "古老的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 206,
+    "word": "Angry",
+    "phonetic": "/ˈæŋɡri/",
+    "pos": "adj.",
+    "meaning": "生氣的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 207,
+    "word": "Anxious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "pos": "adj.",
+    "meaning": "焦慮的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 208,
+    "word": "Attractive",
+    "phonetic": "/əˈtræktɪv/",
+    "pos": "adj.",
+    "meaning": "有吸引力的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 209,
+    "word": "Available",
+    "phonetic": "/əˈveɪləbl/",
+    "pos": "adj.",
+    "meaning": "可獲得的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 210,
+    "word": "Aware",
+    "phonetic": "/əˈwer/",
+    "pos": "adj.",
+    "meaning": "意識到的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 211,
+    "word": "Beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "pos": "adj.",
+    "meaning": "美麗的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 212,
+    "word": "Bitter",
+    "phonetic": "/ˈbɪtər/",
+    "pos": "adj.",
+    "meaning": "苦的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 213,
+    "word": "Brave",
+    "phonetic": "/breɪv/",
+    "pos": "adj.",
+    "meaning": "勇敢的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 214,
+    "word": "Bright",
+    "phonetic": "/braɪt/",
+    "pos": "adj.",
+    "meaning": "明亮的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 215,
+    "word": "Broad",
+    "phonetic": "/brɔːd/",
+    "pos": "adj.",
+    "meaning": "寬闊的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 216,
+    "word": "Calm",
+    "phonetic": "/kɑːm/",
+    "pos": "adj.",
+    "meaning": "平靜的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 217,
+    "word": "Careful",
+    "phonetic": "/ˈkerfl/",
+    "pos": "adj.",
+    "meaning": "小心的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 218,
+    "word": "Certain",
+    "phonetic": "/ˈsɜːrtn/",
+    "pos": "adj.",
+    "meaning": "確定的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 219,
+    "word": "Charming",
+    "phonetic": "/ˈtʃɑːrmɪŋ/",
+    "pos": "adj.",
+    "meaning": "迷人的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 220,
+    "word": "Cheerful",
+    "phonetic": "/ˈtʃɪrfl/",
+    "pos": "adj.",
+    "meaning": "快樂的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 221,
+    "word": "Clean",
+    "phonetic": "/kliːn/",
+    "pos": "adj.",
+    "meaning": "乾淨的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 222,
+    "word": "Clear",
+    "phonetic": "/klɪr/",
+    "pos": "adj.",
+    "meaning": "清晰的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 223,
+    "word": "Clever",
+    "phonetic": "/ˈklevər/",
+    "pos": "adj.",
+    "meaning": "聰明的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 224,
+    "word": "Cold",
+    "phonetic": "/koʊld/",
+    "pos": "adj.",
+    "meaning": "冷的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 225,
+    "word": "Comfortable",
+    "phonetic": "/ˈkʌmftəbl/",
+    "pos": "adj.",
+    "meaning": "舒適的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 226,
+    "word": "Common",
+    "phonetic": "/ˈkɑːmən/",
+    "pos": "adj.",
+    "meaning": "常見的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 227,
+    "word": "Complex",
+    "phonetic": "/kəmˈpleks/",
+    "pos": "adj.",
+    "meaning": "複雜的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 228,
+    "word": "Confident",
+    "phonetic": "/ˈkɑːnfɪdənt/",
+    "pos": "adj.",
+    "meaning": "自信的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 229,
+    "word": "Confusing",
+    "phonetic": "/kənˈfjuːzɪŋ/",
+    "pos": "adj.",
+    "meaning": "令人困惑的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 230,
+    "word": "Cool",
+    "phonetic": "/kuːl/",
+    "pos": "adj.",
+    "meaning": "涼爽的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 231,
+    "word": "Correct",
+    "phonetic": "/kəˈrekt/",
+    "pos": "adj.",
+    "meaning": "正確的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 232,
+    "word": "Creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "pos": "adj.",
+    "meaning": "有創造力的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 233,
+    "word": "Cruel",
+    "phonetic": "/ˈkruːəl/",
+    "pos": "adj.",
+    "meaning": "殘酷的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 234,
+    "word": "Curious",
+    "phonetic": "/ˈkjʊriəs/",
+    "pos": "adj.",
+    "meaning": "好奇的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 235,
+    "word": "Dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "pos": "adj.",
+    "meaning": "危險的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 236,
+    "word": "Delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "pos": "adj.",
+    "meaning": "美味的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 237,
+    "word": "Dependent",
+    "phonetic": "/dɪˈpendənt/",
+    "pos": "adj.",
+    "meaning": "依賴的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 238,
+    "word": "Difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "pos": "adj.",
+    "meaning": "困難的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 239,
+    "word": "Dirty",
+    "phonetic": "/ˈdɜːrti/",
+    "pos": "adj.",
+    "meaning": "髒的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 240,
+    "word": "Distant",
+    "phonetic": "/ˈdɪstənt/",
+    "pos": "adj.",
+    "meaning": "遙遠的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 241,
+    "word": "Diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "pos": "adj.",
+    "meaning": "多樣的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 242,
+    "word": "Double",
+    "phonetic": "/ˈdʌbl/",
+    "pos": "adj.",
+    "meaning": "雙倍的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 243,
+    "word": "Dramatic",
+    "phonetic": "/drəˈmætɪk/",
+    "pos": "adj.",
+    "meaning": "戲劇性的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 244,
+    "word": "Eager",
+    "phonetic": "/ˈiːɡər/",
+    "pos": "adj.",
+    "meaning": "渴望的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 245,
+    "word": "Easy",
+    "phonetic": "/ˈiːzi/",
+    "pos": "adj.",
+    "meaning": "容易的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 246,
+    "word": "Educated",
+    "phonetic": "/ˈedʒukeɪtɪd/",
+    "pos": "adj.",
+    "meaning": "受過教育的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 247,
+    "word": "Effective",
+    "phonetic": "/ɪˈfektɪv/",
+    "pos": "adj.",
+    "meaning": "有效的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 248,
+    "word": "Efficient",
+    "phonetic": "/ɪˈfɪʃnt/",
+    "pos": "adj.",
+    "meaning": "高效的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 249,
+    "word": "Emotional",
+    "phonetic": "/ɪˈmoʊʃənl/",
+    "pos": "adj.",
+    "meaning": "情緒化的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 250,
+    "word": "Empty",
+    "phonetic": "/ˈempti/",
+    "pos": "adj.",
+    "meaning": "空的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 251,
+    "word": "Equal",
+    "phonetic": "/ˈiːkwəl/",
+    "pos": "adj.",
+    "meaning": "平等的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 252,
+    "word": "Essential",
+    "phonetic": "/ɪˈsenʃl/",
+    "pos": "adj.",
+    "meaning": "必要的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 253,
+    "word": "Excellent",
+    "phonetic": "/ˈeksələnt/",
+    "pos": "adj.",
+    "meaning": "極好的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 254,
+    "word": "Expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "pos": "adj.",
+    "meaning": "昂貴的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 255,
+    "word": "Famous",
+    "phonetic": "/ˈfeɪməs/",
+    "pos": "adj.",
+    "meaning": "著名的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 256,
+    "word": "Fantastic",
+    "phonetic": "/fænˈtæstɪk/",
+    "pos": "adj.",
+    "meaning": "極好的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 257,
+    "word": "Fast",
+    "phonetic": "/fæst/",
+    "pos": "adj.",
+    "meaning": "快速的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 258,
+    "word": "Fearless",
+    "phonetic": "/ˈfɪrləs/",
+    "pos": "adj.",
+    "meaning": "無畏的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 259,
+    "word": "Fine",
+    "phonetic": "/faɪn/",
+    "pos": "adj.",
+    "meaning": "好的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 260,
+    "word": "Flat",
+    "phonetic": "/flæt/",
+    "pos": "adj.",
+    "meaning": "平坦的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 261,
+    "word": "Flexible",
+    "phonetic": "/ˈfleksəbl/",
+    "pos": "adj.",
+    "meaning": "靈活的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 262,
+    "word": "Friendly",
+    "phonetic": "/ˈfrendli/",
+    "pos": "adj.",
+    "meaning": "友好的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 263,
+    "word": "Funny",
+    "phonetic": "/ˈfʌni/",
+    "pos": "adj.",
+    "meaning": "有趣的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 264,
+    "word": "Generous",
+    "phonetic": "/ˈdʒenərəs/",
+    "pos": "adj.",
+    "meaning": "慷慨的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 265,
+    "word": "Gentle",
+    "phonetic": "/ˈdʒentl/",
+    "pos": "adj.",
+    "meaning": "温和的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 266,
+    "word": "Glad",
+    "phonetic": "/ɡlæd/",
+    "pos": "adj.",
+    "meaning": "高興的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 267,
+    "word": "Global",
+    "phonetic": "/ˈɡloʊbl/",
+    "pos": "adj.",
+    "meaning": "全球的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 268,
+    "word": "Great",
+    "phonetic": "/ɡreɪt/",
+    "pos": "adj.",
+    "meaning": "偉大的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 269,
+    "word": "Happy",
+    "phonetic": "/ˈhæpi/",
+    "pos": "adj.",
+    "meaning": "快樂的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 270,
+    "word": "Healthy",
+    "phonetic": "/ˈhelθi/",
+    "pos": "adj.",
+    "meaning": "健康的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 271,
+    "word": "Helpful",
+    "phonetic": "/ˈhelpfl/",
+    "pos": "adj.",
+    "meaning": "有幫助的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 272,
+    "word": "Honest",
+    "phonetic": "/ˈɑːnɪst/",
+    "pos": "adj.",
+    "meaning": "誠實的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 273,
+    "word": "Hopeful",
+    "phonetic": "/ˈhoʊpfl/",
+    "pos": "adj.",
+    "meaning": "有希望的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 274,
+    "word": "Hot",
+    "phonetic": "/hɑːt/",
+    "pos": "adj.",
+    "meaning": "熱的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 275,
+    "word": "Huge",
+    "phonetic": "/hjuːdʒ/",
+    "pos": "adj.",
+    "meaning": "巨大的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 276,
+    "word": "Hungry",
+    "phonetic": "/ˈhʌŋɡri/",
+    "pos": "adj.",
+    "meaning": "飢餓的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 277,
+    "word": "Important",
+    "phonetic": "/ɪmˈpɔːrtnt/",
+    "pos": "adj.",
+    "meaning": "重要的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 278,
+    "word": "Independent",
+    "phonetic": "/ˌɪndɪˈpendənt/",
+    "pos": "adj.",
+    "meaning": "獨立的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 279,
+    "word": "Interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "pos": "adj.",
+    "meaning": "有趣的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 280,
+    "word": "Kind",
+    "phonetic": "/kaɪnd/",
+    "pos": "adj.",
+    "meaning": "善良的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 281,
+    "word": "Lazy",
+    "phonetic": "/ˈleɪzi/",
+    "pos": "adj.",
+    "meaning": "懶惰的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 282,
+    "word": "Light",
+    "phonetic": "/laɪt/",
+    "pos": "adj.",
+    "meaning": "輕的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 283,
+    "word": "Lonely",
+    "phonetic": "/ˈloʊnli/",
+    "pos": "adj.",
+    "meaning": "孤獨的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 284,
+    "word": "Lucky",
+    "phonetic": "/ˈlʌki/",
+    "pos": "adj.",
+    "meaning": "幸運的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 285,
+    "word": "Modern",
+    "phonetic": "/ˈmɑːdərn/",
+    "pos": "adj.",
+    "meaning": "現代的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 286,
+    "word": "Narrow",
+    "phonetic": "/ˈnæroʊ/",
+    "pos": "adj.",
+    "meaning": "狹窄的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 287,
+    "word": "Natural",
+    "phonetic": "/ˈnætʃrəl/",
+    "pos": "adj.",
+    "meaning": "自然的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 288,
+    "word": "Neat",
+    "phonetic": "/niːt/",
+    "pos": "adj.",
+    "meaning": "整潔的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 289,
+    "word": "Nervous",
+    "phonetic": "/ˈnɜːrvəs/",
+    "pos": "adj.",
+    "meaning": "緊張的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 290,
+    "word": "Noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "pos": "adj.",
+    "meaning": "嘈雜的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 291,
+    "word": "Normal",
+    "phonetic": "/ˈnɔːrml/",
+    "pos": "adj.",
+    "meaning": "正常的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 292,
+    "word": "Open",
+    "phonetic": "/ˈoʊpən/",
+    "pos": "adj.",
+    "meaning": "開着的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 293,
+    "word": "Patient",
+    "phonetic": "/ˈpeɪʃnt/",
+    "pos": "adj.",
+    "meaning": "耐心的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 294,
+    "word": "Peaceful",
+    "phonetic": "/ˈpiːsfl/",
+    "pos": "adj.",
+    "meaning": "和平的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 295,
+    "word": "Polite",
+    "phonetic": "/pəˈlaɪt/",
+    "pos": "adj.",
+    "meaning": "有禮貌的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 296,
+    "word": "Poor",
+    "phonetic": "/pʊr/",
+    "pos": "adj.",
+    "meaning": "貧窮的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 297,
+    "word": "Powerful",
+    "phonetic": "/ˈpaʊərfl/",
+    "pos": "adj.",
+    "meaning": "強大的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 298,
+    "word": "Proud",
+    "phonetic": "/praʊd/",
+    "pos": "adj.",
+    "meaning": "驕傲的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 299,
+    "word": "Quick",
+    "phonetic": "/kwɪk/",
+    "pos": "adj.",
+    "meaning": "快速的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 300,
+    "word": "Quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "pos": "adj.",
+    "meaning": "安靜的",
+    "category_key": "adjectives",
+    "category_zh": "形容词"
+  },
+  {
+    "index": 301,
+    "word": "Above",
+    "phonetic": "/əˈbʌv/",
+    "pos": "prep./adv.",
+    "meaning": "在…之上",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 302,
+    "word": "Across",
+    "phonetic": "/əˈkrɔːs/",
+    "pos": "prep.",
+    "meaning": "穿過",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 303,
+    "word": "After",
+    "phonetic": "/ˈæftər/",
+    "pos": "prep.",
+    "meaning": "在…之後",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 304,
+    "word": "Again",
+    "phonetic": "/əˈɡen/",
+    "pos": "adv.",
+    "meaning": "再次",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 305,
+    "word": "Almost",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "pos": "adv.",
+    "meaning": "幾乎",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 306,
+    "word": "Along",
+    "phonetic": "/əˈlɔːŋ/",
+    "pos": "prep.",
+    "meaning": "沿着",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 307,
+    "word": "Already",
+    "phonetic": "/ɔːlˈredi/",
+    "pos": "adv.",
+    "meaning": "已經",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 308,
+    "word": "Although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "pos": "conj.",
+    "meaning": "雖然",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 309,
+    "word": "Among",
+    "phonetic": "/əˈmʌŋ/",
+    "pos": "prep.",
+    "meaning": "在…之中",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 310,
+    "word": "Around",
+    "phonetic": "/əˈraʊnd/",
+    "pos": "adv./prep.",
+    "meaning": "圍繞",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 311,
+    "word": "Aside",
+    "phonetic": "/əˈsaɪd/",
+    "pos": "adv.",
+    "meaning": "在旁邊",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 312,
+    "word": "At",
+    "phonetic": "/æt/",
+    "pos": "prep.",
+    "meaning": "在",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 313,
+    "word": "Away",
+    "phonetic": "/əˈweɪ/",
+    "pos": "adv.",
+    "meaning": "離開",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 314,
+    "word": "Back",
+    "phonetic": "/bæk/",
+    "pos": "adv.",
+    "meaning": "向後",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 315,
+    "word": "Before",
+    "phonetic": "/bɪˈfɔːr/",
+    "pos": "prep.",
+    "meaning": "在…之前",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 316,
+    "word": "Behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "pos": "prep.",
+    "meaning": "在…後面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 317,
+    "word": "Below",
+    "phonetic": "/bɪˈloʊ/",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 318,
+    "word": "Besides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "pos": "prep.",
+    "meaning": "除…之外",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 319,
+    "word": "Between",
+    "phonetic": "/bɪˈtwiːn/",
+    "pos": "prep.",
+    "meaning": "在…之間",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 320,
+    "word": "Beyond",
+    "phonetic": "/bɪˈjɑːnd/",
+    "pos": "prep.",
+    "meaning": "超出",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 321,
+    "word": "Carefully",
+    "phonetic": "/ˈkerfəli/",
+    "pos": "adv.",
+    "meaning": "小心地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 322,
+    "word": "Clearly",
+    "phonetic": "/ˈklɪrli/",
+    "pos": "adv.",
+    "meaning": "清楚地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 323,
+    "word": "Completely",
+    "phonetic": "/kəmˈpliːtli/",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 324,
+    "word": "Constantly",
+    "phonetic": "/ˈkɑːnstəntli/",
+    "pos": "adv.",
+    "meaning": "不斷地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 325,
+    "word": "Correctly",
+    "phonetic": "/kəˈrektli/",
+    "pos": "adv.",
+    "meaning": "正確地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 326,
+    "word": "Currently",
+    "phonetic": "/ˈkɜːrəntli/",
+    "pos": "adv.",
+    "meaning": "目前",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 327,
+    "word": "Deeply",
+    "phonetic": "/ˈdiːpli/",
+    "pos": "adv.",
+    "meaning": "深深地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 328,
+    "word": "Down",
+    "phonetic": "/daʊn/",
+    "pos": "adv./prep.",
+    "meaning": "向下",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 329,
+    "word": "During",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "pos": "prep.",
+    "meaning": "在…期間",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 330,
+    "word": "Easily",
+    "phonetic": "/ˈiːzəli/",
+    "pos": "adv.",
+    "meaning": "容易地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 331,
+    "word": "Elsewhere",
+    "phonetic": "/ˌelsˈwer/",
+    "pos": "adv.",
+    "meaning": "在別處",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 332,
+    "word": "Especially",
+    "phonetic": "/ɪˈspeʃəli/",
+    "pos": "adv.",
+    "meaning": "尤其",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 333,
+    "word": "Even",
+    "phonetic": "/ˈiːvn/",
+    "pos": "adv.",
+    "meaning": "甚至",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 334,
+    "word": "Ever",
+    "phonetic": "/ˈevər/",
+    "pos": "adv.",
+    "meaning": "曾經",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 335,
+    "word": "Everywhere",
+    "phonetic": "/ˈevriwer/",
+    "pos": "adv.",
+    "meaning": "到處",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 336,
+    "word": "Exactly",
+    "phonetic": "/ɪɡˈzæktli/",
+    "pos": "adv.",
+    "meaning": "確切地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 337,
+    "word": "Far",
+    "phonetic": "/fɑːr/",
+    "pos": "adv.",
+    "meaning": "遠",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 338,
+    "word": "Fast",
+    "phonetic": "/fæst/",
+    "pos": "adv.",
+    "meaning": "快速地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 339,
+    "word": "Finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "pos": "adv.",
+    "meaning": "最後",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 340,
+    "word": "Forward",
+    "phonetic": "/ˈfɔːrwərd/",
+    "pos": "adv.",
+    "meaning": "向前",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 341,
+    "word": "Frequently",
+    "phonetic": "/ˈfriːkwəntli/",
+    "pos": "adv.",
+    "meaning": "頻繁地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 342,
+    "word": "Fully",
+    "phonetic": "/ˈfʊli/",
+    "pos": "adv.",
+    "meaning": "完全地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 343,
+    "word": "Generally",
+    "phonetic": "/ˈdʒenrəli/",
+    "pos": "adv.",
+    "meaning": "通常",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 344,
+    "word": "Gently",
+    "phonetic": "/ˈdʒentli/",
+    "pos": "adv.",
+    "meaning": "温柔地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 345,
+    "word": "Hardly",
+    "phonetic": "/ˈhɑːrdli/",
+    "pos": "adv.",
+    "meaning": "幾乎不",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 346,
+    "word": "Here",
+    "phonetic": "/hɪr/",
+    "pos": "adv.",
+    "meaning": "這裏",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 347,
+    "word": "However",
+    "phonetic": "/haʊˈevər/",
+    "pos": "adv.",
+    "meaning": "然而",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 348,
+    "word": "Immediately",
+    "phonetic": "/ɪˈmiːdiətli/",
+    "pos": "adv.",
+    "meaning": "立即",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 349,
+    "word": "Inside",
+    "phonetic": "/ɪnˈsaɪd/",
+    "pos": "adv./prep.",
+    "meaning": "在裏面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 350,
+    "word": "Instead",
+    "phonetic": "/ɪnˈsted/",
+    "pos": "adv.",
+    "meaning": "代替",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 351,
+    "word": "Just",
+    "phonetic": "/dʒʌst/",
+    "pos": "adv.",
+    "meaning": "剛剛",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 352,
+    "word": "Late",
+    "phonetic": "/leɪt/",
+    "pos": "adv.",
+    "meaning": "晚",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 353,
+    "word": "Lately",
+    "phonetic": "/ˈleɪtli/",
+    "pos": "adv.",
+    "meaning": "最近",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 354,
+    "word": "Likely",
+    "phonetic": "/ˈlaɪkli/",
+    "pos": "adv.",
+    "meaning": "很可能",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 355,
+    "word": "Near",
+    "phonetic": "/nɪr/",
+    "pos": "adv./prep.",
+    "meaning": "靠近",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 356,
+    "word": "Nearly",
+    "phonetic": "/ˈnɪrli/",
+    "pos": "adv.",
+    "meaning": "幾乎",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 357,
+    "word": "Never",
+    "phonetic": "/ˈnevər/",
+    "pos": "adv.",
+    "meaning": "從不",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 358,
+    "word": "Next",
+    "phonetic": "/nekst/",
+    "pos": "adv.",
+    "meaning": "接下來",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 359,
+    "word": "Now",
+    "phonetic": "/naʊ/",
+    "pos": "adv.",
+    "meaning": "現在",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 360,
+    "word": "Often",
+    "phonetic": "/ˈɔːfn/",
+    "pos": "adv.",
+    "meaning": "經常",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 361,
+    "word": "Once",
+    "phonetic": "/wʌns/",
+    "pos": "adv.",
+    "meaning": "一次",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 362,
+    "word": "Only",
+    "phonetic": "/ˈoʊnli/",
+    "pos": "adv.",
+    "meaning": "僅僅",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 363,
+    "word": "Outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "pos": "adv./prep.",
+    "meaning": "在外面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 364,
+    "word": "Over",
+    "phonetic": "/ˈoʊvər/",
+    "pos": "adv./prep.",
+    "meaning": "在…上面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 365,
+    "word": "Perhaps",
+    "phonetic": "/pərˈhæps/",
+    "pos": "adv.",
+    "meaning": "也許",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 366,
+    "word": "Quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "pos": "adv.",
+    "meaning": "快速地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 367,
+    "word": "Quite",
+    "phonetic": "/kwaɪt/",
+    "pos": "adv.",
+    "meaning": "相當",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 368,
+    "word": "Rarely",
+    "phonetic": "/ˈrerli/",
+    "pos": "adv.",
+    "meaning": "很少",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 369,
+    "word": "Recently",
+    "phonetic": "/ˈriːsntli/",
+    "pos": "adv.",
+    "meaning": "最近",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 370,
+    "word": "Really",
+    "phonetic": "/ˈriːəli/",
+    "pos": "adv.",
+    "meaning": "真正地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 371,
+    "word": "Right",
+    "phonetic": "/raɪt/",
+    "pos": "adv.",
+    "meaning": "正確地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 372,
+    "word": "Since",
+    "phonetic": "/sɪns/",
+    "pos": "prep./conj.",
+    "meaning": "自從",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 373,
+    "word": "Slowly",
+    "phonetic": "/ˈsloʊli/",
+    "pos": "adv.",
+    "meaning": "緩慢地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 374,
+    "word": "Sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "pos": "adv.",
+    "meaning": "有時",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 375,
+    "word": "Soon",
+    "phonetic": "/suːn/",
+    "pos": "adv.",
+    "meaning": "不久",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 376,
+    "word": "Still",
+    "phonetic": "/stɪl/",
+    "pos": "adv.",
+    "meaning": "仍然",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 377,
+    "word": "Suddenly",
+    "phonetic": "/ˈsʌdənli/",
+    "pos": "adv.",
+    "meaning": "突然地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 378,
+    "word": "Then",
+    "phonetic": "/ðen/",
+    "pos": "adv.",
+    "meaning": "然後",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 379,
+    "word": "There",
+    "phonetic": "/ðer/",
+    "pos": "adv.",
+    "meaning": "那裏",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 380,
+    "word": "Though",
+    "phonetic": "/ðoʊ/",
+    "pos": "conj./adv.",
+    "meaning": "雖然",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 381,
+    "word": "Through",
+    "phonetic": "/θruː/",
+    "pos": "prep.",
+    "meaning": "通過",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 382,
+    "word": "Throughout",
+    "phonetic": "/θruːˈaʊt/",
+    "pos": "prep.",
+    "meaning": "貫穿",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 383,
+    "word": "Today",
+    "phonetic": "/təˈdeɪ/",
+    "pos": "adv.",
+    "meaning": "今天",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 384,
+    "word": "Together",
+    "phonetic": "/təˈɡeðər/",
+    "pos": "adv.",
+    "meaning": "一起",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 385,
+    "word": "Tomorrow",
+    "phonetic": "/təˈmɑːroʊ/",
+    "pos": "adv.",
+    "meaning": "明天",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 386,
+    "word": "Too",
+    "phonetic": "/tuː/",
+    "pos": "adv.",
+    "meaning": "也",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 387,
+    "word": "Toward",
+    "phonetic": "/tɔːrd/",
+    "pos": "prep.",
+    "meaning": "朝",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 388,
+    "word": "Under",
+    "phonetic": "/ˈʌndər/",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 389,
+    "word": "Until",
+    "phonetic": "/ənˈtɪl/",
+    "pos": "prep.",
+    "meaning": "直到",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 390,
+    "word": "Up",
+    "phonetic": "/ʌp/",
+    "pos": "adv.",
+    "meaning": "向上",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 391,
+    "word": "Usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "pos": "adv.",
+    "meaning": "通常",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 392,
+    "word": "Very",
+    "phonetic": "/ˈveri/",
+    "pos": "adv.",
+    "meaning": "非常",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 393,
+    "word": "Well",
+    "phonetic": "/wel/",
+    "pos": "adv.",
+    "meaning": "好地",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 394,
+    "word": "When",
+    "phonetic": "/wen/",
+    "pos": "adv.",
+    "meaning": "什麼時候",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 395,
+    "word": "Where",
+    "phonetic": "/wer/",
+    "pos": "adv.",
+    "meaning": "在哪裏",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 396,
+    "word": "While",
+    "phonetic": "/waɪl/",
+    "pos": "conj.",
+    "meaning": "當…時候",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 397,
+    "word": "Within",
+    "phonetic": "/wɪˈðɪn/",
+    "pos": "prep.",
+    "meaning": "在…之內",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 398,
+    "word": "Without",
+    "phonetic": "/wɪˈðaʊt/",
+    "pos": "prep.",
+    "meaning": "沒有",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 399,
+    "word": "Yet",
+    "phonetic": "/jet/",
+    "pos": "adv.",
+    "meaning": "尚未",
+    "category_key": "adverbs_prepositions",
+    "category_zh": "副词和介词"
+  },
+  {
+    "index": 400,
+    "word": "I",
+    "phonetic": "/aɪ/",
+    "pos": "pron.",
+    "meaning": "我",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 401,
+    "word": "You",
+    "phonetic": "/juː/",
+    "pos": "pron.",
+    "meaning": "你，你們",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 402,
+    "word": "He",
+    "phonetic": "/hiː/",
+    "pos": "pron.",
+    "meaning": "他",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 403,
+    "word": "She",
+    "phonetic": "/ʃiː/",
+    "pos": "pron.",
+    "meaning": "她",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 404,
+    "word": "It",
+    "phonetic": "/ɪt/",
+    "pos": "pron.",
+    "meaning": "它",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 405,
+    "word": "We",
+    "phonetic": "/wiː/",
+    "pos": "pron.",
+    "meaning": "我們",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 406,
+    "word": "They",
+    "phonetic": "/ðeɪ/",
+    "pos": "pron.",
+    "meaning": "他們",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 407,
+    "word": "Me",
+    "phonetic": "/miː/",
+    "pos": "pron.",
+    "meaning": "我",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 408,
+    "word": "Him",
+    "phonetic": "/hɪm/",
+    "pos": "pron.",
+    "meaning": "他",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 409,
+    "word": "Her",
+    "phonetic": "/hɜːr/",
+    "pos": "pron.",
+    "meaning": "她",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 410,
+    "word": "Us",
+    "phonetic": "/ʌs/",
+    "pos": "pron.",
+    "meaning": "我們",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 411,
+    "word": "Them",
+    "phonetic": "/ðem/",
+    "pos": "pron.",
+    "meaning": "他們",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 412,
+    "word": "My",
+    "phonetic": "/maɪ/",
+    "pos": "pron.",
+    "meaning": "我的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 413,
+    "word": "Your",
+    "phonetic": "/jʊr/",
+    "pos": "pron.",
+    "meaning": "你的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 414,
+    "word": "His",
+    "phonetic": "/hɪz/",
+    "pos": "pron.",
+    "meaning": "他的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 415,
+    "word": "Her",
+    "phonetic": "/hɜːr/",
+    "pos": "pron.",
+    "meaning": "她的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 416,
+    "word": "Our",
+    "phonetic": "/ɑːr/",
+    "pos": "pron.",
+    "meaning": "我們的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 417,
+    "word": "Their",
+    "phonetic": "/ðer/",
+    "pos": "pron.",
+    "meaning": "他們的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 418,
+    "word": "Mine",
+    "phonetic": "/maɪn/",
+    "pos": "pron.",
+    "meaning": "我的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 419,
+    "word": "Yours",
+    "phonetic": "/jʊrz/",
+    "pos": "pron.",
+    "meaning": "你的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 420,
+    "word": "Hers",
+    "phonetic": "/hɜːrz/",
+    "pos": "pron.",
+    "meaning": "她的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 421,
+    "word": "Ours",
+    "phonetic": "/ɑːrz/",
+    "pos": "pron.",
+    "meaning": "我們的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 422,
+    "word": "Theirs",
+    "phonetic": "/ðerz/",
+    "pos": "pron.",
+    "meaning": "他們的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 423,
+    "word": "This",
+    "phonetic": "/ðɪs/",
+    "pos": "pron.",
+    "meaning": "這個",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 424,
+    "word": "That",
+    "phonetic": "/ðæt/",
+    "pos": "pron.",
+    "meaning": "那個",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 425,
+    "word": "These",
+    "phonetic": "/ðiːz/",
+    "pos": "pron.",
+    "meaning": "這些",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 426,
+    "word": "Those",
+    "phonetic": "/ðoʊz/",
+    "pos": "pron.",
+    "meaning": "那些",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 427,
+    "word": "Who",
+    "phonetic": "/huː/",
+    "pos": "pron.",
+    "meaning": "誰",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 428,
+    "word": "Whom",
+    "phonetic": "/huːm/",
+    "pos": "pron.",
+    "meaning": "誰",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 429,
+    "word": "Whose",
+    "phonetic": "/huːz/",
+    "pos": "pron.",
+    "meaning": "誰的",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 430,
+    "word": "Which",
+    "phonetic": "/wɪtʃ/",
+    "pos": "pron.",
+    "meaning": "哪一個",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 431,
+    "word": "What",
+    "phonetic": "/wʌt/",
+    "pos": "pron.",
+    "meaning": "什麼",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 432,
+    "word": "Where",
+    "phonetic": "/wer/",
+    "pos": "conj./adv.",
+    "meaning": "在哪裏",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 433,
+    "word": "When",
+    "phonetic": "/wen/",
+    "pos": "conj./adv.",
+    "meaning": "什麼時候",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 434,
+    "word": "Why",
+    "phonetic": "/waɪ/",
+    "pos": "conj./adv.",
+    "meaning": "為什麼",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 435,
+    "word": "Because",
+    "phonetic": "/bɪˈkɔːz/",
+    "pos": "conj.",
+    "meaning": "因為",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 436,
+    "word": "Although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "pos": "conj.",
+    "meaning": "雖然",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 437,
+    "word": "And",
+    "phonetic": "/ænd/",
+    "pos": "conj.",
+    "meaning": "和",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 438,
+    "word": "But",
+    "phonetic": "/bʌt/",
+    "pos": "conj.",
+    "meaning": "但是",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 439,
+    "word": "Or",
+    "phonetic": "/ɔːr/",
+    "pos": "conj.",
+    "meaning": "或者",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 440,
+    "word": "So",
+    "phonetic": "/soʊ/",
+    "pos": "conj.",
+    "meaning": "所以",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 441,
+    "word": "Yet",
+    "phonetic": "/jet/",
+    "pos": "conj.",
+    "meaning": "然而",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 442,
+    "word": "While",
+    "phonetic": "/waɪl/",
+    "pos": "conj.",
+    "meaning": "而",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 443,
+    "word": "Unless",
+    "phonetic": "/ənˈles/",
+    "pos": "conj.",
+    "meaning": "除非",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 444,
+    "word": "Until",
+    "phonetic": "/ənˈtɪl/",
+    "pos": "conj.",
+    "meaning": "直到",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 445,
+    "word": "Since",
+    "phonetic": "/sɪns/",
+    "pos": "conj.",
+    "meaning": "自從",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 446,
+    "word": "If",
+    "phonetic": "/ɪf/",
+    "pos": "conj.",
+    "meaning": "如果",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 447,
+    "word": "Though",
+    "phonetic": "/ðoʊ/",
+    "pos": "conj.",
+    "meaning": "雖然",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 448,
+    "word": "Therefore",
+    "phonetic": "/ˈðerfɔːr/",
+    "pos": "adv.",
+    "meaning": "因此",
+    "category_key": "pronouns_conjunctions",
+    "category_zh": "代词和连词"
+  },
+  {
+    "index": 449,
+    "word": "Alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "pos": "n.",
+    "meaning": "鬧鐘",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 450,
+    "word": "Apartment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "pos": "n.",
+    "meaning": "公寓",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 451,
+    "word": "Appointment",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "pos": "n.",
+    "meaning": "約會",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 452,
+    "word": "Bakery",
+    "phonetic": "/ˈbeɪkəri/",
+    "pos": "n.",
+    "meaning": "麪包店",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 453,
+    "word": "Bank",
+    "phonetic": "/bæŋk/",
+    "pos": "n.",
+    "meaning": "銀行",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 454,
+    "word": "Bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "pos": "n.",
+    "meaning": "浴室",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 455,
+    "word": "Bed",
+    "phonetic": "/bed/",
+    "pos": "n.",
+    "meaning": "牀",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 456,
+    "word": "Bill",
+    "phonetic": "/bɪl/",
+    "pos": "n.",
+    "meaning": "賬單",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 457,
+    "word": "Breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "pos": "n.",
+    "meaning": "早餐",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 458,
+    "word": "Bus",
+    "phonetic": "/bʌs/",
+    "pos": "n.",
+    "meaning": "公共汽車",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 459,
+    "word": "Calendar",
+    "phonetic": "/ˈkælɪndər/",
+    "pos": "n.",
+    "meaning": "日曆",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 460,
+    "word": "Camera",
+    "phonetic": "/ˈkæmərə/",
+    "pos": "n.",
+    "meaning": "相機",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 461,
+    "word": "Chair",
+    "phonetic": "/tʃer/",
+    "pos": "n.",
+    "meaning": "椅子",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 462,
+    "word": "Classroom",
+    "phonetic": "/ˈklæsruːm/",
+    "pos": "n.",
+    "meaning": "教室",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 463,
+    "word": "Clock",
+    "phonetic": "/klɑːk/",
+    "pos": "n.",
+    "meaning": "時鐘",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 464,
+    "word": "Clothes",
+    "phonetic": "/kloʊðz/",
+    "pos": "n.",
+    "meaning": "衣服",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 465,
+    "word": "Coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "pos": "n.",
+    "meaning": "咖啡",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 466,
+    "word": "Computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "pos": "n.",
+    "meaning": "電腦",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 467,
+    "word": "Conversation",
+    "phonetic": "/ˌkɑːnvərˈseɪʃn/",
+    "pos": "n.",
+    "meaning": "對話",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 468,
+    "word": "Cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "pos": "n.",
+    "meaning": "烹飪",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 469,
+    "word": "Customer",
+    "phonetic": "/ˈkʌstəmər/",
+    "pos": "n.",
+    "meaning": "顧客",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 470,
+    "word": "Desk",
+    "phonetic": "/desk/",
+    "pos": "n.",
+    "meaning": "書桌",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 471,
+    "word": "Dinner",
+    "phonetic": "/ˈdɪnər/",
+    "pos": "n.",
+    "meaning": "晚餐",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 472,
+    "word": "Door",
+    "phonetic": "/dɔːr/",
+    "pos": "n.",
+    "meaning": "門",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 473,
+    "word": "Electricity",
+    "phonetic": "/ɪˌlekˈtrɪsəti/",
+    "pos": "n.",
+    "meaning": "電",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 474,
+    "word": "Elevator",
+    "phonetic": "/ˈelɪveɪtər/",
+    "pos": "n.",
+    "meaning": "電梯",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 475,
+    "word": "Email",
+    "phonetic": "/ˈiːmeɪl/",
+    "pos": "n.",
+    "meaning": "電子郵件",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 476,
+    "word": "Exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "pos": "n.",
+    "meaning": "鍛鍊",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 477,
+    "word": "Factory",
+    "phonetic": "/ˈfæktri/",
+    "pos": "n.",
+    "meaning": "工廠",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 478,
+    "word": "Family",
+    "phonetic": "/ˈfæməli/",
+    "pos": "n.",
+    "meaning": "家庭",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 479,
+    "word": "Food",
+    "phonetic": "/fuːd/",
+    "pos": "n.",
+    "meaning": "食物",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 480,
+    "word": "Friend",
+    "phonetic": "/frend/",
+    "pos": "n.",
+    "meaning": "朋友",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 481,
+    "word": "Gas",
+    "phonetic": "/ɡæs/",
+    "pos": "n.",
+    "meaning": "汽油",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 482,
+    "word": "Grocery",
+    "phonetic": "/ˈɡroʊsəri/",
+    "pos": "n.",
+    "meaning": "雜貨",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 483,
+    "word": "Gym",
+    "phonetic": "/dʒɪm/",
+    "pos": "n.",
+    "meaning": "健身房",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 484,
+    "word": "Hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "pos": "n.",
+    "meaning": "醫院",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 485,
+    "word": "Hotel",
+    "phonetic": "/hoʊˈtel/",
+    "pos": "n.",
+    "meaning": "酒店",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 486,
+    "word": "Internet",
+    "phonetic": "/ˈɪntərnet/",
+    "pos": "n.",
+    "meaning": "互聯網",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 487,
+    "word": "Journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "pos": "n.",
+    "meaning": "旅行",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 488,
+    "word": "Kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "pos": "n.",
+    "meaning": "廚房",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 489,
+    "word": "Laptop",
+    "phonetic": "/ˈlæptɑːp/",
+    "pos": "n.",
+    "meaning": "筆記本電腦",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 490,
+    "word": "Library",
+    "phonetic": "/ˈlaɪbreri/",
+    "pos": "n.",
+    "meaning": "圖書館",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 491,
+    "word": "Lunch",
+    "phonetic": "/lʌntʃ/",
+    "pos": "n.",
+    "meaning": "午餐",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 492,
+    "word": "Market",
+    "phonetic": "/ˈmɑːrkɪt/",
+    "pos": "n.",
+    "meaning": "市場",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 493,
+    "word": "Meeting",
+    "phonetic": "/ˈmiːtɪŋ/",
+    "pos": "n.",
+    "meaning": "會議",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 494,
+    "word": "Mobile",
+    "phonetic": "/ˈmoʊbl/",
+    "pos": "n.",
+    "meaning": "手機",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 495,
+    "word": "Money",
+    "phonetic": "/ˈmʌni/",
+    "pos": "n.",
+    "meaning": "錢",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 496,
+    "word": "Movie",
+    "phonetic": "/ˈmuːvi/",
+    "pos": "n.",
+    "meaning": "電影",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 497,
+    "word": "Museum",
+    "phonetic": "/mjuˈziːəm/",
+    "pos": "n.",
+    "meaning": "博物館",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 498,
+    "word": "Office",
+    "phonetic": "/ˈɔːfɪs/",
+    "pos": "n.",
+    "meaning": "辦公室",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 499,
+    "word": "Park",
+    "phonetic": "/pɑːrk/",
+    "pos": "n.",
+    "meaning": "公園",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 500,
+    "word": "Passport",
+    "phonetic": "/ˈpæspɔːrt/",
+    "pos": "n.",
+    "meaning": "護照",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 501,
+    "word": "Payment",
+    "phonetic": "/ˈpeɪmənt/",
+    "pos": "n.",
+    "meaning": "付款",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 502,
+    "word": "Phone",
+    "phonetic": "/foʊn/",
+    "pos": "n.",
+    "meaning": "電話",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 503,
+    "word": "Photograph",
+    "phonetic": "/ˈfoʊtəɡræf/",
+    "pos": "n.",
+    "meaning": "照片",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 504,
+    "word": "Plan",
+    "phonetic": "/plæn/",
+    "pos": "n.",
+    "meaning": "計劃",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 505,
+    "word": "Restaurant",
+    "phonetic": "/ˈrestrɑːnt/",
+    "pos": "n.",
+    "meaning": "餐廳",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 506,
+    "word": "Room",
+    "phonetic": "/ruːm/",
+    "pos": "n.",
+    "meaning": "房間",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 507,
+    "word": "School",
+    "phonetic": "/skuːl/",
+    "pos": "n.",
+    "meaning": "學校",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 508,
+    "word": "Shopping",
+    "phonetic": "/ˈʃɑːpɪŋ/",
+    "pos": "n.",
+    "meaning": "購物",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 509,
+    "word": "Station",
+    "phonetic": "/ˈsteɪʃn/",
+    "pos": "n.",
+    "meaning": "車站",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 510,
+    "word": "Street",
+    "phonetic": "/striːt/",
+    "pos": "n.",
+    "meaning": "街道",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 511,
+    "word": "Store",
+    "phonetic": "/stɔːr/",
+    "pos": "n.",
+    "meaning": "商店",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 512,
+    "word": "Student",
+    "phonetic": "/ˈstuːdnt/",
+    "pos": "n.",
+    "meaning": "學生",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 513,
+    "word": "Study",
+    "phonetic": "/ˈstʌdi/",
+    "pos": "n.",
+    "meaning": "學習",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 514,
+    "word": "Teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "pos": "n.",
+    "meaning": "老師",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 515,
+    "word": "Ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "pos": "n.",
+    "meaning": "票",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 516,
+    "word": "Toothbrush",
+    "phonetic": "/ˈtuːθbrʌʃ/",
+    "pos": "n.",
+    "meaning": "牙刷",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 517,
+    "word": "Traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "pos": "n.",
+    "meaning": "交通",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 518,
+    "word": "Train",
+    "phonetic": "/treɪn/",
+    "pos": "n.",
+    "meaning": "火車",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 519,
+    "word": "Trip",
+    "phonetic": "/trɪp/",
+    "pos": "n.",
+    "meaning": "旅行",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 520,
+    "word": "Vacation",
+    "phonetic": "/veɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "假期",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 521,
+    "word": "Visitor",
+    "phonetic": "/ˈvɪzɪtər/",
+    "pos": "n.",
+    "meaning": "訪客",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 522,
+    "word": "Wallet",
+    "phonetic": "/ˈwɑːlɪt/",
+    "pos": "n.",
+    "meaning": "錢包",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 523,
+    "word": "Water",
+    "phonetic": "/ˈwɔːtər/",
+    "pos": "n.",
+    "meaning": "水",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 524,
+    "word": "Weekend",
+    "phonetic": "/ˈwiːkend/",
+    "pos": "n.",
+    "meaning": "週末",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 525,
+    "word": "Window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "pos": "n.",
+    "meaning": "窗户",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 526,
+    "word": "Workplace",
+    "phonetic": "/ˈwɜːrkpleɪs/",
+    "pos": "n.",
+    "meaning": "工作場所",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 527,
+    "word": "Airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "pos": "n.",
+    "meaning": "機場",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 528,
+    "word": "ATM",
+    "phonetic": "/ˌeɪ tiː ˈem/",
+    "pos": "n.",
+    "meaning": "自動取款機",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 529,
+    "word": "Barber",
+    "phonetic": "/ˈbɑːrbər/",
+    "pos": "n.",
+    "meaning": "理髮師",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 530,
+    "word": "Boss",
+    "phonetic": "/bɔːs/",
+    "pos": "n.",
+    "meaning": "老闆",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 531,
+    "word": "Cleaner",
+    "phonetic": "/ˈkliːnər/",
+    "pos": "n.",
+    "meaning": "清潔工",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 532,
+    "word": "Delivery",
+    "phonetic": "/dɪˈlɪvəri/",
+    "pos": "n.",
+    "meaning": "送貨",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 533,
+    "word": "Doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "pos": "n.",
+    "meaning": "醫生",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 534,
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvər/",
+    "pos": "n.",
+    "meaning": "司機",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 535,
+    "word": "Engineer",
+    "phonetic": "/ˌendʒɪˈnɪr/",
+    "pos": "n.",
+    "meaning": "工程師",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 536,
+    "word": "Flight",
+    "phonetic": "/flaɪt/",
+    "pos": "n.",
+    "meaning": "航班",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 537,
+    "word": "Job",
+    "phonetic": "/dʒɑːb/",
+    "pos": "n.",
+    "meaning": "工作",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 538,
+    "word": "Laundry",
+    "phonetic": "/ˈlɔːndri/",
+    "pos": "n.",
+    "meaning": "洗衣",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 539,
+    "word": "Mechanic",
+    "phonetic": "/məˈkænɪk/",
+    "pos": "n.",
+    "meaning": "機械師",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 540,
+    "word": "Meeting",
+    "phonetic": "/ˈmiːtɪŋ/",
+    "pos": "n.",
+    "meaning": "會議",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 541,
+    "word": "Neighbor",
+    "phonetic": "/ˈneɪbər/",
+    "pos": "n.",
+    "meaning": "鄰居",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 542,
+    "word": "Nurse",
+    "phonetic": "/nɜːrs/",
+    "pos": "n.",
+    "meaning": "護士",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 543,
+    "word": "Plumber",
+    "phonetic": "/ˈplʌmər/",
+    "pos": "n.",
+    "meaning": "水管工",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 544,
+    "word": "Police",
+    "phonetic": "/pəˈliːs/",
+    "pos": "n.",
+    "meaning": "警察",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 545,
+    "word": "Postman",
+    "phonetic": "/ˈpoʊstmən/",
+    "pos": "n.",
+    "meaning": "郵遞員",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 546,
+    "word": "Receptionist",
+    "phonetic": "/rɪˈsepʃənɪst/",
+    "pos": "n.",
+    "meaning": "接待員",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 547,
+    "word": "Waiter",
+    "phonetic": "/ˈweɪtər/",
+    "pos": "n.",
+    "meaning": "服務員",
+    "category_key": "daily_life",
+    "category_zh": "日常通用场景"
+  },
+  {
+    "index": 548,
+    "word": "Annual",
+    "phonetic": "/ˈænjuəl/",
+    "pos": "adj.",
+    "meaning": "每年的",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 549,
+    "word": "Century",
+    "phonetic": "/ˈsentʃəri/",
+    "pos": "n.",
+    "meaning": "世紀",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 550,
+    "word": "Decade",
+    "phonetic": "/ˈdekeɪd/",
+    "pos": "n.",
+    "meaning": "十年",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 551,
+    "word": "Moment",
+    "phonetic": "/ˈmoʊmənt/",
+    "pos": "n.",
+    "meaning": "時刻",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 552,
+    "word": "Instant",
+    "phonetic": "/ˈɪnstənt/",
+    "pos": "n.",
+    "meaning": "瞬間",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 553,
+    "word": "Minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "pos": "n.",
+    "meaning": "分鐘",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 554,
+    "word": "Hour",
+    "phonetic": "/ˈaʊər/",
+    "pos": "n.",
+    "meaning": "小時",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 555,
+    "word": "Day",
+    "phonetic": "/deɪ/",
+    "pos": "n.",
+    "meaning": "天",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 556,
+    "word": "Week",
+    "phonetic": "/wiːk/",
+    "pos": "n.",
+    "meaning": "周",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 557,
+    "word": "Month",
+    "phonetic": "/mʌnθ/",
+    "pos": "n.",
+    "meaning": "月",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 558,
+    "word": "Year",
+    "phonetic": "/jɪr/",
+    "pos": "n.",
+    "meaning": "年",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 559,
+    "word": "Quarter",
+    "phonetic": "/ˈkwɔːrtər/",
+    "pos": "n.",
+    "meaning": "四分之一",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 560,
+    "word": "Half",
+    "phonetic": "/hæf/",
+    "pos": "n.",
+    "meaning": "一半",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 561,
+    "word": "Twice",
+    "phonetic": "/twaɪs/",
+    "pos": "adv.",
+    "meaning": "兩次",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 562,
+    "word": "Once",
+    "phonetic": "/wʌns/",
+    "pos": "adv.",
+    "meaning": "一次",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 563,
+    "word": "Daily",
+    "phonetic": "/ˈdeɪli/",
+    "pos": "adj./adv.",
+    "meaning": "每天",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 564,
+    "word": "Weekly",
+    "phonetic": "/ˈwiːkli/",
+    "pos": "adj./adv.",
+    "meaning": "每週",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 565,
+    "word": "Monthly",
+    "phonetic": "/ˈmʌnθli/",
+    "pos": "adj./adv.",
+    "meaning": "每月",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 566,
+    "word": "Yearly",
+    "phonetic": "/ˈjɪrli/",
+    "pos": "adj./adv.",
+    "meaning": "每年",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 567,
+    "word": "Before",
+    "phonetic": "/bɪˈfɔːr/",
+    "pos": "prep./adv.",
+    "meaning": "以前",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 568,
+    "word": "After",
+    "phonetic": "/ˈæftər/",
+    "pos": "prep./adv.",
+    "meaning": "之後",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 569,
+    "word": "Now",
+    "phonetic": "/naʊ/",
+    "pos": "adv.",
+    "meaning": "現在",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 570,
+    "word": "Soon",
+    "phonetic": "/suːn/",
+    "pos": "adv.",
+    "meaning": "很快",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 571,
+    "word": "Later",
+    "phonetic": "/ˈleɪtər/",
+    "pos": "adv.",
+    "meaning": "以後",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 572,
+    "word": "Early",
+    "phonetic": "/ˈɜːrli/",
+    "pos": "adv.",
+    "meaning": "早",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 573,
+    "word": "Late",
+    "phonetic": "/leɪt/",
+    "pos": "adv.",
+    "meaning": "晚",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 574,
+    "word": "Tomorrow",
+    "phonetic": "/təˈmɑːroʊ/",
+    "pos": "n./adv.",
+    "meaning": "明天",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 575,
+    "word": "Yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "pos": "n./adv.",
+    "meaning": "昨天",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 576,
+    "word": "Today",
+    "phonetic": "/təˈdeɪ/",
+    "pos": "n./adv.",
+    "meaning": "今天",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 577,
+    "word": "Morning",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "pos": "n.",
+    "meaning": "早上",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 578,
+    "word": "Afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "pos": "n.",
+    "meaning": "下午",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 579,
+    "word": "Evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "pos": "n.",
+    "meaning": "晚上",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 580,
+    "word": "Night",
+    "phonetic": "/naɪt/",
+    "pos": "n.",
+    "meaning": "夜晚",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 581,
+    "word": "Midnight",
+    "phonetic": "/ˈmɪdnaɪt/",
+    "pos": "n.",
+    "meaning": "午夜",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 582,
+    "word": "Noon",
+    "phonetic": "/nuːn/",
+    "pos": "n.",
+    "meaning": "中午",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 583,
+    "word": "Future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "pos": "n.",
+    "meaning": "未來",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 584,
+    "word": "Past",
+    "phonetic": "/pæst/",
+    "pos": "n.",
+    "meaning": "過去",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 585,
+    "word": "Present",
+    "phonetic": "/ˈpreznt/",
+    "pos": "n.",
+    "meaning": "現在",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 586,
+    "word": "Clock",
+    "phonetic": "/klɑːk/",
+    "pos": "n.",
+    "meaning": "時鐘",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 587,
+    "word": "Calendar",
+    "phonetic": "/ˈkælɪndər/",
+    "pos": "n.",
+    "meaning": "日曆",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 588,
+    "word": "Date",
+    "phonetic": "/deɪt/",
+    "pos": "n.",
+    "meaning": "日期",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 589,
+    "word": "Number",
+    "phonetic": "/ˈnʌmbər/",
+    "pos": "n.",
+    "meaning": "數字",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 590,
+    "word": "Digit",
+    "phonetic": "/ˈdɪdʒɪt/",
+    "pos": "n.",
+    "meaning": "數字",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 591,
+    "word": "Dozen",
+    "phonetic": "/ˈdʌzn/",
+    "pos": "n.",
+    "meaning": "一打",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 592,
+    "word": "Pair",
+    "phonetic": "/per/",
+    "pos": "n.",
+    "meaning": "一對",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 593,
+    "word": "Hundred",
+    "phonetic": "/ˈhʌndrəd/",
+    "pos": "n.",
+    "meaning": "一百",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 594,
+    "word": "Thousand",
+    "phonetic": "/ˈθaʊznd/",
+    "pos": "n.",
+    "meaning": "一千",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 595,
+    "word": "Million",
+    "phonetic": "/ˈmɪljən/",
+    "pos": "n.",
+    "meaning": "百萬",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 596,
+    "word": "Billion",
+    "phonetic": "/ˈbɪljən/",
+    "pos": "n.",
+    "meaning": "十億",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 597,
+    "word": "Zero",
+    "phonetic": "/ˈzɪroʊ/",
+    "pos": "n.",
+    "meaning": "零",
+    "category_key": "time_numbers",
+    "category_zh": "时间与数字"
+  },
+  {
+    "index": 598,
+    "word": "Appetite",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "pos": "n.",
+    "meaning": "食慾",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 599,
+    "word": "Bakery",
+    "phonetic": "/ˈbeɪkəri/",
+    "pos": "n.",
+    "meaning": "麪包店",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 600,
+    "word": "Beverage",
+    "phonetic": "/ˈbevərɪdʒ/",
+    "pos": "n.",
+    "meaning": "飲料",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 601,
+    "word": "Breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "pos": "n.",
+    "meaning": "早餐",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 602,
+    "word": "Lunch",
+    "phonetic": "/lʌntʃ/",
+    "pos": "n.",
+    "meaning": "午餐",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 603,
+    "word": "Dinner",
+    "phonetic": "/ˈdɪnər/",
+    "pos": "n.",
+    "meaning": "晚餐",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 604,
+    "word": "Snack",
+    "phonetic": "/snæk/",
+    "pos": "n.",
+    "meaning": "小吃",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 605,
+    "word": "Dessert",
+    "phonetic": "/dɪˈzɜːrt/",
+    "pos": "n.",
+    "meaning": "甜點",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 606,
+    "word": "Fruit",
+    "phonetic": "/fruːt/",
+    "pos": "n.",
+    "meaning": "水果",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 607,
+    "word": "Vegetable",
+    "phonetic": "/ˈvedʒtəbl/",
+    "pos": "n.",
+    "meaning": "蔬菜",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 608,
+    "word": "Meat",
+    "phonetic": "/miːt/",
+    "pos": "n.",
+    "meaning": "肉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 609,
+    "word": "Seafood",
+    "phonetic": "/ˈsiːfuːd/",
+    "pos": "n.",
+    "meaning": "海鮮",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 610,
+    "word": "Spice",
+    "phonetic": "/spaɪs/",
+    "pos": "n.",
+    "meaning": "香料",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 611,
+    "word": "Herb",
+    "phonetic": "/ɜːrb/",
+    "pos": "n.",
+    "meaning": "香草",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 612,
+    "word": "Ingredient",
+    "phonetic": "/ɪnˈɡriːdiənt/",
+    "pos": "n.",
+    "meaning": "原料",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 613,
+    "word": "Recipe",
+    "phonetic": "/ˈresəpi/",
+    "pos": "n.",
+    "meaning": "食譜",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 614,
+    "word": "Sauce",
+    "phonetic": "/sɔːs/",
+    "pos": "n.",
+    "meaning": "醬汁",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 615,
+    "word": "Soup",
+    "phonetic": "/suːp/",
+    "pos": "n.",
+    "meaning": "湯",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 616,
+    "word": "Salad",
+    "phonetic": "/ˈsæləd/",
+    "pos": "n.",
+    "meaning": "沙拉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 617,
+    "word": "Bread",
+    "phonetic": "/bred/",
+    "pos": "n.",
+    "meaning": "麪包",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 618,
+    "word": "Cheese",
+    "phonetic": "/tʃiːz/",
+    "pos": "n.",
+    "meaning": "奶酪",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 619,
+    "word": "Butter",
+    "phonetic": "/ˈbʌtər/",
+    "pos": "n.",
+    "meaning": "黃油",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 620,
+    "word": "Yogurt",
+    "phonetic": "/ˈjoʊɡərt/",
+    "pos": "n.",
+    "meaning": "酸奶",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 621,
+    "word": "Rice",
+    "phonetic": "/raɪs/",
+    "pos": "n.",
+    "meaning": "米飯",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 622,
+    "word": "Pasta",
+    "phonetic": "/ˈpɑːstə/",
+    "pos": "n.",
+    "meaning": "意大利麪",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 623,
+    "word": "Pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "pos": "n.",
+    "meaning": "披薩",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 624,
+    "word": "Burger",
+    "phonetic": "/ˈbɜːrɡər/",
+    "pos": "n.",
+    "meaning": "漢堡",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 625,
+    "word": "Sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "pos": "n.",
+    "meaning": "三明治",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 626,
+    "word": "Egg",
+    "phonetic": "/eɡ/",
+    "pos": "n.",
+    "meaning": "雞蛋",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 627,
+    "word": "Chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "pos": "n.",
+    "meaning": "雞肉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 628,
+    "word": "Beef",
+    "phonetic": "/biːf/",
+    "pos": "n.",
+    "meaning": "牛肉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 629,
+    "word": "Pork",
+    "phonetic": "/pɔːrk/",
+    "pos": "n.",
+    "meaning": "豬肉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 630,
+    "word": "Fish",
+    "phonetic": "/fɪʃ/",
+    "pos": "n.",
+    "meaning": "魚",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 631,
+    "word": "Shrimp",
+    "phonetic": "/ʃrɪmp/",
+    "pos": "n.",
+    "meaning": "蝦",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 632,
+    "word": "Crab",
+    "phonetic": "/kræb/",
+    "pos": "n.",
+    "meaning": "螃蟹",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 633,
+    "word": "Lobster",
+    "phonetic": "/ˈlɑːbstər/",
+    "pos": "n.",
+    "meaning": "龍蝦",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 634,
+    "word": "Juice",
+    "phonetic": "/dʒuːs/",
+    "pos": "n.",
+    "meaning": "果汁",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 635,
+    "word": "Tea",
+    "phonetic": "/tiː/",
+    "pos": "n.",
+    "meaning": "茶",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 636,
+    "word": "Coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "pos": "n.",
+    "meaning": "咖啡",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 637,
+    "word": "Milk",
+    "phonetic": "/mɪlk/",
+    "pos": "n.",
+    "meaning": "牛奶",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 638,
+    "word": "Water",
+    "phonetic": "/ˈwɔːtər/",
+    "pos": "n.",
+    "meaning": "水",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 639,
+    "word": "Wine",
+    "phonetic": "/waɪn/",
+    "pos": "n.",
+    "meaning": "葡萄酒",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 640,
+    "word": "Beer",
+    "phonetic": "/bɪr/",
+    "pos": "n.",
+    "meaning": "啤酒",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 641,
+    "word": "Honey",
+    "phonetic": "/ˈhʌni/",
+    "pos": "n.",
+    "meaning": "蜂蜜",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 642,
+    "word": "Sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "pos": "n.",
+    "meaning": "糖",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 643,
+    "word": "Salt",
+    "phonetic": "/sɔːlt/",
+    "pos": "n.",
+    "meaning": "鹽",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 644,
+    "word": "Oil",
+    "phonetic": "/ɔɪl/",
+    "pos": "n.",
+    "meaning": "油",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 645,
+    "word": "Vinegar",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "pos": "n.",
+    "meaning": "醋",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 646,
+    "word": "Flour",
+    "phonetic": "/ˈflaʊər/",
+    "pos": "n.",
+    "meaning": "麪粉",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 647,
+    "word": "Cake",
+    "phonetic": "/keɪk/",
+    "pos": "n.",
+    "meaning": "蛋糕",
+    "category_key": "food_drink",
+    "category_zh": "饮食"
+  },
+  {
+    "index": 648,
+    "word": "Ankle",
+    "phonetic": "/ˈæŋkl/",
+    "pos": "n.",
+    "meaning": "腳踝",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 649,
+    "word": "Arm",
+    "phonetic": "/ɑːrm/",
+    "pos": "n.",
+    "meaning": "手臂",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 650,
+    "word": "Back",
+    "phonetic": "/bæk/",
+    "pos": "n.",
+    "meaning": "背部",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 651,
+    "word": "Blood",
+    "phonetic": "/blʌd/",
+    "pos": "n.",
+    "meaning": "血液",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 652,
+    "word": "Bone",
+    "phonetic": "/boʊn/",
+    "pos": "n.",
+    "meaning": "骨頭",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 653,
+    "word": "Brain",
+    "phonetic": "/breɪn/",
+    "pos": "n.",
+    "meaning": "大腦",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 654,
+    "word": "Chest",
+    "phonetic": "/tʃest/",
+    "pos": "n.",
+    "meaning": "胸部",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 655,
+    "word": "Chin",
+    "phonetic": "/tʃɪn/",
+    "pos": "n.",
+    "meaning": "下巴",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 656,
+    "word": "Ear",
+    "phonetic": "/ɪr/",
+    "pos": "n.",
+    "meaning": "耳朵",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 657,
+    "word": "Elbow",
+    "phonetic": "/ˈelboʊ/",
+    "pos": "n.",
+    "meaning": "肘部",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 658,
+    "word": "Eye",
+    "phonetic": "/aɪ/",
+    "pos": "n.",
+    "meaning": "眼睛",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 659,
+    "word": "Eyelash",
+    "phonetic": "/ˈaɪlæʃ/",
+    "pos": "n.",
+    "meaning": "睫毛",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 660,
+    "word": "Eyebrow",
+    "phonetic": "/ˈaɪbraʊ/",
+    "pos": "n.",
+    "meaning": "眉毛",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 661,
+    "word": "Face",
+    "phonetic": "/feɪs/",
+    "pos": "n.",
+    "meaning": "臉",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 662,
+    "word": "Finger",
+    "phonetic": "/ˈfɪŋɡər/",
+    "pos": "n.",
+    "meaning": "手指",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 663,
+    "word": "Foot",
+    "phonetic": "/fʊt/",
+    "pos": "n.",
+    "meaning": "腳",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 664,
+    "word": "Forehead",
+    "phonetic": "/ˈfɔːrhed/",
+    "pos": "n.",
+    "meaning": "額頭",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 665,
+    "word": "Hand",
+    "phonetic": "/hænd/",
+    "pos": "n.",
+    "meaning": "手",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 666,
+    "word": "Head",
+    "phonetic": "/hed/",
+    "pos": "n.",
+    "meaning": "頭",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 667,
+    "word": "Heart",
+    "phonetic": "/hɑːrt/",
+    "pos": "n.",
+    "meaning": "心臟",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 668,
+    "word": "Hip",
+    "phonetic": "/hɪp/",
+    "pos": "n.",
+    "meaning": "臀部",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 669,
+    "word": "Knee",
+    "phonetic": "/niː/",
+    "pos": "n.",
+    "meaning": "膝蓋",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 670,
+    "word": "Leg",
+    "phonetic": "/leɡ/",
+    "pos": "n.",
+    "meaning": "腿",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 671,
+    "word": "Lips",
+    "phonetic": "/lɪps/",
+    "pos": "n.",
+    "meaning": "嘴唇",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 672,
+    "word": "Mouth",
+    "phonetic": "/maʊθ/",
+    "pos": "n.",
+    "meaning": "嘴",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 673,
+    "word": "Neck",
+    "phonetic": "/nek/",
+    "pos": "n.",
+    "meaning": "脖子",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 674,
+    "word": "Nose",
+    "phonetic": "/noʊz/",
+    "pos": "n.",
+    "meaning": "鼻子",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 675,
+    "word": "Shoulder",
+    "phonetic": "/ˈʃoʊldər/",
+    "pos": "n.",
+    "meaning": "肩膀",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 676,
+    "word": "Skin",
+    "phonetic": "/skɪn/",
+    "pos": "n.",
+    "meaning": "皮膚",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 677,
+    "word": "Stomach",
+    "phonetic": "/ˈstʌmək/",
+    "pos": "n.",
+    "meaning": "胃",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 678,
+    "word": "Teeth",
+    "phonetic": "/tiːθ/",
+    "pos": "n.",
+    "meaning": "牙齒",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 679,
+    "word": "Throat",
+    "phonetic": "/θroʊt/",
+    "pos": "n.",
+    "meaning": "喉嚨",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 680,
+    "word": "Toe",
+    "phonetic": "/toʊ/",
+    "pos": "n.",
+    "meaning": "腳趾",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 681,
+    "word": "Tongue",
+    "phonetic": "/tʌŋ/",
+    "pos": "n.",
+    "meaning": "舌頭",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 682,
+    "word": "Waist",
+    "phonetic": "/weɪst/",
+    "pos": "n.",
+    "meaning": "腰",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 683,
+    "word": "Wrist",
+    "phonetic": "/rɪst/",
+    "pos": "n.",
+    "meaning": "手腕",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 684,
+    "word": "Doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "pos": "n.",
+    "meaning": "醫生",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 685,
+    "word": "Nurse",
+    "phonetic": "/nɜːrs/",
+    "pos": "n.",
+    "meaning": "護士",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 686,
+    "word": "Patient",
+    "phonetic": "/ˈpeɪʃnt/",
+    "pos": "n.",
+    "meaning": "病人",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 687,
+    "word": "Hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "pos": "n.",
+    "meaning": "醫院",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 688,
+    "word": "Clinic",
+    "phonetic": "/ˈklɪnɪk/",
+    "pos": "n.",
+    "meaning": "診所",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 689,
+    "word": "Medicine",
+    "phonetic": "/ˈmedɪsn/",
+    "pos": "n.",
+    "meaning": "藥",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 690,
+    "word": "Tablet",
+    "phonetic": "/ˈtæblət/",
+    "pos": "n.",
+    "meaning": "藥片",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 691,
+    "word": "Syrup",
+    "phonetic": "/ˈsɪrəp/",
+    "pos": "n.",
+    "meaning": "糖漿",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 692,
+    "word": "Vaccine",
+    "phonetic": "/vækˈsiːn/",
+    "pos": "n.",
+    "meaning": "疫苗",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 693,
+    "word": "Operation",
+    "phonetic": "/ˌɑːpəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "手術",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 694,
+    "word": "Pain",
+    "phonetic": "/peɪn/",
+    "pos": "n.",
+    "meaning": "疼痛",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 695,
+    "word": "Cough",
+    "phonetic": "/kɔːf/",
+    "pos": "n.",
+    "meaning": "咳嗽",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 696,
+    "word": "Cold",
+    "phonetic": "/koʊld/",
+    "pos": "n.",
+    "meaning": "感冒",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 697,
+    "word": "Fever",
+    "phonetic": "/ˈfiːvər/",
+    "pos": "n.",
+    "meaning": "發燒",
+    "category_key": "body_health",
+    "category_zh": "身体与健康"
+  },
+  {
+    "index": 698,
+    "word": "Father",
+    "phonetic": "/ˈfɑːðər/",
+    "pos": "n.",
+    "meaning": "父親",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 699,
+    "word": "Mother",
+    "phonetic": "/ˈmʌðər/",
+    "pos": "n.",
+    "meaning": "母親",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 700,
+    "word": "Parent",
+    "phonetic": "/ˈperənt/",
+    "pos": "n.",
+    "meaning": "父母",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 701,
+    "word": "Son",
+    "phonetic": "/sʌn/",
+    "pos": "n.",
+    "meaning": "兒子",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 702,
+    "word": "Daughter",
+    "phonetic": "/ˈdɔːtər/",
+    "pos": "n.",
+    "meaning": "女兒",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 703,
+    "word": "Brother",
+    "phonetic": "/ˈbrʌðər/",
+    "pos": "n.",
+    "meaning": "兄弟",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 704,
+    "word": "Sister",
+    "phonetic": "/ˈsɪstər/",
+    "pos": "n.",
+    "meaning": "姐妹",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 705,
+    "word": "Sibling",
+    "phonetic": "/ˈsɪblɪŋ/",
+    "pos": "n.",
+    "meaning": "兄弟姐妹",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 706,
+    "word": "Grandfather",
+    "phonetic": "/ˈɡrænfɑːðər/",
+    "pos": "n.",
+    "meaning": "祖父",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 707,
+    "word": "Grandmother",
+    "phonetic": "/ˈɡrænmʌðər/",
+    "pos": "n.",
+    "meaning": "祖母",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 708,
+    "word": "Grandparent",
+    "phonetic": "/ˈɡrænperənt/",
+    "pos": "n.",
+    "meaning": "祖父母",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 709,
+    "word": "Uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "pos": "n.",
+    "meaning": "叔叔",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 710,
+    "word": "Aunt",
+    "phonetic": "/ænt/",
+    "pos": "n.",
+    "meaning": "阿姨",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 711,
+    "word": "Cousin",
+    "phonetic": "/ˈkʌzn/",
+    "pos": "n.",
+    "meaning": "表兄弟",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 712,
+    "word": "Nephew",
+    "phonetic": "/ˈnefjuː/",
+    "pos": "n.",
+    "meaning": "侄子",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 713,
+    "word": "Niece",
+    "phonetic": "/niːs/",
+    "pos": "n.",
+    "meaning": "侄女",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 714,
+    "word": "Husband",
+    "phonetic": "/ˈhʌzbənd/",
+    "pos": "n.",
+    "meaning": "丈夫",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 715,
+    "word": "Wife",
+    "phonetic": "/waɪf/",
+    "pos": "n.",
+    "meaning": "妻子",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 716,
+    "word": "Spouse",
+    "phonetic": "/spaʊs/",
+    "pos": "n.",
+    "meaning": "配偶",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 717,
+    "word": "In-laws",
+    "phonetic": "/ˈɪn lɔːz/",
+    "pos": "n.",
+    "meaning": "姻親",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 718,
+    "word": "Father-in-law",
+    "phonetic": "/ˈfɑːðər ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "岳父",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 719,
+    "word": "Mother-in-law",
+    "phonetic": "/ˈmʌðər ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "岳母",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 720,
+    "word": "Son-in-law",
+    "phonetic": "/ˈsʌn ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "女婿",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 721,
+    "word": "Daughter-in-law",
+    "phonetic": "/ˈdɔːtər ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "兒媳",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 722,
+    "word": "Brother-in-law",
+    "phonetic": "/ˈbrʌðər ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "姐夫",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 723,
+    "word": "Sister-in-law",
+    "phonetic": "/ˈsɪstər ɪn lɔː/",
+    "pos": "n.",
+    "meaning": "嫂子",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 724,
+    "word": "Child",
+    "phonetic": "/tʃaɪld/",
+    "pos": "n.",
+    "meaning": "孩子",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 725,
+    "word": "Baby",
+    "phonetic": "/ˈbeɪbi/",
+    "pos": "n.",
+    "meaning": "嬰兒",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 726,
+    "word": "Teenager",
+    "phonetic": "/ˈtiːneɪdʒər/",
+    "pos": "n.",
+    "meaning": "青少年",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 727,
+    "word": "Adult",
+    "phonetic": "/əˈdʌlt/",
+    "pos": "n.",
+    "meaning": "成人",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 728,
+    "word": "Family",
+    "phonetic": "/ˈfæməli/",
+    "pos": "n.",
+    "meaning": "家庭",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 729,
+    "word": "Relative",
+    "phonetic": "/ˈrelətɪv/",
+    "pos": "n.",
+    "meaning": "親戚",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 730,
+    "word": "Relationship",
+    "phonetic": "/rɪˈleɪʃnʃɪp/",
+    "pos": "n.",
+    "meaning": "關係",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 731,
+    "word": "Marriage",
+    "phonetic": "/ˈmærɪdʒ/",
+    "pos": "n.",
+    "meaning": "婚姻",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 732,
+    "word": "Divorce",
+    "phonetic": "/dɪˈvɔːrs/",
+    "pos": "n.",
+    "meaning": "離婚",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 733,
+    "word": "Engagement",
+    "phonetic": "/ɪnˈɡeɪdʒmənt/",
+    "pos": "n.",
+    "meaning": "訂婚",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 734,
+    "word": "Couple",
+    "phonetic": "/ˈkʌpl/",
+    "pos": "n.",
+    "meaning": "一對",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 735,
+    "word": "Boyfriend",
+    "phonetic": "/ˈbɔɪfrend/",
+    "pos": "n.",
+    "meaning": "男朋友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 736,
+    "word": "Girlfriend",
+    "phonetic": "/ˈɡɜːrlfrend/",
+    "pos": "n.",
+    "meaning": "女朋友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 737,
+    "word": "Friend",
+    "phonetic": "/frend/",
+    "pos": "n.",
+    "meaning": "朋友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 738,
+    "word": "Best friend",
+    "phonetic": "/best frend/",
+    "pos": "n.",
+    "meaning": "最好的朋友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 739,
+    "word": "Neighbor",
+    "phonetic": "/ˈneɪbər/",
+    "pos": "n.",
+    "meaning": "鄰居",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 740,
+    "word": "Roommate",
+    "phonetic": "/ˈruːmmeɪt/",
+    "pos": "n.",
+    "meaning": "室友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 741,
+    "word": "Classmate",
+    "phonetic": "/ˈklæsmeɪt/",
+    "pos": "n.",
+    "meaning": "同學",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 742,
+    "word": "Teammate",
+    "phonetic": "/ˈtiːmmeɪt/",
+    "pos": "n.",
+    "meaning": "隊友",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 743,
+    "word": "Colleague",
+    "phonetic": "/ˈkɑːliːɡ/",
+    "pos": "n.",
+    "meaning": "同事",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 744,
+    "word": "Boss",
+    "phonetic": "/bɔːs/",
+    "pos": "n.",
+    "meaning": "老闆",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 745,
+    "word": "Partner",
+    "phonetic": "/ˈpɑːrtnər/",
+    "pos": "n.",
+    "meaning": "夥伴",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 746,
+    "word": "Companion",
+    "phonetic": "/kəmˈpænjən/",
+    "pos": "n.",
+    "meaning": "伴侶",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 747,
+    "word": "Caretaker",
+    "phonetic": "/ˈkerteɪkər/",
+    "pos": "n.",
+    "meaning": "看護人",
+    "category_key": "family_relationships",
+    "category_zh": "家庭与社会关系"
+  },
+  {
+    "index": 748,
+    "word": "Shirt",
+    "phonetic": "/ʃɜːrt/",
+    "pos": "n.",
+    "meaning": "襯衫",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 749,
+    "word": "T-shirt",
+    "phonetic": "/ˈtiː ʃɜːrt/",
+    "pos": "n.",
+    "meaning": "T恤",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 750,
+    "word": "Blouse",
+    "phonetic": "/blaʊs/",
+    "pos": "n.",
+    "meaning": "女襯衫",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 751,
+    "word": "Dress",
+    "phonetic": "/dres/",
+    "pos": "n.",
+    "meaning": "連衣裙",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 752,
+    "word": "Skirt",
+    "phonetic": "/skɜːrt/",
+    "pos": "n.",
+    "meaning": "裙子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 753,
+    "word": "Jeans",
+    "phonetic": "/dʒiːnz/",
+    "pos": "n.",
+    "meaning": "牛仔褲",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 754,
+    "word": "Pants",
+    "phonetic": "/pænts/",
+    "pos": "n.",
+    "meaning": "褲子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 755,
+    "word": "Trousers",
+    "phonetic": "/ˈtraʊzərz/",
+    "pos": "n.",
+    "meaning": "長褲",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 756,
+    "word": "Shorts",
+    "phonetic": "/ʃɔːrts/",
+    "pos": "n.",
+    "meaning": "短褲",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 757,
+    "word": "Suit",
+    "phonetic": "/suːt/",
+    "pos": "n.",
+    "meaning": "西裝",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 758,
+    "word": "Coat",
+    "phonetic": "/koʊt/",
+    "pos": "n.",
+    "meaning": "外套",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 759,
+    "word": "Jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "pos": "n.",
+    "meaning": "夾克",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 760,
+    "word": "Sweater",
+    "phonetic": "/ˈswetər/",
+    "pos": "n.",
+    "meaning": "毛衣",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 761,
+    "word": "Hoodie",
+    "phonetic": "/ˈhʊdi/",
+    "pos": "n.",
+    "meaning": "連帽衫",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 762,
+    "word": "Cardigan",
+    "phonetic": "/ˈkɑːrdɪɡən/",
+    "pos": "n.",
+    "meaning": "開襟毛衣",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 763,
+    "word": "Scarf",
+    "phonetic": "/skɑːrf/",
+    "pos": "n.",
+    "meaning": "圍巾",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 764,
+    "word": "Gloves",
+    "phonetic": "/ɡlʌvz/",
+    "pos": "n.",
+    "meaning": "手套",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 765,
+    "word": "Mittens",
+    "phonetic": "/ˈmɪtnz/",
+    "pos": "n.",
+    "meaning": "連指手套",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 766,
+    "word": "Socks",
+    "phonetic": "/sɑːks/",
+    "pos": "n.",
+    "meaning": "襪子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 767,
+    "word": "Shoes",
+    "phonetic": "/ʃuːz/",
+    "pos": "n.",
+    "meaning": "鞋子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 768,
+    "word": "Boots",
+    "phonetic": "/buːts/",
+    "pos": "n.",
+    "meaning": "靴子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 769,
+    "word": "Sandals",
+    "phonetic": "/ˈsændlz/",
+    "pos": "n.",
+    "meaning": "涼鞋",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 770,
+    "word": "Slippers",
+    "phonetic": "/ˈslɪpərz/",
+    "pos": "n.",
+    "meaning": "拖鞋",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 771,
+    "word": "Hat",
+    "phonetic": "/hæt/",
+    "pos": "n.",
+    "meaning": "帽子",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 772,
+    "word": "Cap",
+    "phonetic": "/kæp/",
+    "pos": "n.",
+    "meaning": "棒球帽",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 773,
+    "word": "Belt",
+    "phonetic": "/belt/",
+    "pos": "n.",
+    "meaning": "腰帶",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 774,
+    "word": "Tie",
+    "phonetic": "/taɪ/",
+    "pos": "n.",
+    "meaning": "領帶",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 775,
+    "word": "Bow tie",
+    "phonetic": "/boʊ taɪ/",
+    "pos": "n.",
+    "meaning": "蝴蝶結領結",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 776,
+    "word": "Watch",
+    "phonetic": "/wɑːtʃ/",
+    "pos": "n.",
+    "meaning": "手錶",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 777,
+    "word": "Ring",
+    "phonetic": "/rɪŋ/",
+    "pos": "n.",
+    "meaning": "戒指",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 778,
+    "word": "Necklace",
+    "phonetic": "/ˈnekləs/",
+    "pos": "n.",
+    "meaning": "項鍊",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 779,
+    "word": "Bracelet",
+    "phonetic": "/ˈbreɪslət/",
+    "pos": "n.",
+    "meaning": "手鐲",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 780,
+    "word": "Earrings",
+    "phonetic": "/ˈɪrɪŋz/",
+    "pos": "n.",
+    "meaning": "耳環",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 781,
+    "word": "Sunglasses",
+    "phonetic": "/ˈsʌnɡlæsɪz/",
+    "pos": "n.",
+    "meaning": "太陽鏡",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 782,
+    "word": "Wallet",
+    "phonetic": "/ˈwɑːlɪt/",
+    "pos": "n.",
+    "meaning": "錢包",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 783,
+    "word": "Handbag",
+    "phonetic": "/ˈhændbæɡ/",
+    "pos": "n.",
+    "meaning": "手提包",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 784,
+    "word": "Backpack",
+    "phonetic": "/ˈbækpæk/",
+    "pos": "n.",
+    "meaning": "揹包",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 785,
+    "word": "Purse",
+    "phonetic": "/pɜːrs/",
+    "pos": "n.",
+    "meaning": "錢包",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 786,
+    "word": "Umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "pos": "n.",
+    "meaning": "雨傘",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 787,
+    "word": "Raincoat",
+    "phonetic": "/ˈreɪnkoʊt/",
+    "pos": "n.",
+    "meaning": "雨衣",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 788,
+    "word": "Uniform",
+    "phonetic": "/ˈjuːnɪfɔːrm/",
+    "pos": "n.",
+    "meaning": "制服",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 789,
+    "word": "Costume",
+    "phonetic": "/ˈkɑːstuːm/",
+    "pos": "n.",
+    "meaning": "服裝",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 790,
+    "word": "Apron",
+    "phonetic": "/ˈeɪprən/",
+    "pos": "n.",
+    "meaning": "圍裙",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 791,
+    "word": "Glasses",
+    "phonetic": "/ˈɡlæsɪz/",
+    "pos": "n.",
+    "meaning": "眼鏡",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 792,
+    "word": "Helmet",
+    "phonetic": "/ˈhelmɪt/",
+    "pos": "n.",
+    "meaning": "頭盔",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 793,
+    "word": "Mask",
+    "phonetic": "/mæsk/",
+    "pos": "n.",
+    "meaning": "口罩",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 794,
+    "word": "Jewel",
+    "phonetic": "/ˈdʒuːəl/",
+    "pos": "n.",
+    "meaning": "寶石",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 795,
+    "word": "Fabric",
+    "phonetic": "/ˈfæbrɪk/",
+    "pos": "n.",
+    "meaning": "面料",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 796,
+    "word": "Thread",
+    "phonetic": "/θred/",
+    "pos": "n.",
+    "meaning": "線",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 797,
+    "word": "Button",
+    "phonetic": "/ˈbʌtn/",
+    "pos": "n.",
+    "meaning": "紐扣",
+    "category_key": "clothing_accessories",
+    "category_zh": "服装与配饰"
+  },
+  {
+    "index": 798,
+    "word": "Weather",
+    "phonetic": "/ˈweðər/",
+    "pos": "n.",
+    "meaning": "天氣",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 799,
+    "word": "Climate",
+    "phonetic": "/ˈklaɪmət/",
+    "pos": "n.",
+    "meaning": "氣候",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 800,
+    "word": "Rain",
+    "phonetic": "/reɪn/",
+    "pos": "n.",
+    "meaning": "雨",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 801,
+    "word": "Snow",
+    "phonetic": "/snoʊ/",
+    "pos": "n.",
+    "meaning": "雪",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 802,
+    "word": "Hail",
+    "phonetic": "/heɪl/",
+    "pos": "n.",
+    "meaning": "冰雹",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 803,
+    "word": "Wind",
+    "phonetic": "/wɪnd/",
+    "pos": "n.",
+    "meaning": "風",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 804,
+    "word": "Storm",
+    "phonetic": "/stɔːrm/",
+    "pos": "n.",
+    "meaning": "風暴",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 805,
+    "word": "Thunder",
+    "phonetic": "/ˈθʌndər/",
+    "pos": "n.",
+    "meaning": "雷",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 806,
+    "word": "Lightning",
+    "phonetic": "/ˈlaɪtnɪŋ/",
+    "pos": "n.",
+    "meaning": "閃電",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 807,
+    "word": "Cloud",
+    "phonetic": "/klaʊd/",
+    "pos": "n.",
+    "meaning": "雲",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 808,
+    "word": "Sunshine",
+    "phonetic": "/ˈsʌnʃaɪn/",
+    "pos": "n.",
+    "meaning": "陽光",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 809,
+    "word": "Fog",
+    "phonetic": "/fɔːɡ/",
+    "pos": "n.",
+    "meaning": "霧",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 810,
+    "word": "Mist",
+    "phonetic": "/mɪst/",
+    "pos": "n.",
+    "meaning": "薄霧",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 811,
+    "word": "Breeze",
+    "phonetic": "/briːz/",
+    "pos": "n.",
+    "meaning": "微風",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 812,
+    "word": "Hurricane",
+    "phonetic": "/ˈhɜːrəkən/",
+    "pos": "n.",
+    "meaning": "颶風",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 813,
+    "word": "Tornado",
+    "phonetic": "/tɔːrˈneɪdoʊ/",
+    "pos": "n.",
+    "meaning": "龍捲風",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 814,
+    "word": "Temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "pos": "n.",
+    "meaning": "温度",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 815,
+    "word": "Heat",
+    "phonetic": "/hiːt/",
+    "pos": "n.",
+    "meaning": "熱",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 816,
+    "word": "Cold",
+    "phonetic": "/koʊld/",
+    "pos": "n.",
+    "meaning": "冷",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 817,
+    "word": "Frost",
+    "phonetic": "/frɔːst/",
+    "pos": "n.",
+    "meaning": "霜",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 818,
+    "word": "Ice",
+    "phonetic": "/aɪs/",
+    "pos": "n.",
+    "meaning": "冰",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 819,
+    "word": "Snowflake",
+    "phonetic": "/ˈsnoʊfleɪk/",
+    "pos": "n.",
+    "meaning": "雪花",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 820,
+    "word": "Drizzle",
+    "phonetic": "/ˈdrɪzl/",
+    "pos": "n.",
+    "meaning": "細雨",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 821,
+    "word": "Flood",
+    "phonetic": "/flʌd/",
+    "pos": "n.",
+    "meaning": "洪水",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 822,
+    "word": "Drought",
+    "phonetic": "/draʊt/",
+    "pos": "n.",
+    "meaning": "乾旱",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 823,
+    "word": "Rainbow",
+    "phonetic": "/ˈreɪnboʊ/",
+    "pos": "n.",
+    "meaning": "彩虹",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 824,
+    "word": "Season",
+    "phonetic": "/ˈsiːzn/",
+    "pos": "n.",
+    "meaning": "季節",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 825,
+    "word": "Spring",
+    "phonetic": "/sprɪŋ/",
+    "pos": "n.",
+    "meaning": "春天",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 826,
+    "word": "Summer",
+    "phonetic": "/ˈsʌmər/",
+    "pos": "n.",
+    "meaning": "夏天",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 827,
+    "word": "Autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "pos": "n.",
+    "meaning": "秋天",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 828,
+    "word": "Winter",
+    "phonetic": "/ˈwɪntər/",
+    "pos": "n.",
+    "meaning": "冬天",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 829,
+    "word": "Nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "pos": "n.",
+    "meaning": "自然",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 830,
+    "word": "Mountain",
+    "phonetic": "/ˈmaʊntn/",
+    "pos": "n.",
+    "meaning": "山",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 831,
+    "word": "Hill",
+    "phonetic": "/hɪl/",
+    "pos": "n.",
+    "meaning": "小山",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 832,
+    "word": "Valley",
+    "phonetic": "/ˈvæli/",
+    "pos": "n.",
+    "meaning": "山谷",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 833,
+    "word": "River",
+    "phonetic": "/ˈrɪvər/",
+    "pos": "n.",
+    "meaning": "河流",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 834,
+    "word": "Lake",
+    "phonetic": "/leɪk/",
+    "pos": "n.",
+    "meaning": "湖泊",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 835,
+    "word": "Ocean",
+    "phonetic": "/ˈoʊʃn/",
+    "pos": "n.",
+    "meaning": "海洋",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 836,
+    "word": "Sea",
+    "phonetic": "/siː/",
+    "pos": "n.",
+    "meaning": "海",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 837,
+    "word": "Island",
+    "phonetic": "/ˈaɪlənd/",
+    "pos": "n.",
+    "meaning": "島",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 838,
+    "word": "Forest",
+    "phonetic": "/ˈfɔːrɪst/",
+    "pos": "n.",
+    "meaning": "森林",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 839,
+    "word": "Tree",
+    "phonetic": "/triː/",
+    "pos": "n.",
+    "meaning": "樹",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 840,
+    "word": "Bush",
+    "phonetic": "/bʊʃ/",
+    "pos": "n.",
+    "meaning": "灌木",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 841,
+    "word": "Grass",
+    "phonetic": "/ɡræs/",
+    "pos": "n.",
+    "meaning": "草",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 842,
+    "word": "Flower",
+    "phonetic": "/ˈflaʊər/",
+    "pos": "n.",
+    "meaning": "花",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 843,
+    "word": "Leaf",
+    "phonetic": "/liːf/",
+    "pos": "n.",
+    "meaning": "葉子",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 844,
+    "word": "Root",
+    "phonetic": "/ruːt/",
+    "pos": "n.",
+    "meaning": "根",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 845,
+    "word": "Soil",
+    "phonetic": "/sɔɪl/",
+    "pos": "n.",
+    "meaning": "土壤",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 846,
+    "word": "Rock",
+    "phonetic": "/rɑːk/",
+    "pos": "n.",
+    "meaning": "岩石",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 847,
+    "word": "Sand",
+    "phonetic": "/sænd/",
+    "pos": "n.",
+    "meaning": "沙子",
+    "category_key": "weather_nature",
+    "category_zh": "天气与自然"
+  },
+  {
+    "index": 848,
+    "word": "Travel",
+    "phonetic": "/ˈtrævl/",
+    "pos": "n./v.",
+    "meaning": "旅行",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 849,
+    "word": "Journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "pos": "n.",
+    "meaning": "旅程",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 850,
+    "word": "Trip",
+    "phonetic": "/trɪp/",
+    "pos": "n.",
+    "meaning": "旅行",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 851,
+    "word": "Tour",
+    "phonetic": "/tʊr/",
+    "pos": "n.",
+    "meaning": "旅遊",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 852,
+    "word": "Vacation",
+    "phonetic": "/veɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "假期",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 853,
+    "word": "Luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "pos": "n.",
+    "meaning": "行李",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 854,
+    "word": "Suitcase",
+    "phonetic": "/ˈsuːtkeɪs/",
+    "pos": "n.",
+    "meaning": "手提箱",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 855,
+    "word": "Passport",
+    "phonetic": "/ˈpæspɔːrt/",
+    "pos": "n.",
+    "meaning": "護照",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 856,
+    "word": "Ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "pos": "n.",
+    "meaning": "票",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 857,
+    "word": "Map",
+    "phonetic": "/mæp/",
+    "pos": "n.",
+    "meaning": "地圖",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 858,
+    "word": "Route",
+    "phonetic": "/ruːt/",
+    "pos": "n.",
+    "meaning": "路線",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 859,
+    "word": "Direction",
+    "phonetic": "/dəˈrekʃn/",
+    "pos": "n.",
+    "meaning": "方向",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 860,
+    "word": "Destination",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "目的地",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 861,
+    "word": "Airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "pos": "n.",
+    "meaning": "機場",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 862,
+    "word": "Airplane",
+    "phonetic": "/ˈerpleɪn/",
+    "pos": "n.",
+    "meaning": "飛機",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 863,
+    "word": "Pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "pos": "n.",
+    "meaning": "飛行員",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 864,
+    "word": "Flight",
+    "phonetic": "/flaɪt/",
+    "pos": "n.",
+    "meaning": "航班",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 865,
+    "word": "Train",
+    "phonetic": "/treɪn/",
+    "pos": "n.",
+    "meaning": "火車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 866,
+    "word": "Railway",
+    "phonetic": "/ˈreɪlweɪ/",
+    "pos": "n.",
+    "meaning": "鐵路",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 867,
+    "word": "Station",
+    "phonetic": "/ˈsteɪʃn/",
+    "pos": "n.",
+    "meaning": "車站",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 868,
+    "word": "Bus",
+    "phonetic": "/bʌs/",
+    "pos": "n.",
+    "meaning": "公共汽車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 869,
+    "word": "Taxi",
+    "phonetic": "/ˈtæksi/",
+    "pos": "n.",
+    "meaning": "出租車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 870,
+    "word": "Car",
+    "phonetic": "/kɑːr/",
+    "pos": "n.",
+    "meaning": "汽車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 871,
+    "word": "Truck",
+    "phonetic": "/trʌk/",
+    "pos": "n.",
+    "meaning": "卡車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 872,
+    "word": "Motorcycle",
+    "phonetic": "/ˈmoʊtərsaɪkl/",
+    "pos": "n.",
+    "meaning": "摩托車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 873,
+    "word": "Bicycle",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "pos": "n.",
+    "meaning": "自行車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 874,
+    "word": "Scooter",
+    "phonetic": "/ˈskuːtər/",
+    "pos": "n.",
+    "meaning": "踏板車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 875,
+    "word": "Boat",
+    "phonetic": "/boʊt/",
+    "pos": "n.",
+    "meaning": "船",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 876,
+    "word": "Ship",
+    "phonetic": "/ʃɪp/",
+    "pos": "n.",
+    "meaning": "船",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 877,
+    "word": "Ferry",
+    "phonetic": "/ˈferi/",
+    "pos": "n.",
+    "meaning": "渡輪",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 878,
+    "word": "Submarine",
+    "phonetic": "/ˈsʌbməriːn/",
+    "pos": "n.",
+    "meaning": "潛水艇",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 879,
+    "word": "Helicopter",
+    "phonetic": "/ˈhelɪkɑːptər/",
+    "pos": "n.",
+    "meaning": "直升機",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 880,
+    "word": "Traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "pos": "n.",
+    "meaning": "交通",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 881,
+    "word": "Road",
+    "phonetic": "/roʊd/",
+    "pos": "n.",
+    "meaning": "道路",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 882,
+    "word": "Highway",
+    "phonetic": "/ˈhaɪweɪ/",
+    "pos": "n.",
+    "meaning": "高速公路",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 883,
+    "word": "Bridge",
+    "phonetic": "/brɪdʒ/",
+    "pos": "n.",
+    "meaning": "橋",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 884,
+    "word": "Tunnel",
+    "phonetic": "/ˈtʌnl/",
+    "pos": "n.",
+    "meaning": "隧道",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 885,
+    "word": "Lane",
+    "phonetic": "/leɪn/",
+    "pos": "n.",
+    "meaning": "車道",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 886,
+    "word": "Signal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "pos": "n.",
+    "meaning": "信號",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 887,
+    "word": "Crosswalk",
+    "phonetic": "/ˈkrɔːswɔːk/",
+    "pos": "n.",
+    "meaning": "人行橫道",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 888,
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvər/",
+    "pos": "n.",
+    "meaning": "司機",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 889,
+    "word": "Passenger",
+    "phonetic": "/ˈpæsɪndʒər/",
+    "pos": "n.",
+    "meaning": "乘客",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 890,
+    "word": "Speed",
+    "phonetic": "/spiːd/",
+    "pos": "n.",
+    "meaning": "速度",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 891,
+    "word": "Stop",
+    "phonetic": "/stɑːp/",
+    "pos": "n./v.",
+    "meaning": "停止",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 892,
+    "word": "Turn",
+    "phonetic": "/tɜːrn/",
+    "pos": "n./v.",
+    "meaning": "轉彎",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 893,
+    "word": "Fuel",
+    "phonetic": "/ˈfjuːəl/",
+    "pos": "n.",
+    "meaning": "燃料",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 894,
+    "word": "Engine",
+    "phonetic": "/ˈendʒɪn/",
+    "pos": "n.",
+    "meaning": "引擎",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 895,
+    "word": "Seatbelt",
+    "phonetic": "/ˈsiːtbelt/",
+    "pos": "n.",
+    "meaning": "安全帶",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 896,
+    "word": "Parking",
+    "phonetic": "/ˈpɑːrkɪŋ/",
+    "pos": "n.",
+    "meaning": "停車",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 897,
+    "word": "License",
+    "phonetic": "/ˈlaɪsns/",
+    "pos": "n.",
+    "meaning": "執照",
+    "category_key": "transportation_travel",
+    "category_zh": "交通与旅行"
+  },
+  {
+    "index": 898,
+    "word": "Teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "pos": "n.",
+    "meaning": "老師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 899,
+    "word": "Doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "pos": "n.",
+    "meaning": "醫生",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 900,
+    "word": "Nurse",
+    "phonetic": "/nɜːrs/",
+    "pos": "n.",
+    "meaning": "護士",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 901,
+    "word": "Engineer",
+    "phonetic": "/ˌendʒɪˈnɪr/",
+    "pos": "n.",
+    "meaning": "工程師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 902,
+    "word": "Architect",
+    "phonetic": "/ˈɑːrkɪtekt/",
+    "pos": "n.",
+    "meaning": "建築師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 903,
+    "word": "Lawyer",
+    "phonetic": "/ˈlɔːjər/",
+    "pos": "n.",
+    "meaning": "律師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 904,
+    "word": "Judge",
+    "phonetic": "/dʒʌdʒ/",
+    "pos": "n.",
+    "meaning": "法官",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 905,
+    "word": "Police officer",
+    "phonetic": "/pəˈliːs ˈɑːfɪsər/",
+    "pos": "n.",
+    "meaning": "警察",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 906,
+    "word": "Firefighter",
+    "phonetic": "/ˈfaɪərfaɪtər/",
+    "pos": "n.",
+    "meaning": "消防員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 907,
+    "word": "Pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "pos": "n.",
+    "meaning": "飛行員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 908,
+    "word": "Flight attendant",
+    "phonetic": "/flaɪt əˈtendənt/",
+    "pos": "n.",
+    "meaning": "空乘人員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 909,
+    "word": "Chef",
+    "phonetic": "/ʃef/",
+    "pos": "n.",
+    "meaning": "廚師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 910,
+    "word": "Waiter",
+    "phonetic": "/ˈweɪtər/",
+    "pos": "n.",
+    "meaning": "服務員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 911,
+    "word": "Cashier",
+    "phonetic": "/kæˈʃɪr/",
+    "pos": "n.",
+    "meaning": "收銀員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 912,
+    "word": "Shopkeeper",
+    "phonetic": "/ˈʃɑːpkiːpər/",
+    "pos": "n.",
+    "meaning": "店主",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 913,
+    "word": "Farmer",
+    "phonetic": "/ˈfɑːrmər/",
+    "pos": "n.",
+    "meaning": "農民",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 914,
+    "word": "Fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "pos": "n.",
+    "meaning": "漁民",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 915,
+    "word": "Carpenter",
+    "phonetic": "/ˈkɑːrpəntər/",
+    "pos": "n.",
+    "meaning": "木匠",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 916,
+    "word": "Plumber",
+    "phonetic": "/ˈplʌmər/",
+    "pos": "n.",
+    "meaning": "水管工",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 917,
+    "word": "Electrician",
+    "phonetic": "/ɪˌlekˈtrɪʃn/",
+    "pos": "n.",
+    "meaning": "電工",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 918,
+    "word": "Mechanic",
+    "phonetic": "/məˈkænɪk/",
+    "pos": "n.",
+    "meaning": "機械師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 919,
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvər/",
+    "pos": "n.",
+    "meaning": "司機",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 920,
+    "word": "Cleaner",
+    "phonetic": "/ˈkliːnər/",
+    "pos": "n.",
+    "meaning": "清潔工",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 921,
+    "word": "Tailor",
+    "phonetic": "/ˈteɪlər/",
+    "pos": "n.",
+    "meaning": "裁縫",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 922,
+    "word": "Hairdresser",
+    "phonetic": "/ˈherdresər/",
+    "pos": "n.",
+    "meaning": "理髮師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 923,
+    "word": "Artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "pos": "n.",
+    "meaning": "藝術家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 924,
+    "word": "Musician",
+    "phonetic": "/mjuˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "音樂家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 925,
+    "word": "Actor",
+    "phonetic": "/ˈæktər/",
+    "pos": "n.",
+    "meaning": "演員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 926,
+    "word": "Photographer",
+    "phonetic": "/fəˈtɑːɡrəfər/",
+    "pos": "n.",
+    "meaning": "攝影師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 927,
+    "word": "Writer",
+    "phonetic": "/ˈraɪtər/",
+    "pos": "n.",
+    "meaning": "作家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 928,
+    "word": "Journalist",
+    "phonetic": "/ˈdʒɜːrnəlɪst/",
+    "pos": "n.",
+    "meaning": "記者",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 929,
+    "word": "Editor",
+    "phonetic": "/ˈedɪtər/",
+    "pos": "n.",
+    "meaning": "編輯",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 930,
+    "word": "Scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "pos": "n.",
+    "meaning": "科學家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 931,
+    "word": "Biologist",
+    "phonetic": "/baɪˈɑːlədʒɪst/",
+    "pos": "n.",
+    "meaning": "生物學家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 932,
+    "word": "Chemist",
+    "phonetic": "/ˈkemɪst/",
+    "pos": "n.",
+    "meaning": "化學家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 933,
+    "word": "Physicist",
+    "phonetic": "/ˈfɪzɪsɪst/",
+    "pos": "n.",
+    "meaning": "物理學家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 934,
+    "word": "Astronomer",
+    "phonetic": "/əˈstrɑːnəmər/",
+    "pos": "n.",
+    "meaning": "天文學家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 935,
+    "word": "Veterinarian",
+    "phonetic": "/ˌvetərɪˈneriən/",
+    "pos": "n.",
+    "meaning": "獸醫",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 936,
+    "word": "Dentist",
+    "phonetic": "/ˈdentɪst/",
+    "pos": "n.",
+    "meaning": "牙醫",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 937,
+    "word": "Pharmacist",
+    "phonetic": "/ˈfɑːrməsɪst/",
+    "pos": "n.",
+    "meaning": "藥劑師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 938,
+    "word": "Banker",
+    "phonetic": "/ˈbæŋkər/",
+    "pos": "n.",
+    "meaning": "銀行家",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 939,
+    "word": "Accountant",
+    "phonetic": "/əˈkaʊntənt/",
+    "pos": "n.",
+    "meaning": "會計",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 940,
+    "word": "Businessperson",
+    "phonetic": "/ˈbɪznəspɜːrsn/",
+    "pos": "n.",
+    "meaning": "商人",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 941,
+    "word": "Receptionist",
+    "phonetic": "/rɪˈsepʃənɪst/",
+    "pos": "n.",
+    "meaning": "接待員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 942,
+    "word": "Secretary",
+    "phonetic": "/ˈsekrəteri/",
+    "pos": "n.",
+    "meaning": "秘書",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 943,
+    "word": "Manager",
+    "phonetic": "/ˈmænɪdʒər/",
+    "pos": "n.",
+    "meaning": "經理",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 944,
+    "word": "CEO",
+    "phonetic": "/ˌsiː iː ˈoʊ/",
+    "pos": "n.",
+    "meaning": "首席執行官",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 945,
+    "word": "Software developer",
+    "phonetic": "/ˈsɔːftwer dɪˈveləpər/",
+    "pos": "n.",
+    "meaning": "軟件開發人員",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 946,
+    "word": "Web designer",
+    "phonetic": "/web dɪˈzaɪnər/",
+    "pos": "n.",
+    "meaning": "網頁設計師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  },
+  {
+    "index": 947,
+    "word": "Graphic designer",
+    "phonetic": "/ˈɡræfɪk dɪˈzaɪnər/",
+    "pos": "n.",
+    "meaning": "平面設計師",
+    "category_key": "jobs_occupations",
+    "category_zh": "工作与职业"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "geography",
+  "order": 30,
+  "scenes": [{ "key": "geography", "zh": "地理（香港中學）" }],
+  "quizTypes": [],
+  "refSections": [],
+  "modules": []
+}

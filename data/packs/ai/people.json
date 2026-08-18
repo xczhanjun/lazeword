@@ -1,0 +1,183 @@
+[
+  {
+    "id": "turing",
+    "emoji": "🎭",
+    "name": "Alan Turing",
+    "nameZh": "艾倫 · 圖靈",
+    "project": "Computing Machinery and Intelligence",
+    "repo": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+    "role": "電腦科學之父",
+    "bio": "英國數學家：發明圖靈機、破解二戰密碼，1950 年提出「機器會思考嗎」的圖靈測試——AI 這個問題的第一個版本。",
+    "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "quoteZh": "我們只能看到前方很短的路，但那裡有大量值得做的事",
+    "words": [
+      "test",
+      "machine",
+      "computation",
+      "intelligence"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "mccarthy",
+    "emoji": "🧠",
+    "name": "John McCarthy",
+    "nameZh": "約翰 · 麥卡錫",
+    "project": "Dartmouth Workshop",
+    "repo": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+    "role": "「AI」一詞的命名者",
+    "bio": "美國電腦科學家：1956 年達特茅斯會議上給這個領域起了名字——Artificial Intelligence，並發明了 Lisp 語言。",
+    "quote": "Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it.",
+    "quoteZh": "學習和智能的每個方面都可以被精確描述，以至於機器可以模擬它——達特茅斯提案",
+    "words": [
+      "artificial",
+      "simulate",
+      "reasoning"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "hinton",
+    "emoji": "🕸️",
+    "name": "Geoffrey Hinton",
+    "nameZh": "傑弗裡 · 辛頓",
+    "project": "Deep Learning",
+    "repo": "https://www.nature.com/articles/nature14539",
+    "role": "深度學習先驅，圖靈獎得主",
+    "bio": "英國加拿大科學家：堅持神經網路三十年，最終改變世界；晚年離開 Google 公開談論 AI 風險——先驅與警鐘是同一個人。",
+    "quote": "It is hard to see how you can prevent the bad actors from using it for bad things.",
+    "quoteZh": "很難看出如何阻止壞人用它做壞事",
+    "words": [
+      "neural network",
+      "backpropagation",
+      "gradient"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "lecun",
+    "emoji": "🔓",
+    "name": "Yann LeCun",
+    "nameZh": "楊立昆",
+    "project": "Convolutional Networks / Llama",
+    "repo": "https://github.com/meta-llama",
+    "role": "卷積網路之父，Meta 首席 AI 科學家",
+    "bio": "法國科學家：卷積神經網路之父；堅定的開源派與審慎樂觀派，公開反對「AI 會毀滅人類」的恐懼敘事——科學家也可以公開分歧。",
+    "quote": "Our AI systems are not nearly as smart as a cat.",
+    "quoteZh": "我們的 AI 系統還沒有一隻貓聰明",
+    "words": [
+      "convolution",
+      "open source",
+      "vision"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "feifei",
+    "emoji": "👁️",
+    "name": "Fei-Fei Li 李飛飛",
+    "nameZh": "李飛飛",
+    "project": "ImageNet / Human-Centered AI",
+    "repo": "https://www.image-net.org",
+    "role": "ImageNet 作者，以人為本 AI 倡導者",
+    "bio": "華裔科學家：建造 ImageNet 讓電腦學會「看」；主張 AI 要服務人、理解人、增強人——而不是替代人。",
+    "quote": "AI is made by people, for people. It should be centered on human dignity and human flourishing.",
+    "quoteZh": "AI 由人造、為人用，應以人的尊嚴與繁榮為中心",
+    "words": [
+      "dataset",
+      "recognition",
+      "human-centered"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "hassabis",
+    "emoji": "♟️",
+    "name": "Demis Hassabis",
+    "nameZh": "德米斯 · 哈薩比斯",
+    "project": "AlphaGo / DeepMind",
+    "repo": "https://www.nature.com/articles/nature16961",
+    "role": "AlphaGo 之父",
+    "bio": "英國科學家：曾是西洋棋神童，創辦 DeepMind，用 AlphaGo 讓全世界看到 AI 能「創造」人類未曾見過的棋步。",
+    "quote": "AlphaGo's move 37 was a move that no human would ever make.",
+    "quoteZh": "AlphaGo 的第 37 手是人類永遠不會下出的一步",
+    "words": [
+      "game",
+      "reinforcement learning",
+      "move"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "kaiming",
+    "emoji": "🏗️",
+    "name": "Kaiming He 何愷明",
+    "nameZh": "何愷明",
+    "project": "ResNet",
+    "repo": "https://arxiv.org/abs/1512.03385",
+    "role": "ResNet 作者",
+    "bio": "中國科學家：ResNet 殘差網路成為電腦視覺的地基，是 AI 史上被引用最多的論文之一——華人科學家站在這個領域的最前沿。",
+    "quote": "Deep residual learning made it possible to train networks hundreds of layers deep.",
+    "quoteZh": "殘差學習讓訓練數百層的網路成為可能",
+    "words": [
+      "residual",
+      "layer",
+      "training"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "karpathy",
+    "emoji": "📓",
+    "name": "Andrej Karpathy",
+    "nameZh": "安德烈 · 卡帕西",
+    "project": "Software 2.0 / AI 教育",
+    "repo": "https://karpathy.ai",
+    "role": "AI 教育家",
+    "bio": "斯洛伐克加拿大科學家：提出「軟體 2.0」；最著名的是免費把神經網路的每個細節講給所有人聽——知識的開源者。",
+    "quote": "The hottest new programming language is English.",
+    "quoteZh": "最熱門的新程式語言是英語",
+    "words": [
+      "software",
+      "language",
+      "teaching"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "amodei",
+    "emoji": "⚖️",
+    "name": "Dario Amodei",
+    "nameZh": "達里奧 · 阿莫迪",
+    "project": "Concrete Problems in AI Safety / Anthropic",
+    "repo": "https://arxiv.org/abs/1606.06565",
+    "role": "AI 安全研究者，Anthropic CEO",
+    "bio": "義大利裔科學家：寫下 AI 安全領域的奠基論文《Concrete Problems》；創辦 Anthropic 主張用制度約束前沿 AI。另一派科學家（LeCun 等）認為權力集中本身才是最大風險——兩邊都是善意的人，分歧值得你自己思考。",
+    "quote": "AI safety research should be a normal part of the field, not an afterthought.",
+    "quoteZh": "AI 安全研究應是這個領域的常規部分，而不是事後補丁",
+    "words": [
+      "alignment",
+      "safety",
+      "oversight"
+    ],
+    "group": "AI"
+  },
+  {
+    "id": "andrewng",
+    "emoji": "⚡",
+    "name": "Andrew Ng 吳恩達",
+    "nameZh": "吳恩達",
+    "project": "Google Brain / Coursera / DeepLearning.AI",
+    "repo": "https://www.deeplearning.ai",
+    "role": "AI 教育普及者，百度前首席科學家",
+    "bio": "華裔科學家：創辦 Google Brain，曾任百度首席科學家（領導矽谷 AI 實驗室）；最著名的是把深度學習免費教給億萬人——他相信 AI 的力量屬於每一個人。",
+    "quote": "AI is the new electricity.",
+    "quoteZh": "AI 是新的電力",
+    "words": [
+      "machine learning",
+      "teaching",
+      "open source"
+    ],
+    "group": "AI"
+  }
+]

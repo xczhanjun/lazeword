@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/lightrope/lazeword/blob/main/laze.schema.json",
+  "title": "laze.json — 学习场景声明标准",
+  "description": "把「word=actor / sentence=scenario / trajectory=log」从比喻变成可互操作标准。运行时校验见 src/core.mjs 的 validateLaze（两者语义一致）。",
+  "type": "object",
+  "required": ["laze", "scenario"],
+  "properties": {
+    "laze": {
+      "const": "0.1",
+      "description": "场景标准版本（语义化）"
+    },
+    "scenario": {
+      "type": "object",
+      "required": ["id", "title", "behavior"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "kebab-case，全库唯一"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80
+        },
+        "subject": {
+          "enum": ["en", "math", "mixed"],
+          "description": "可选；缺省 en"
+        },
+        "entities": {
+          "type": "object",
+          "properties": {
+            "words": { "type": "array", "items": { "type": "string" } },
+            "packs": { "type": "array", "items": { "type": "string" } }
+          },
+          "additionalProperties": false
+        },
+        "behavior": {
+          "type": "object",
+          "required": ["type"],
+          "properties": {
+            "type": { "type": "string", "minLength": 1, "description": "已注册的 runner 类型" },
+            "mode": { "type": "string", "description": "如 en2zh / zh2en" },
+            "difficulty": { "type": "integer", "minimum": 1 },
+            "count": { "type": "integer", "minimum": 1 }
+          },
+          "additionalProperties": true
+        },
+        "conditions": {
+          "type": "object",
+          "properties": {
+            "seed": { "type": "integer", "minimum": 0 },
+            "retention": { "type": "number", "minimum": 0, "maximum": 1 },
+            "timeLimit": { "type": "integer", "minimum": 1 }
+          },
+          "additionalProperties": true
+        },
+        "trace": {
+          "type": "object",
+          "properties": {
+            "write": { "type": "boolean", "description": "是否写回轨迹；demo 为 false" }
+          },
+          "additionalProperties": true
+        },
+        "storyboard": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["step"],
+            "properties": { "step": { "type": "string", "minLength": 1 } },
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

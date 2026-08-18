@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Pack quality gate
+        run: python3 scripts/check-packs.py
+      - name: laze.json schema validation
+        run: node scripts/validate-laze.mjs
+      - name: Unit tests
+        run: npm test
+      - name: Build standalone app + client bundle
+        run: node scripts/build.mjs && node scripts/build-client.mjs
+      - name: Syntax check plugin entrypoints
+        run: npm run check
+      - name: Verify build is reproducible (no uncommitted diff)
+        run: git diff --exit-code -- app/lazeword.html lib/client.js
+
+  e2e:
+    runs-on: ubuntu-latest
+    needs: test-and-build
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dev dependencies
+        run: npm ci
+      - name: Install Playwright chromium
+        run: npx playwright install --with-deps chromium
+      - name: E2E critical flows
+        run: npm run test:e2e

@@ -1,0 +1,17 @@
+{
+  "id": "math",
+  "order": 10,
+  "scenes": [],
+  "quizTypes": [
+    { "key": "arith", "zh": "算術練習" },
+    { "key": "formula", "zh": "公式填空" },
+    { "key": "percent", "zh": "百分比" },
+    { "key": "poly", "zh": "多項式" },
+    { "key": "coord", "zh": "坐標旋轉" }
+  ],
+  "refSections": [
+    { "key": "math-formulas", "zh": "數學公式" }
+  ],
+  "modules": ["arith.mjs", "formulas.mjs"],
+  "formulasFile": "formulas.json"
+}

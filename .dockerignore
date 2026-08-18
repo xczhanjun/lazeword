@@ -1,0 +1,12 @@
+# 构建上下文只送 Dockerfile 需要的文件（缓存稳定 + 镜像无杂音）
+node_modules
+.git
+.github
+.agents
+.claude
+.playwright-mcp
+docs
+data/*.pdf
+*.log
+Dockerfile
+docker-compose*.yml

@@ -1,0 +1,450 @@
+[
+ {
+  "word": "artificial intelligence",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "人工智能",
+  "c": "ai"
+ },
+ {
+  "word": "machine learning",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "機器學習",
+  "c": "ai"
+ },
+ {
+  "word": "deep learning",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "深度學習",
+  "c": "ai"
+ },
+ {
+  "word": "neural network",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "神經網絡",
+  "c": "ai"
+ },
+ {
+  "word": "training",
+  "phonetic": "/ˈtreɪnɪŋ/",
+  "pos": "n.",
+  "meaning": "訓練（模型學習過程）",
+  "c": "ai"
+ },
+ {
+  "word": "inference",
+  "phonetic": "/ˈɪnfərəns/",
+  "pos": "n.",
+  "meaning": "推理（模型運行）",
+  "c": "ai"
+ },
+ {
+  "word": "model",
+  "phonetic": "/ˈmɒdl/",
+  "pos": "n.",
+  "meaning": "模型",
+  "c": "ai"
+ },
+ {
+  "word": "parameter",
+  "phonetic": "/pəˈræmɪtər/",
+  "pos": "n.",
+  "meaning": "參數（模型學到的數值）",
+  "c": "ai"
+ },
+ {
+  "word": "gradient",
+  "phonetic": "/ˈɡreɪdiənt/",
+  "pos": "n.",
+  "meaning": "梯度（學習方向的數學指引）",
+  "c": "ai"
+ },
+ {
+  "word": "backpropagation",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "反向傳播（神經網路學習演算法）",
+  "c": "ai"
+ },
+ {
+  "word": "dataset",
+  "phonetic": "/ˈdeɪtəset/",
+  "pos": "n.",
+  "meaning": "數據集",
+  "c": "ai"
+ },
+ {
+  "word": "benchmark",
+  "phonetic": "/ˈbentʃmɑːk/",
+  "pos": "n.",
+  "meaning": "基準測試",
+  "c": "ai"
+ },
+ {
+  "word": "evaluation",
+  "phonetic": "/ɪˌvæljuˈeɪʃn/",
+  "pos": "n.",
+  "meaning": "評估",
+  "c": "ai"
+ },
+ {
+  "word": "alignment",
+  "phonetic": "/əˈlaɪnmənt/",
+  "pos": "n.",
+  "meaning": "對齊（讓 AI 目標與人類一致）",
+  "c": "ai"
+ },
+ {
+  "word": "safety",
+  "phonetic": "/ˈseɪfti/",
+  "pos": "n.",
+  "meaning": "安全",
+  "c": "ai"
+ },
+ {
+  "word": "bias",
+  "phonetic": "/ˈbaɪəs/",
+  "pos": "n.",
+  "meaning": "偏見（模型學到的不公平傾向）",
+  "c": "ai"
+ },
+ {
+  "word": "fairness",
+  "phonetic": "/ˈfeənəs/",
+  "pos": "n.",
+  "meaning": "公平性",
+  "c": "ai"
+ },
+ {
+  "word": "hallucination",
+  "phonetic": "/həˌluːsɪˈneɪʃn/",
+  "pos": "n.",
+  "meaning": "幻覺（AI 一本正經地編造）",
+  "c": "ai"
+ },
+ {
+  "word": "interpretability",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "可解釋性（看懂模型在想什麼）",
+  "c": "ai"
+ },
+ {
+  "word": "transparency",
+  "phonetic": "/trænsˈpærənsi/",
+  "pos": "n.",
+  "meaning": "透明度",
+  "c": "ai"
+ },
+ {
+  "word": "accountability",
+  "phonetic": "/əˌkaʊntəˈbɪləti/",
+  "pos": "n.",
+  "meaning": "問責（誰為 AI 的行為負責）",
+  "c": "ai"
+ },
+ {
+  "word": "privacy",
+  "phonetic": "/ˈprɪvəsi/",
+  "pos": "n.",
+  "meaning": "隱私",
+  "c": "ai"
+ },
+ {
+  "word": "robustness",
+  "phonetic": "/rəʊˈbʌstnəs/",
+  "pos": "n.",
+  "meaning": "穩健性（面對干擾不出錯）",
+  "c": "ai"
+ },
+ {
+  "word": "adversarial",
+  "phonetic": "/ˌædvəˈseəriəl/",
+  "pos": "adj.",
+  "meaning": "對抗性的（專門設計的攻擊）",
+  "c": "ai"
+ },
+ {
+  "word": "red teaming",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "紅隊測試（請人專門攻擊找漏洞）",
+  "c": "ai"
+ },
+ {
+  "word": "oversight",
+  "phonetic": "/ˈəʊvəsaɪt/",
+  "pos": "n.",
+  "meaning": "監督",
+  "c": "ai"
+ },
+ {
+  "word": "governance",
+  "phonetic": "/ˈɡʌvənəns/",
+  "pos": "n.",
+  "meaning": "治理（制度與規則）",
+  "c": "ai"
+ },
+ {
+  "word": "regulation",
+  "phonetic": "/ˌreɡjuˈleɪʃn/",
+  "pos": "n.",
+  "meaning": "監管",
+  "c": "ai"
+ },
+ {
+  "word": "dual-use",
+  "phonetic": "",
+  "pos": "adj.",
+  "meaning": "雙用途（同一技術可善可惡）",
+  "c": "ai"
+ },
+ {
+  "word": "open source",
+  "phonetic": "",
+  "pos": "adj.",
+  "meaning": "開源（程式碼公開可查）",
+  "c": "ai"
+ },
+ {
+  "word": "local inference",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "本地推理（在自己的機器上跑 AI）",
+  "c": "ai"
+ },
+ {
+  "word": "verifiability",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "可驗證性（主張可以被任何人檢查）",
+  "c": "ai"
+ },
+ {
+  "word": "reproducibility",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "可復現性（別人重跑得到同樣結果）",
+  "c": "ai"
+ },
+ {
+  "word": "reinforcement learning",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "強化學習（從獎勵中學習）",
+  "c": "ai"
+ },
+ {
+  "word": "reward",
+  "phonetic": "/rɪˈwɔːd/",
+  "pos": "n.",
+  "meaning": "獎勵（強化學習的指引信號）",
+  "c": "ai"
+ },
+ {
+  "word": "fine-tuning",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "微調（在基座模型上繼續訓練）",
+  "c": "ai"
+ },
+ {
+  "word": "prompt",
+  "phonetic": "/prɒmpt/",
+  "pos": "n.",
+  "meaning": "提示詞（給模型的輸入指令）",
+  "c": "ai"
+ },
+ {
+  "word": "context window",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "上下文窗口（模型一次能記住的長度）",
+  "c": "ai"
+ },
+ {
+  "word": "agent",
+  "phonetic": "/ˈeɪdʒənt/",
+  "pos": "n.",
+  "meaning": "智能體（能自主行動的 AI）",
+  "c": "ai"
+ },
+ {
+  "word": "autonomy",
+  "phonetic": "/ɔːˈtɒnəmi/",
+  "pos": "n.",
+  "meaning": "自主性（自己決定的程度）",
+  "c": "ai"
+ },
+ {
+  "word": "capability",
+  "phonetic": "/ˌkeɪpəˈbɪləti/",
+  "pos": "n.",
+  "meaning": "能力",
+  "c": "ai"
+ },
+ {
+  "word": "scaling law",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "規模定律（算力越大能力越強）",
+  "c": "ai"
+ },
+ {
+  "word": "compute",
+  "phonetic": "/kəmˈpjuːt/",
+  "pos": "n.",
+  "meaning": "算力",
+  "c": "ai"
+ },
+ {
+  "word": "chip",
+  "phonetic": "/tʃɪp/",
+  "pos": "n.",
+  "meaning": "晶片",
+  "c": "ai"
+ },
+ {
+  "word": "AGI",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "通用人工智能（與人類相當的全面智能）",
+  "c": "ai"
+ },
+ {
+  "word": "narrow AI",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "窄域人工智能（只會一件事的 AI）",
+  "c": "ai"
+ },
+ {
+  "word": "deepfake",
+  "phonetic": "/ˈdiːpfeɪk/",
+  "pos": "n.",
+  "meaning": "深度偽造（AI 合成的假影片/假聲音）",
+  "c": "ai"
+ },
+ {
+  "word": "misinformation",
+  "phonetic": "/ˌmɪsɪnfəˈmeɪʃn/",
+  "pos": "n.",
+  "meaning": "錯誤資訊（不準確但無惡意的傳播）",
+  "c": "ai"
+ },
+ {
+  "word": "copyright",
+  "phonetic": "/ˈkɒpiraɪt/",
+  "pos": "n.",
+  "meaning": "版權（作品的合法權利）",
+  "c": "ai"
+ },
+ {
+  "word": "human-in-the-loop",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "人在迴路（重要決定保留人類把關）",
+  "c": "ai"
+ },
+ {
+  "word": "digital divide",
+  "phonetic": "",
+  "pos": "n.",
+  "meaning": "數位落差（有人用得上 AI，有人用不上）",
+  "c": "ai"
+ },
+ {
+  "word": "energy",
+  "phonetic": "/ˈenədʒi/",
+  "pos": "n.",
+  "meaning": "能源（AI 運算的環境代價）",
+  "c": "ai"
+ },
+ {
+  "word": "describe",
+  "phonetic": "/dɪˈskraɪb/",
+  "pos": "v.",
+  "meaning": "描述（向 AI 说清楚你要什么）",
+  "c": "ai"
+ },
+ {
+  "word": "specify",
+  "phonetic": "/ˈspesɪfaɪ/",
+  "pos": "v.",
+  "meaning": "具體說明（給出細節與限制）",
+  "c": "ai"
+ },
+ {
+  "word": "clarify",
+  "phonetic": "/ˈklærəfaɪ/",
+  "pos": "v.",
+  "meaning": "澄清（讓 AI 或自己說得更明白）",
+  "c": "ai"
+ },
+ {
+  "word": "instruct",
+  "phonetic": "/ɪnˈstrʌkt/",
+  "pos": "v.",
+  "meaning": "指令（一步一步告訴 AI 做什麼）",
+  "c": "ai"
+ },
+ {
+  "word": "example",
+  "phonetic": "/ɪɡˈzɑːmpl/",
+  "pos": "n.",
+  "meaning": "例子（給 AI 示範你想要的樣子）",
+  "c": "ai"
+ },
+ {
+  "word": "summarize",
+  "phonetic": "/ˈsʌməraɪz/",
+  "pos": "v.",
+  "meaning": "總結（讓 AI 把長文壓短）",
+  "c": "ai"
+ },
+ {
+  "word": "feedback",
+  "phonetic": "/ˈfiːdbæk/",
+  "pos": "n.",
+  "meaning": "回饋（告訴 AI 哪裡不好，再試一次）",
+  "c": "ai"
+ },
+ {
+  "word": "iterate",
+  "phonetic": "/ˈɪtəreɪt/",
+  "pos": "v.",
+  "meaning": "迭代（一輪一輪改得更好）",
+  "c": "ai"
+ },
+ {
+  "word": "translate",
+  "phonetic": "/trænzˈleɪt/",
+  "pos": "v.",
+  "meaning": "翻譯",
+  "c": "ai"
+ },
+ {
+  "word": "compare",
+  "phonetic": "/kəmˈpeər/",
+  "pos": "v.",
+  "meaning": "比較（讓 AI 對比兩個東西）",
+  "c": "ai"
+ },
+ {
+  "word": "brainstorm",
+  "phonetic": "/ˈbreɪnstɔːm/",
+  "pos": "v.",
+  "meaning": "腦力激盪（和 AI 一起想點子）",
+  "c": "ai"
+ },
+ {
+  "word": "verify",
+  "phonetic": "/ˈverɪfaɪ/",
+  "pos": "v.",
+  "meaning": "驗證（檢查 AI 說的是不是真的）",
+  "c": "ai"
+ }
+]

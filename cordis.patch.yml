@@ -1,0 +1,6 @@
+# dsh-lazeword 组合补丁层：随 npm 包分发。
+# 声明了 dsh.bundle.patch 的包经 `dsh plugin --profile web add dsh-lazeword`
+# 自动加入 profile 的 bundles 层叠；本层只启用插件。
+- insert:
+    - id: lazeword
+      name: dsh-lazeword

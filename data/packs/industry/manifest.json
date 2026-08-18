@@ -1,0 +1,8 @@
+{
+  "id": "industry",
+  "order": 80,
+  "scenes": [{ "key": "industry", "zh": "工業製造（汽車/機械/工廠）" }],
+  "quizTypes": [],
+  "refSections": [],
+  "modules": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "people",
+  "order": 60,
+  "scenes": [{ "key": "people", "zh": "人與詞（開源大神）" }],
+  "quizTypes": [],
+  "refSections": [],
+  "modules": [],
+  "peopleFile": "people.json"
+}

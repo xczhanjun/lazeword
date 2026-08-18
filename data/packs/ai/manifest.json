@@ -1,0 +1,39 @@
+{
+  "id": "ai",
+  "order": 70,
+  "scenes": [
+    {
+      "key": "ai",
+      "zh": "AI 素養與安全"
+    }
+  ],
+  "quizTypes": [],
+  "refSections": [
+    {
+      "key": "ai-papers",
+      "zh": "AI 論文"
+    },
+    {
+      "key": "ai-safety",
+      "zh": "AI 安全與向善"
+    },
+    {
+      "key": "ai-chat",
+      "zh": "與 AI 對話"
+    },
+    {
+      "key": "ai-good",
+      "zh": "向善筆記"
+    },
+    {
+      "key": "ai-basics",
+      "zh": "AI 的基因與元素"
+    }
+  ],
+  "modules": [
+    "ai-ref.mjs",
+    "ai-basics.mjs"
+  ],
+  "papersFile": "papers.json",
+  "peopleFile": "people.json"
+}

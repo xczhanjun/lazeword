@@ -1,0 +1,7 @@
+{
+  "id": "cs",
+  "order": 75,
+  "scenes": [{ "key": "cs", "zh": "計算機與軟件工程" }],
+  "refSections": [{ "key": "cs-research", "zh": "自主研究" }],
+  "modules": ["cs-research.mjs"]
+}

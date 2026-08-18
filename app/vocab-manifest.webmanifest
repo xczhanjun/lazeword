@@ -1,0 +1,20 @@
+{
+  "name": "躺著背單詞",
+  "short_name": "躺著背單詞",
+  "description": "舒服地躺著背單詞 · 大字自動翻頁 · 家庭大屏 · 不累",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f1e8",
+  "theme_color": "#0f766e",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "vocab-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

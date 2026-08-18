@@ -1,0 +1,62 @@
+[
+  {
+    "id": "calculator-app",
+    "title": "Calculator",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file (inline CSS and JS, no external dependencies) that implements a working calculator. Requirements: number buttons 0-9, decimal point, clear, and four operations (+, -, ×, ÷); display shows current input and result; keyboard input works; divide-by-zero shows a friendly message; layout is responsive and works on both phone and desktop; buttons are large enough for a child's fingers; dark mode toggle."
+  },
+  {
+    "id": "todo-list",
+    "title": "Todo List",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file that implements a todo list app. Requirements: add a task by typing and pressing Enter; mark tasks complete with a checkbox; delete tasks; a counter shows remaining and completed counts; tasks persist in localStorage; empty state shows a friendly hint; responsive mobile-first layout; accessible keyboard navigation."
+  },
+  {
+    "id": "snake-game",
+    "title": "Snake Game",
+    "cat": "game",
+    "prompt": "Create a single self-contained HTML file that implements the classic snake game on an HTML canvas. Requirements: arrow keys and WASD control the snake; food appears at random positions; eating food grows the snake and increases the score; hitting a wall or the snake's own body ends the game; score and high score (localStorage) are displayed; a start button and a game-over overlay with restart; runs at a steady speed using requestAnimationFrame."
+  },
+  {
+    "id": "memory-card-game",
+    "title": "Memory Card Game",
+    "cat": "game",
+    "prompt": "Create a single self-contained HTML file that implements a memory card matching game. Requirements: 16 cards (8 pairs) with emoji icons; cards flip with a smooth CSS transition; matching pairs stay face-up, non-matching pairs flip back after a short delay; moves counter and timer; a win screen shows the total time and moves; a restart button reshuffles the cards; layout uses a responsive CSS grid."
+  },
+  {
+    "id": "pricing-page",
+    "title": "Pricing Page",
+    "cat": "layout",
+    "prompt": "Create a single self-contained HTML file that implements a pricing page for a fictional product. Requirements: three pricing tiers (Free, Pro, Team) with a highlighted recommended tier; each card lists features with check marks; monthly/yearly billing toggle that updates prices with a smooth transition; responsive layout: three columns on desktop, one column on mobile; hover effects on the cards; semantic HTML with proper headings; accessible contrast ratios."
+  },
+  {
+    "id": "responsive-dashboard",
+    "title": "Responsive Dashboard",
+    "cat": "layout",
+    "prompt": "Create a single self-contained HTML file that implements a responsive admin dashboard mockup. Requirements: sidebar navigation that collapses to a hamburger menu on mobile; top bar with search input and user avatar; main area with a grid of stat cards (charts can be simple CSS bar charts, no external libraries); a data table with hover highlighting; dark mode toggle that persists; CSS grid and flexbox only, no external frameworks."
+  },
+  {
+    "id": "weather-app-mockup",
+    "title": "Weather App Mockup",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file that implements a weather app mockup with fake data. Requirements: current weather card with a large temperature and an emoji icon; a 7-day forecast row; a city search input that filters a small hardcoded city list; unit toggle between Celsius and Fahrenheit with values converting correctly; a subtle background gradient that changes with the selected weather condition; responsive layout."
+  },
+  {
+    "id": "quiz-maker",
+    "title": "Quiz Maker",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file that implements a multiple-choice quiz app. Requirements: 8 questions about basic English vocabulary, each with 4 options; questions appear one at a time; selecting an answer highlights correct (green) and wrong (red) and shows a one-line explanation; a progress bar; final score screen with an encouraging message and a restart button; questions are defined in a JS array at the top of the script for easy editing; child-friendly large fonts."
+  },
+  {
+    "id": "countdown-timer",
+    "title": "Countdown Timer",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file that implements a countdown timer. Requirements: input minutes and seconds or quick preset buttons (5, 10, 25 minutes); large display in monospace; start, pause, and reset controls; visual progress ring or bar; a gentle sound or vibration pattern (Web Audio API beep, no external files) when time is up; the document title shows the remaining time; responsive and keyboard accessible."
+  },
+  {
+    "id": "color-palette-picker",
+    "title": "Color Palette Picker",
+    "cat": "tool",
+    "prompt": "Create a single self-contained HTML file that implements a color palette generator. Requirements: a generate button creates 5 random harmonious colors using HSL with a shared hue and varying saturation/lightness; clicking a swatch copies its hex value to the clipboard and shows a toast; a lock toggle keeps a swatch across regenerations; contrast ratio (WCAG AA) is computed and shown for each color against white; responsive grid of swatches; no external libraries."
+  }
+]

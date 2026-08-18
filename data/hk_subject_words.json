@@ -1,0 +1,1031 @@
+[
+  {
+    "word": "integer",
+    "phonetic": "/ˈɪntɪdʒər/",
+    "pos": "n.",
+    "meaning": "整數",
+    "c": "math"
+  },
+  {
+    "word": "fraction",
+    "phonetic": "/ˈfrækʃn/",
+    "pos": "n.",
+    "meaning": "分數",
+    "c": "math"
+  },
+  {
+    "word": "decimal",
+    "phonetic": "/ˈdesɪml/",
+    "pos": "n.",
+    "meaning": "小數",
+    "c": "math"
+  },
+  {
+    "word": "percentage",
+    "phonetic": "/pərˈsentɪdʒ/",
+    "pos": "n.",
+    "meaning": "百分比",
+    "c": "math"
+  },
+  {
+    "word": "equation",
+    "phonetic": "/ɪˈkweɪʒn/",
+    "pos": "n.",
+    "meaning": "方程",
+    "c": "math"
+  },
+  {
+    "word": "inequality",
+    "phonetic": "/ˌɪnɪˈkwɑːləti/",
+    "pos": "n.",
+    "meaning": "不等式",
+    "c": "math"
+  },
+  {
+    "word": "variable",
+    "phonetic": "/ˈveriəbl/",
+    "pos": "n.",
+    "meaning": "變量",
+    "c": "math"
+  },
+  {
+    "word": "coefficient",
+    "phonetic": "/ˌkoʊɪˈfɪʃnt/",
+    "pos": "n.",
+    "meaning": "係數",
+    "c": "math"
+  },
+  {
+    "word": "constant",
+    "phonetic": "/ˈkɑːnstənt/",
+    "pos": "n.",
+    "meaning": "常數",
+    "c": "math"
+  },
+  {
+    "word": "expression",
+    "phonetic": "/ɪkˈspreʃn/",
+    "pos": "n.",
+    "meaning": "表達式",
+    "c": "math"
+  },
+  {
+    "word": "formula",
+    "phonetic": "/ˈfɔːrmjələ/",
+    "pos": "n.",
+    "meaning": "公式",
+    "c": "math"
+  },
+  {
+    "word": "function",
+    "phonetic": "/ˈfʌŋkʃn/",
+    "pos": "n.",
+    "meaning": "函數",
+    "c": "math"
+  },
+  {
+    "word": "axis",
+    "phonetic": "/ˈæksɪs/",
+    "pos": "n.",
+    "meaning": "軸",
+    "c": "math"
+  },
+  {
+    "word": "coordinate",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "pos": "n.",
+    "meaning": "座標",
+    "c": "math"
+  },
+  {
+    "word": "graph",
+    "phonetic": "/ɡræf/",
+    "pos": "n.",
+    "meaning": "圖像",
+    "c": "math"
+  },
+  {
+    "word": "gradient",
+    "phonetic": "/ˈɡreɪdiənt/",
+    "pos": "n.",
+    "meaning": "斜率",
+    "c": "math"
+  },
+  {
+    "word": "intercept",
+    "phonetic": "/ˌɪntərˈsept/",
+    "pos": "n.",
+    "meaning": "截距",
+    "c": "math"
+  },
+  {
+    "word": "angle",
+    "phonetic": "/ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "角",
+    "c": "math"
+  },
+  {
+    "word": "triangle",
+    "phonetic": "/ˈtraɪæŋɡl/",
+    "pos": "n.",
+    "meaning": "三角形",
+    "c": "math"
+  },
+  {
+    "word": "polygon",
+    "phonetic": "/ˈpɑːliɡɑːn/",
+    "pos": "n.",
+    "meaning": "多邊形",
+    "c": "math"
+  },
+  {
+    "word": "circle",
+    "phonetic": "/ˈsɜːrkl/",
+    "pos": "n.",
+    "meaning": "圓",
+    "c": "math"
+  },
+  {
+    "word": "radius",
+    "phonetic": "/ˈreɪdiəs/",
+    "pos": "n.",
+    "meaning": "半徑",
+    "c": "math"
+  },
+  {
+    "word": "diameter",
+    "phonetic": "/daɪˈæmɪtər/",
+    "pos": "n.",
+    "meaning": "直徑",
+    "c": "math"
+  },
+  {
+    "word": "circumference",
+    "phonetic": "/sərˈkʌmfərəns/",
+    "pos": "n.",
+    "meaning": "圓周",
+    "c": "math"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈeriə/",
+    "pos": "n.",
+    "meaning": "面積",
+    "c": "math"
+  },
+  {
+    "word": "perimeter",
+    "phonetic": "/pəˈrɪmɪtər/",
+    "pos": "n.",
+    "meaning": "周長",
+    "c": "math"
+  },
+  {
+    "word": "volume",
+    "phonetic": "/ˈvɑːljuːm/",
+    "pos": "n.",
+    "meaning": "體積",
+    "c": "math"
+  },
+  {
+    "word": "parallel",
+    "phonetic": "/ˈpærəlel/",
+    "pos": "adj.",
+    "meaning": "平行的",
+    "c": "math"
+  },
+  {
+    "word": "perpendicular",
+    "phonetic": "/ˌpɜːrpənˈdɪkjələr/",
+    "pos": "adj.",
+    "meaning": "垂直的",
+    "c": "math"
+  },
+  {
+    "word": "congruent",
+    "phonetic": "/ˈkɑːŋɡruənt/",
+    "pos": "adj.",
+    "meaning": "全等的",
+    "c": "math"
+  },
+  {
+    "word": "similar",
+    "phonetic": "/ˈsɪmələr/",
+    "pos": "adj.",
+    "meaning": "相似的",
+    "c": "math"
+  },
+  {
+    "word": "symmetry",
+    "phonetic": "/ˈsɪmətri/",
+    "pos": "n.",
+    "meaning": "對稱",
+    "c": "math"
+  },
+  {
+    "word": "ratio",
+    "phonetic": "/ˈreɪʃioʊ/",
+    "pos": "n.",
+    "meaning": "比",
+    "c": "math"
+  },
+  {
+    "word": "average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "pos": "n.",
+    "meaning": "平均數",
+    "c": "math"
+  },
+  {
+    "word": "median",
+    "phonetic": "/ˈmiːdiən/",
+    "pos": "n.",
+    "meaning": "中位數",
+    "c": "math"
+  },
+  {
+    "word": "probability",
+    "phonetic": "/ˌprɑːbəˈbɪləti/",
+    "pos": "n.",
+    "meaning": "概率",
+    "c": "math"
+  },
+  {
+    "word": "theorem",
+    "phonetic": "/ˈθiːərəm/",
+    "pos": "n.",
+    "meaning": "定理",
+    "c": "math"
+  },
+  {
+    "word": "hypotenuse",
+    "phonetic": "/haɪˈpɑːtənuːs/",
+    "pos": "n.",
+    "meaning": "斜邊",
+    "c": "math"
+  },
+  {
+    "word": "exponent",
+    "phonetic": "/ɪkˈspoʊnənt/",
+    "pos": "n.",
+    "meaning": "指數",
+    "c": "math"
+  },
+  {
+    "word": "square root",
+    "phonetic": "/skwer ruːt/",
+    "pos": "n.",
+    "meaning": "平方根",
+    "c": "math"
+  },
+  {
+    "word": "prime number",
+    "phonetic": "/praɪm ˈnʌmbər/",
+    "pos": "n.",
+    "meaning": "質數",
+    "c": "math"
+  },
+  {
+    "word": "factor",
+    "phonetic": "/ˈfæktər/",
+    "pos": "n.",
+    "meaning": "因數",
+    "c": "math"
+  },
+  {
+    "word": "multiple",
+    "phonetic": "/ˈmʌltɪpl/",
+    "pos": "n.",
+    "meaning": "倍數",
+    "c": "math"
+  },
+  {
+    "word": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "pos": "n.",
+    "meaning": "酸",
+    "c": "science"
+  },
+  {
+    "word": "alkali",
+    "phonetic": "/ˈælkəlaɪ/",
+    "pos": "n.",
+    "meaning": "鹼",
+    "c": "science"
+  },
+  {
+    "word": "element",
+    "phonetic": "/ˈelɪmənt/",
+    "pos": "n.",
+    "meaning": "元素",
+    "c": "science"
+  },
+  {
+    "word": "compound",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "pos": "n.",
+    "meaning": "化合物",
+    "c": "science"
+  },
+  {
+    "word": "mixture",
+    "phonetic": "/ˈmɪkstʃər/",
+    "pos": "n.",
+    "meaning": "混合物",
+    "c": "science"
+  },
+  {
+    "word": "solution",
+    "phonetic": "/səˈluːʃn/",
+    "pos": "n.",
+    "meaning": "溶液",
+    "c": "science"
+  },
+  {
+    "word": "solvent",
+    "phonetic": "/ˈsɑːlvənt/",
+    "pos": "n.",
+    "meaning": "溶劑",
+    "c": "science"
+  },
+  {
+    "word": "solute",
+    "phonetic": "/ˈsɑːljuːt/",
+    "pos": "n.",
+    "meaning": "溶質",
+    "c": "science"
+  },
+  {
+    "word": "atom",
+    "phonetic": "/ˈætəm/",
+    "pos": "n.",
+    "meaning": "原子",
+    "c": "science"
+  },
+  {
+    "word": "molecule",
+    "phonetic": "/ˈmɑːlɪkjuːl/",
+    "pos": "n.",
+    "meaning": "分子",
+    "c": "science"
+  },
+  {
+    "word": "particle",
+    "phonetic": "/ˈpɑːrtɪkl/",
+    "pos": "n.",
+    "meaning": "微粒",
+    "c": "science"
+  },
+  {
+    "word": "density",
+    "phonetic": "/ˈdensəti/",
+    "pos": "n.",
+    "meaning": "密度",
+    "c": "science"
+  },
+  {
+    "word": "mass",
+    "phonetic": "/mæs/",
+    "pos": "n.",
+    "meaning": "質量",
+    "c": "science"
+  },
+  {
+    "word": "force",
+    "phonetic": "/fɔːrs/",
+    "pos": "n.",
+    "meaning": "力",
+    "c": "science"
+  },
+  {
+    "word": "energy",
+    "phonetic": "/ˈenərdʒi/",
+    "pos": "n.",
+    "meaning": "能量",
+    "c": "science"
+  },
+  {
+    "word": "friction",
+    "phonetic": "/ˈfrɪkʃn/",
+    "pos": "n.",
+    "meaning": "摩擦力",
+    "c": "science"
+  },
+  {
+    "word": "gravity",
+    "phonetic": "/ˈɡrævəti/",
+    "pos": "n.",
+    "meaning": "重力",
+    "c": "science"
+  },
+  {
+    "word": "pressure",
+    "phonetic": "/ˈpreʃər/",
+    "pos": "n.",
+    "meaning": "壓強",
+    "c": "science"
+  },
+  {
+    "word": "temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "pos": "n.",
+    "meaning": "温度",
+    "c": "science"
+  },
+  {
+    "word": "conductor",
+    "phonetic": "/kənˈdʌktər/",
+    "pos": "n.",
+    "meaning": "導體",
+    "c": "science"
+  },
+  {
+    "word": "insulator",
+    "phonetic": "/ˈɪnsəleɪtər/",
+    "pos": "n.",
+    "meaning": "絕緣體",
+    "c": "science"
+  },
+  {
+    "word": "voltage",
+    "phonetic": "/ˈvoʊltɪdʒ/",
+    "pos": "n.",
+    "meaning": "電壓",
+    "c": "science"
+  },
+  {
+    "word": "resistance",
+    "phonetic": "/rɪˈzɪstəns/",
+    "pos": "n.",
+    "meaning": "電阻",
+    "c": "science"
+  },
+  {
+    "word": "circuit",
+    "phonetic": "/ˈsɜːrkɪt/",
+    "pos": "n.",
+    "meaning": "電路",
+    "c": "science"
+  },
+  {
+    "word": "magnet",
+    "phonetic": "/ˈmæɡnət/",
+    "pos": "n.",
+    "meaning": "磁鐵",
+    "c": "science"
+  },
+  {
+    "word": "cell",
+    "phonetic": "/sel/",
+    "pos": "n.",
+    "meaning": "細胞",
+    "c": "science"
+  },
+  {
+    "word": "organism",
+    "phonetic": "/ˈɔːrɡənɪzəm/",
+    "pos": "n.",
+    "meaning": "生物",
+    "c": "science"
+  },
+  {
+    "word": "photosynthesis",
+    "phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+    "pos": "n.",
+    "meaning": "光合作用",
+    "c": "science"
+  },
+  {
+    "word": "respiration",
+    "phonetic": "/ˌrespəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "呼吸作用",
+    "c": "science"
+  },
+  {
+    "word": "digestion",
+    "phonetic": "/daɪˈdʒestʃən/",
+    "pos": "n.",
+    "meaning": "消化",
+    "c": "science"
+  },
+  {
+    "word": "reproduction",
+    "phonetic": "/ˌriːprəˈdʌkʃn/",
+    "pos": "n.",
+    "meaning": "生殖",
+    "c": "science"
+  },
+  {
+    "word": "habitat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "pos": "n.",
+    "meaning": "棲息地",
+    "c": "science"
+  },
+  {
+    "word": "ecosystem",
+    "phonetic": "/ˈiːkoʊsɪstəm/",
+    "pos": "n.",
+    "meaning": "生態系統",
+    "c": "science"
+  },
+  {
+    "word": "pollution",
+    "phonetic": "/pəˈluːʃn/",
+    "pos": "n.",
+    "meaning": "污染",
+    "c": "science"
+  },
+  {
+    "word": "evaporation",
+    "phonetic": "/ɪˌvæpəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "蒸發",
+    "c": "science"
+  },
+  {
+    "word": "condensation",
+    "phonetic": "/ˌkɑːndenˈseɪʃn/",
+    "pos": "n.",
+    "meaning": "凝結",
+    "c": "science"
+  },
+  {
+    "word": "melting",
+    "phonetic": "/ˈmeltɪŋ/",
+    "pos": "n.",
+    "meaning": "熔化",
+    "c": "science"
+  },
+  {
+    "word": "acid rain",
+    "phonetic": "/ˈæsɪd reɪn/",
+    "pos": "n.",
+    "meaning": "酸雨",
+    "c": "science"
+  },
+  {
+    "word": "absorption",
+    "phonetic": "/əbˈzɔːrpʃn/",
+    "pos": "n.",
+    "meaning": "吸收",
+    "c": "science"
+  },
+  {
+    "word": "electric current",
+    "phonetic": "/ɪˈlektrɪk ˈkɜːrənt/",
+    "pos": "n.",
+    "meaning": "電流",
+    "c": "science"
+  },
+  {
+    "word": "rectangle",
+    "phonetic": "/ˈrektæŋɡl/",
+    "pos": "n.",
+    "meaning": "長方形；矩形",
+    "c": "math"
+  },
+  {
+    "word": "square",
+    "phonetic": "/skwer/",
+    "pos": "n.",
+    "meaning": "正方形",
+    "c": "math"
+  },
+  {
+    "word": "quadrilateral",
+    "phonetic": "/ˌkwɑːdrɪˈlætərəl/",
+    "pos": "n.",
+    "meaning": "四邊形",
+    "c": "math"
+  },
+  {
+    "word": "parallelogram",
+    "phonetic": "/ˌpærəˈleləɡræm/",
+    "pos": "n.",
+    "meaning": "平行四邊形",
+    "c": "math"
+  },
+  {
+    "word": "rhombus",
+    "phonetic": "/ˈrɑːmbəs/",
+    "pos": "n.",
+    "meaning": "菱形",
+    "c": "math"
+  },
+  {
+    "word": "trapezium",
+    "phonetic": "/trəˈpiːziəm/",
+    "pos": "n.",
+    "meaning": "梯形",
+    "c": "math"
+  },
+  {
+    "word": "pentagon",
+    "phonetic": "/ˈpentəɡɑːn/",
+    "pos": "n.",
+    "meaning": "五邊形",
+    "c": "math"
+  },
+  {
+    "word": "hexagon",
+    "phonetic": "/ˈheksəɡɑːn/",
+    "pos": "n.",
+    "meaning": "六邊形",
+    "c": "math"
+  },
+  {
+    "word": "octagon",
+    "phonetic": "/ˈɑːktəɡɑːn/",
+    "pos": "n.",
+    "meaning": "八邊形",
+    "c": "math"
+  },
+  {
+    "word": "cube",
+    "phonetic": "/kjuːb/",
+    "pos": "n.",
+    "meaning": "立方體",
+    "c": "math"
+  },
+  {
+    "word": "cuboid",
+    "phonetic": "/ˈkjuːbɔɪd/",
+    "pos": "n.",
+    "meaning": "長方體",
+    "c": "math"
+  },
+  {
+    "word": "cylinder",
+    "phonetic": "/ˈsɪlɪndər/",
+    "pos": "n.",
+    "meaning": "圓柱體",
+    "c": "math"
+  },
+  {
+    "word": "sphere",
+    "phonetic": "/sfɪr/",
+    "pos": "n.",
+    "meaning": "球體",
+    "c": "math"
+  },
+  {
+    "word": "cone",
+    "phonetic": "/koʊn/",
+    "pos": "n.",
+    "meaning": "圓錐體",
+    "c": "math"
+  },
+  {
+    "word": "pyramid",
+    "phonetic": "/ˈpɪrəmɪd/",
+    "pos": "n.",
+    "meaning": "稜錐體；金字塔",
+    "c": "math"
+  },
+  {
+    "word": "prism",
+    "phonetic": "/ˈprɪzəm/",
+    "pos": "n.",
+    "meaning": "稜柱體",
+    "c": "math"
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "pos": "n.",
+    "meaning": "面",
+    "c": "math"
+  },
+  {
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "pos": "n.",
+    "meaning": "稜；邊",
+    "c": "math"
+  },
+  {
+    "word": "vertex",
+    "phonetic": "/ˈvɜːrteks/",
+    "pos": "n.",
+    "meaning": "頂點",
+    "c": "math"
+  },
+  {
+    "word": "right angle",
+    "phonetic": "/raɪt ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "直角",
+    "c": "math"
+  },
+  {
+    "word": "acute angle",
+    "phonetic": "/əˈkjuːt ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "鋭角",
+    "c": "math"
+  },
+  {
+    "word": "obtuse angle",
+    "phonetic": "/əbˈtuːs ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "鈍角",
+    "c": "math"
+  },
+  {
+    "word": "proportion",
+    "phonetic": "/prəˈpɔːrʃn/",
+    "pos": "n.",
+    "meaning": "比例",
+    "c": "math"
+  },
+  {
+    "word": "direct proportion",
+    "phonetic": "/dəˈrekt prəˈpɔːrʃn/",
+    "pos": "n.",
+    "meaning": "正比例",
+    "c": "math"
+  },
+  {
+    "word": "inverse proportion",
+    "phonetic": "/ˌɪnˈvɜːrs prəˈpɔːrʃn/",
+    "pos": "n.",
+    "meaning": "反比例",
+    "c": "math"
+  },
+  {
+    "word": "scale",
+    "phonetic": "/skeɪl/",
+    "pos": "n.",
+    "meaning": "比例尺；比例",
+    "c": "math"
+  },
+  {
+    "word": "rate",
+    "phonetic": "/reɪt/",
+    "pos": "n.",
+    "meaning": "比率；率",
+    "c": "math"
+  },
+  {
+    "word": "numerator",
+    "phonetic": "/ˈnuːməreɪtər/",
+    "pos": "n.",
+    "meaning": "分子",
+    "c": "math"
+  },
+  {
+    "word": "denominator",
+    "phonetic": "/dɪˈnɑːmɪneɪtər/",
+    "pos": "n.",
+    "meaning": "分母",
+    "c": "math"
+  },
+  {
+    "word": "proper fraction",
+    "phonetic": "/ˈprɑːpər ˈfrækʃn/",
+    "pos": "n.",
+    "meaning": "真分數",
+    "c": "math"
+  },
+  {
+    "word": "improper fraction",
+    "phonetic": "/ɪmˈprɑːpər ˈfrækʃn/",
+    "pos": "n.",
+    "meaning": "假分數",
+    "c": "math"
+  },
+  {
+    "word": "mixed number",
+    "phonetic": "/mɪkst ˈnʌmbər/",
+    "pos": "n.",
+    "meaning": "帶分數",
+    "c": "math"
+  },
+  {
+    "word": "reciprocal",
+    "phonetic": "/rɪˈsɪprəkl/",
+    "pos": "n.",
+    "meaning": "倒數",
+    "c": "math"
+  },
+  {
+    "word": "polynomial",
+    "phonetic": "/ˌpɑːliˈnoʊmiəl/",
+    "pos": "n.",
+    "meaning": "多項式",
+    "c": "math"
+  },
+  {
+    "word": "monomial",
+    "phonetic": "/məˈnoʊmiəl/",
+    "pos": "n.",
+    "meaning": "單項式",
+    "c": "math"
+  },
+  {
+    "word": "binomial",
+    "phonetic": "/baɪˈnoʊmiəl/",
+    "pos": "n.",
+    "meaning": "二項式",
+    "c": "math"
+  },
+  {
+    "word": "trinomial",
+    "phonetic": "/traɪˈnoʊmiəl/",
+    "pos": "n.",
+    "meaning": "三項式",
+    "c": "math"
+  },
+  {
+    "word": "term",
+    "phonetic": "/tɜːrm/",
+    "pos": "n.",
+    "meaning": "項",
+    "c": "math"
+  },
+  {
+    "word": "surface area",
+    "phonetic": "/ˈsɜːrfɪs ˈeriə/",
+    "pos": "n.",
+    "meaning": "表面積",
+    "c": "math"
+  },
+  {
+    "word": "unit",
+    "phonetic": "/ˈjuːnɪt/",
+    "pos": "n.",
+    "meaning": "單位",
+    "c": "math"
+  },
+  {
+    "word": "length",
+    "phonetic": "/leŋθ/",
+    "pos": "n.",
+    "meaning": "長度",
+    "c": "math"
+  },
+  {
+    "word": "centimetre",
+    "phonetic": "/ˈsentɪmiːtər/",
+    "pos": "n.",
+    "meaning": "釐米",
+    "c": "math"
+  },
+  {
+    "word": "millimetre",
+    "phonetic": "/ˈmɪlimiːtər/",
+    "pos": "n.",
+    "meaning": "毫米",
+    "c": "math"
+  },
+  {
+    "word": "kilometre",
+    "phonetic": "/ˈkɪləmiːtər/",
+    "pos": "n.",
+    "meaning": "千米；公里",
+    "c": "math"
+  },
+  {
+    "word": "gram",
+    "phonetic": "/ɡræm/",
+    "pos": "n.",
+    "meaning": "克",
+    "c": "math"
+  },
+  {
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləɡræm/",
+    "pos": "n.",
+    "meaning": "千克；公斤",
+    "c": "math"
+  },
+  {
+    "word": "litre",
+    "phonetic": "/ˈliːtər/",
+    "pos": "n.",
+    "meaning": "升",
+    "c": "math"
+  },
+  {
+    "word": "millilitre",
+    "phonetic": "/ˈmɪliliːtər/",
+    "pos": "n.",
+    "meaning": "毫升",
+    "c": "math"
+  },
+  {
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "pos": "n.",
+    "meaning": "度（角）",
+    "c": "math"
+  },
+  {
+    "word": "chord",
+    "phonetic": "/kɔːrd/",
+    "pos": "n.",
+    "meaning": "弦",
+    "c": "math"
+  },
+  {
+    "word": "tangent",
+    "phonetic": "/ˈtændʒənt/",
+    "pos": "n.",
+    "meaning": "切線",
+    "c": "math"
+  },
+  {
+    "word": "sector",
+    "phonetic": "/ˈsektər/",
+    "pos": "n.",
+    "meaning": "扇形",
+    "c": "math"
+  },
+  {
+    "word": "arc",
+    "phonetic": "/ɑːrk/",
+    "pos": "n.",
+    "meaning": "弧",
+    "c": "math"
+  },
+  {
+    "word": "segment",
+    "phonetic": "/ˈseɡmənt/",
+    "pos": "n.",
+    "meaning": "弓形",
+    "c": "math"
+  },
+  {
+    "word": "centre",
+    "phonetic": "/ˈsentər/",
+    "pos": "n.",
+    "meaning": "圓心；中心",
+    "c": "math"
+  },
+  {
+    "word": "semicircle",
+    "phonetic": "/ˈsemiˌsɜːrkl/",
+    "pos": "n.",
+    "meaning": "半圓",
+    "c": "math"
+  },
+  {
+    "word": "concentric",
+    "phonetic": "/kənˈsentrɪk/",
+    "pos": "adj.",
+    "meaning": "同心的",
+    "c": "math"
+  },
+  {
+    "word": "mode",
+    "phonetic": "/moʊd/",
+    "pos": "n.",
+    "meaning": "眾數",
+    "c": "math"
+  },
+  {
+    "word": "range",
+    "phonetic": "/reɪndʒ/",
+    "pos": "n.",
+    "meaning": "極差；範圍",
+    "c": "math"
+  },
+  {
+    "word": "variance",
+    "phonetic": "/ˈveriəns/",
+    "pos": "n.",
+    "meaning": "方差",
+    "c": "math"
+  },
+  {
+    "word": "sample",
+    "phonetic": "/ˈsæmpl/",
+    "pos": "n.",
+    "meaning": "樣本",
+    "c": "math"
+  },
+  {
+    "word": "frequency",
+    "phonetic": "/ˈfriːkwənsi/",
+    "pos": "n.",
+    "meaning": "頻數；頻率",
+    "c": "math"
+  },
+  {
+    "word": "data",
+    "phonetic": "/ˈdeɪtə/",
+    "pos": "n.",
+    "meaning": "數據",
+    "c": "math"
+  },
+  {
+    "word": "standard deviation",
+    "phonetic": "/ˈstændərd ˌdiːviˈeɪʃn/",
+    "pos": "n.",
+    "meaning": "標準差",
+    "c": "math"
+  }
+]

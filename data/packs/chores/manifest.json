@@ -1,0 +1,5 @@
+{
+  "id": "chores",
+  "order": 58,
+  "scenes": [{ "key": "chores", "zh": "家務（幫忙做家務）" }]
+}

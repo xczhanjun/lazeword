@@ -1,0 +1,9 @@
+{
+  "id": "hobby",
+  "order": 55,
+  "scenes": [
+    { "key": "model_aircraft", "zh": "航模（模型飛機）" },
+    { "key": "model_boat", "zh": "船模（模型船）" },
+    { "key": "ham_radio", "zh": "業餘無線電" }
+  ]
+}

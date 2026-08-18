@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.DS_Store
+.env
+.playwright-mcp/
+dist/
+
+# 数据源原始件与中间产物（获取/生成方式见 scripts/*.py 头部说明）
+data/raw/
+data/oxford5000.json
+data/oxford_exam.partial.json
+
+# Playwright
+/test-results/
+/playwright-report/

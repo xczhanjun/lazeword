@@ -1,0 +1,8 @@
+# 生成产物：GitHub 折叠显示（仓库偏重问题）——来源与构建见 scripts/build.mjs
+app/lazeword.html linguist-generated=true
+lib/client.js linguist-generated=true
+data/tokenizer/vocab.bpe.gz linguist-generated=true
+data/tokenizer/encoder.json.gz linguist-generated=true
+data/tokenizer/vocab.bpe linguist-generated=true
+data/tokenizer/encoder.json linguist-generated=true
+package-lock.json linguist-generated=true

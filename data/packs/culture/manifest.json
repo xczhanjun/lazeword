@@ -1,0 +1,8 @@
+{
+  "id": "culture",
+  "order": 50,
+  "scenes": [{ "key": "culture", "zh": "中華文化（經典詞句）" }],
+  "quizTypes": [],
+  "refSections": [],
+  "modules": []
+}

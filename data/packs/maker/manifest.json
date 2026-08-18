@@ -1,0 +1,9 @@
+{
+  "id": "maker",
+  "order": 60,
+  "scenes": [
+    { "key": "modeling_3d", "zh": "3D 建模與打印" },
+    { "key": "pcb", "zh": "PCB 製造" },
+    { "key": "biomed", "zh": "生物醫藥" }
+  ]
+}

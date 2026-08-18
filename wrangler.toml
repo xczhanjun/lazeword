@@ -1,0 +1,21 @@
+name = "lazeword"
+main = "worker/index.js"
+compatibility_date = "2026-08-16"
+
+# 自定义域名：zone 路由（deepedu.me 已在同一账号，DNS 与证书自动配置）
+routes = [{ pattern = "lazeword.deepedu.me/*", zone_name = "deepedu.me" }]
+workers_dev = true   # 同时保留 workers.dev 直链
+
+# 轻量级部署：单 worker 同源托管静态 app + /api/*（零 Pages、零服务器、免费额度内）
+# 访问：https://lazeword.tokencube.workers.dev/ 或 https://lazeword.deepedu.me/
+[assets]
+directory = "./app"
+binding = "ASSETS"
+not_found_handling = "none"   # 未命中的路径交回 worker（/api/* 与 / 入口由 handlers.js 处理）
+html_handling = "none"        # 关闭「干净 URL」自动重定向（保持 /lazeword.html 原样）
+
+# 敏感配置用 secret，不要写进文件：
+#   npx wrangler secret put DEEPSEEK_API_KEY
+#   npx wrangler secret put DEEPSEEK_MODEL    # 内部网关模型（deepseek-v4-flash）
+#   npx wrangler secret put DEEPSEEK_OTP      # 内部网关一次性口令
+# 本地调试：npx wrangler dev
