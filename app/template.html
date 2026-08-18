@@ -3813,9 +3813,16 @@ function initGame() {
     let pool = filteredWords().filter(w => /^[a-zA-Z][a-zA-Z' -]{4,}$/.test(w.w) && !/[一-鿿]/.test(w.w));
     if (pool.length < 6) pool = activeWords().filter(w => /^[a-zA-Z][a-zA-Z' -]{4,}$/.test(w.w) && !/[一-鿿]/.test(w.w));
     const rng = mulberry32((Date.now() * 2654435761) >>> 0);
-    const shuffled = [...pool];
-    for (let i = shuffled.length - 1; i > 0; i--) { const j = (rng() * (i + 1)) | 0; [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; }
-    const picked = shuffled.slice(0, 6).map(w => ({ w: letterGameWord(w.w), full: w.w.toLowerCase(), m: w.m }));
+    // 精品：错词优先——错题本的词排最前（游戏即复习，闭环）
+    const wrongWords = [...new Set(userData().wrong)].map(i => wordByIndex(i))
+      .filter(w => w && /^[a-zA-Z][a-zA-Z' -]{4,}$/.test(w.w) && !/[一-鿿]/.test(w.w));
+    const wrongSet = new Set(wrongWords.map(w => w.i));
+    const shuffledWrong = wrongWords.slice();
+    for (let i = shuffledWrong.length - 1; i > 0; i--) { const j = (rng() * (i + 1)) | 0; [shuffledWrong[i], shuffledWrong[j]] = [shuffledWrong[j], shuffledWrong[i]]; }
+    const rest = pool.filter(w => !wrongSet.has(w.i));
+    const shuffledRest = rest.slice();
+    for (let i = shuffledRest.length - 1; i > 0; i--) { const j = (rng() * (i + 1)) | 0; [shuffledRest[i], shuffledRest[j]] = [shuffledRest[j], shuffledRest[i]]; }
+    const picked = [...shuffledWrong.slice(0, 3), ...shuffledRest].slice(0, 6).map(w => ({ w: letterGameWord(w.w), full: w.w.toLowerCase(), m: w.m }));
     // 拥挤布局可能放不下全部词 → 换种子整板重试（保证 6 词全放置）
     let g = null;
     for (let attempt = 0; attempt < 20; attempt++) {
@@ -3886,6 +3893,11 @@ function initGame() {
         sndCorrect();
         const full = WORDS.find(w2 => w2.w.toLowerCase().startsWith(t.word));
         if (full) speak(full.w);
+        // 精品闭环：拼对一个词 → 写 know 事件（FSRS 记住，复习会安排它）
+        if (!letterDemo) {
+          const wi = WORDS.findIndex(w2 => w2.w.toLowerCase() === t.full);
+          if (wi >= 0) mutateUser(u => { touchActivity(u); appendTrajectory(u, "know", { w: wi, rating: 3 }); });
+        }
         if (s.targets.every(x => x.found)) {
           s.won = true;
           sndCombo(8);
